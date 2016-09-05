@@ -36,7 +36,7 @@ Here is our **[complete list](https://github.com/dwyl/contributing/labels)** of 
 - `in-progress` #009688 - to be added when an issue has been assigned
 - `in-review` #128A0C - once a PR has been submitted relating to the issue
 - `invalid` #E6E6E6 - GitHub standard tag (not used)
-- `please-test` #08E700 - added after PR is merged assign to product owner
+- `please-test` #08E700 - added after PR is merged (assign to product owner)
 - `priority-1` #0D47A1 - drop everything and work on this (used only when _completely_ neccessary)
 - `priority-2` #1976D2 - high priority issue (what needs doing now)
 - `priority-3` #42A5F5 - high priority (what needs doing next)
@@ -45,5 +45,5 @@ Here is our **[complete list](https://github.com/dwyl/contributing/labels)** of 
 - `question` #CC317C - for open questions and discussions
 - `T[x]d` #F06292 - time in 'x' days it should take
 - `T[x]h` #F7C6C7 - time in 'x' hours it should take
-- `technical` #D4C5F9 - technical task for developers
+- `technical` #D4C5F9 - technical issue for developers
 - `wontfix` #ffffff - when an issue won't be addressed (with reason why in comment)
