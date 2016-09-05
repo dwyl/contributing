@@ -52,6 +52,7 @@ Here is our **[complete list](https://github.com/dwyl/contributing/labels)** of 
 
 At dwyl we use _issues_ to log our user stories and technical tasks for a given project. User stories are higher level issues that describe certain functionalities of the application you're building. These user stories get broken down into smaller **_technical_** tasks. Here is our work flow step-by-step for creating and developing a user story and its technical tasks:
 
+Example user story: `As an admin I want to be able to create new users because I don't want unknown users to be able to use my application`
 
 #### Create the User Story and its Technical Tasks
 1. Create an issue for each of your user stories
