@@ -32,7 +32,7 @@ Here is our **[complete list](https://github.com/dwyl/contributing/labels)** of 
 - `bug` #EE0701 - report a bug that needs fixed
 - `duplicate` #CCCCCC - duplicate issue
 - `enhancement` #84B6EB - improving existing code
-- `help-wanted` #128A0C - looking for help
+- `help-wanted` #128A0C - looking for help or expertise on a subject
 - `in-progress` #009688 - to be added when an issue has been assigned
 - `in-review` #128A0C - once a PR has been submitted relating to the issue
 - `invalid` #E6E6E6 - GitHub standard tag (not used)
@@ -47,3 +47,5 @@ Here is our **[complete list](https://github.com/dwyl/contributing/labels)** of 
 - `T[x]h` #F7C6C7 - time in 'x' hours it should take
 - `technical` #D4C5F9 - technical issue for developers
 - `wontfix` #ffffff - when an issue won't be addressed (with reason why in comment)
+
+### Issues
