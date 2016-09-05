@@ -27,16 +27,15 @@ At dwyl we have created our _own_ standard list of labels that we use for each o
 
 Here is our **[complete list](https://github.com/dwyl/contributing/labels)** of labels and how they should be used:
 
-![labels](https://cloud.githubusercontent.com/assets/12450298/18248441/0520684c-7370-11e6-831d-a6bad571ff5a.png)
+![labels](https://cloud.githubusercontent.com/assets/12450298/18248682/afcd6974-7371-11e6-84bf-0cb9f4677d92.png)
 
-- `admin` #545B6B - issues for the administrator of the application
 - `bug` #EE0701 - report a bug that needs fixed
 - `duplicate` #CCCCCC - duplicate issue
 - `enhancement` #84B6EB - improving existing code
 - `help-wanted` #128A0C - looking for help
 - `in-progress` #009688 - to be added when an issue has been assigned
 - `in-review` #128A0C - once a PR has been submitted relating to the issue
-- `invalid` #E6E6E6 -
+- `invalid` #E6E6E6 - GitHub standard tag (not used)
 - `please-test` #08E700 - added after PR is merged assign to product owner
 - `priority-1` #0D47A1 - drop everything and work on this (used only when _completely_ neccessary)
 - `priority-2` #1976D2 - high priority issue (what needs doing now)
