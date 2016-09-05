@@ -49,3 +49,34 @@ Here is our **[complete list](https://github.com/dwyl/contributing/labels)** of 
 - `wontfix` #ffffff - when an issue won't be addressed (with reason why in comment)
 
 ### Issues
+
+At dwyl we use _issues_ to log our user stories and technical tasks for a given project. User stories are higher level issues that describe certain functionalities of the application you're building. These user stories get broken down into smaller **_technical_** tasks. Here is our work flow step-by-step for creating and developing a user story and its technical tasks:
+
+
+#### Create the User Story and its Technical Tasks
+1. Create an issue for each of your user stories
+2. Add an estimated time label for each
+3. Add a milestone to group the user story with its relevant sprint
+4. Split the user story into individual technical tasks
+5. Add an estimated time label for each task (**_documentation + development + tests_**)
+4. Add a priority label to each technical task (**_1-5_**)
+5. Add descriptive labels that describe the task in more detail
+
+#### Begin Work on the Technical Tasks
+1. Assign the technical task to someone on your team (_or yourself_)
+2. Add the 'in-progress' label to the task so that your team knows it is currently being worked on and when it began
+3. Update the `README.md` before working on a task: **what, why, how**
+4. Add comments to the technical task to update your team of your progress and any sticking points you might experience along the way (**_this allows people to help you more effectively and gives your client something measurable_**)
+5. Periodically check GitHub notifications to see if someone has responded to your comments
+6. If you haven't finished your current task by the end of the day take 1/2h to describe the progress you've made and what else needs doing. Anyone should be able to pick up and complete a user story by reading this description
+7. Every commit you make should reference a user story or technical task
+8. Once you've made a commit, push up your changes and then open a PR so that the rest of your team can easily see what you've been working on. Add `[WiP]` before the title of your PR and add that it's **NOT READY FOR REVIEW** in the description.
+
+#### Complete the Task
+1. Make sure all tests are passing and that your code coverage is 100%
+2. Increment the version of your application
+3. Remove the `[WiP]` from your PR title and change the description to **READY FOR REVIEW**
+4. Assign someone to review your pull request
+5. Delete the 'in-progress' label
+6. Update the time label if neccessary
+7. Close the user story referencing the PR
