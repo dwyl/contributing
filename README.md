@@ -43,14 +43,16 @@ Here is our **[complete list](https://github.com/dwyl/contributing/labels)** of 
 - `priority-4` #8DC9F9 - low priority (to be upgraded later)
 - `priority-5` #C5DEF5 - lowest priority (non-urgent changes)
 - `question` #CC317C - for open questions and discussions
-- `T[x]d` #F06292 - time in 'x' days it should take
-- `T[x]h` #F7C6C7 - time in 'x' hours it should take
+- `T[x]d` #F06292 - time in 'x' days it should take (estimation)
+- `T[x]h` #F7C6C7 - time in 'x' hours it should take (estimation)
 - `technical` #D4C5F9 - technical issue for developers
 - `wontfix` #ffffff - when an issue won't be addressed (with reason why in comment)
 
 ### Issues
 
 At dwyl we use _issues_ to log our user stories and technical tasks for a given project. User stories are higher level issues that describe certain functionalities of the application you're building. These user stories get broken down into smaller **_technical_** tasks. Here is our work flow step-by-step for creating and developing a user story and its technical tasks:
+
+**NOTE:** Please avoid working on something before a relevant issue has been opened. Once the issue has been discussed and accepted then work can begin to solve it. 
 
 Example user story: `As an admin I want to be able to create new users because I don't want unknown users to be able to use my application`
 
@@ -74,7 +76,7 @@ Example user story: `As an admin I want to be able to create new users because I
 8. Once you've made a commit, push up your changes and then open a PR so that the rest of your team can easily see what you've been working on. Add `[WiP]` before the title of your PR and add that it's **NOT READY FOR REVIEW** in the description.
 
 #### Complete the Task
-1. Make sure all tests are passing and that your code coverage is 100%
+1. Make sure all tests are passing and that your code coverage is ✅ 100%
 2. Increment the version of your application
 3. Remove the `[WiP]` from your PR title and change the description to **READY FOR REVIEW**
 4. Assign someone to review your pull request
