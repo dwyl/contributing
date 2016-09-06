@@ -23,6 +23,11 @@ See: https://github.com/dwyl/contributing/issues/1 + https://github.com/dwyl/sum
 
 Before you begin any work on a dwyl project please open an issue on the repository that you wish to contribute to. Issues need to be validated and agreed upon before work can begin (_avoiding any wasted work_). Opening an issue is a great way for a discussion to commence on the _perceived_ issue or feature addition.
 
+1. First read through the existing stories/issues for the project to familiarise yourself with the current "backlog".
+2. Think of the keywords associated with the story/issue you want to create.
+3. Perform a quick search through the existing issues for the project with the keywords you identified e.g: https://github.com/dwyl/time/issues?utf8=%E2%9C%93&q=is%3Aissue%20email if email was your keyword.
+4. Once you are (quite) sure there is no existing issue/story covering what you want to solve/create move on to creating ... (see: steps below)
+
 ### Labels
 
 GitHub can be a _great_ project management tool if used _effectively_. One of the ways you can manage your project backlog is through **labels**. Labels are a great way to **organise** and **track** the progress of a given project at _any_ point in time.
