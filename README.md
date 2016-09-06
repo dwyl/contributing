@@ -19,6 +19,10 @@ See: https://github.com/dwyl/contributing/issues/1 + https://github.com/dwyl/sum
 
 ## Recommended Guidelines
 
+### _Before_ You Start
+
+Before you begin any work on a dwyl project please open an issue on the repository that you wish to contribute to. Issues need to be validated and agreed upon before work can begin (_avoiding any wasted work_). Opening an issue is a great way for a discussion to commence on the _perceived_ issue or feature addition.
+
 ### Labels
 
 GitHub can be a _great_ project management tool if used _effectively_. One of the ways you can manage your project backlog is through **labels**. Labels are a great way to **organise** and **track** the progress of a given project at _any_ point in time.
@@ -84,4 +88,4 @@ Example user story: `As an admin I want to be able to create new users because I
 6. Update the time label if neccessary
 7. Close the user story referencing the PR
 
-_These guidelines for creating user stories are an adaptation of [Simon's](https://github.com/simonlab) [**user-story-checklist**](https://github.com/SimonLab/user-story-checklist) repo_
+_These guidelines for creating user stories are an adaptation of [Simon's](https://github.com/simonlab) [**user-story-checklist**](https://github.com/SimonLab/user-story-checklist) repo. Check it out!_
