@@ -48,6 +48,10 @@ Here is our **[complete list](https://github.com/dwyl/contributing/labels)** of 
 - `technical` #D4C5F9 - technical issue for developers
 - `wontfix` #ffffff - when an issue won't be addressed (with reason why in comment)
 
+### Issues
+
+At dwyl we use _issues_ to log our user stories and technical tasks for a given project. User stories are higher level issues that describe certain functionalities of the application you're building. These user stories get broken down into smaller **_technical_** tasks.
+
 ### Issues > Before You Start
 
 Before you begin any work on a dwyl project please open an issue on the repository that you wish to contribute to.
@@ -59,7 +63,11 @@ There must be a comment from at least one other person on the issue acknowledgin
 3. Perform a quick search through the existing issues for the project with the keywords you identified e.g: https://github.com/dwyl/time/issues?utf8=%E2%9C%93&q=is%3Aissue%20email if email was your keyword.
 4. Once you are (quite) sure there is no existing issue/story covering what you want to solve/create move on to creating ... (see: steps below)
 
-At dwyl we use _issues_ to log our user stories and technical tasks for a given project. User stories are higher level issues that describe certain functionalities of the application you're building. These user stories get broken down into smaller **_technical_** tasks. Here is our work flow step-by-step for creating and developing a user story and its technical tasks:
+### Issues > Validation
+
+After creating an issue/story (before you estimate the time required or start working on it) get people's input/feedback to confirm that the description of the story is clear, has enough detail and addresses a real need/issue.
+
+Here is our work flow step-by-step for creating and developing a user story and its technical tasks:
 
 **NOTE:** Please avoid working on something before a relevant issue has been opened. Once the issue has been discussed and accepted then work can begin to solve it.
 
