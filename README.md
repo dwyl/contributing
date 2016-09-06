@@ -56,7 +56,7 @@ At dwyl we use _issues_ to log our user stories and technical tasks for a given 
 
 Before you begin any work on a dwyl project please open an issue on the repository that you wish to contribute to.
 
-There must be a comment from at least one other person on the issue acknowledging it and/or confirming the requirement/bug before work starts. This is necessary to avoid doing unnecessary work. e.g. someone may have already solved that problem or implemented a similar feature on a different project and can point you in the direction of sample code or the PO/Client may deem the issue/story to be lower priority than something else on the list. The recommended workflow is as follows:
+There **_must_** be a **comment** from **at least one other person** on the issue acknowledging it and/or confirming the requirement/bug before work starts. This is necessary to avoid doing _unnecessary work_. e.g. someone may have already solved that problem or implemented a similar feature on a different project and can point you in the direction of sample code or the PO/Client may deem the issue/story to be lower priority than something else on the list. The recommended workflow is as follows:
 
 1. First read through the existing stories/issues for the project to familiarise yourself with the current "backlog".
 2. Think of the keywords associated with the story/issue you want to create.
@@ -66,6 +66,10 @@ There must be a comment from at least one other person on the issue acknowledgin
 ### Issues > Validation
 
 After creating an issue/story (before you estimate the time required or start working on it) get people's input/feedback to confirm that the description of the story is clear, has enough detail and addresses a real need/issue.
+
+This may feel a bit "bureaucratic" but (we find that on balance) it makes for better remote working because less discussion is "lost" and means everyone can follow along regardless of their location.
+
+>There **_must_** be a **comment** from **at least one other person** on the issue acknowledging it and/or confirming the requirement/bug before work starts. This is necessary to avoid doing _unnecessary work_. e.g. someone may have already solved that problem or implemented a similar feature on a different project and can point you in the direction of sample code or the PO/Client may deem the issue/story to be lower priority than something else on the list.
 
 Here is our work flow step-by-step for creating and developing a user story and its technical tasks:
 
