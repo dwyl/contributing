@@ -52,7 +52,7 @@ Here is our **[complete list](https://github.com/dwyl/contributing/labels)** of 
 
 At dwyl we use _issues_ to log our user stories and technical tasks for a given project. User stories are higher level issues that describe certain functionalities of the application you're building. These user stories get broken down into smaller **_technical_** tasks. Here is our work flow step-by-step for creating and developing a user story and its technical tasks:
 
-**NOTE:** Please avoid working on something before a relevant issue has been opened. Once the issue has been discussed and accepted then work can begin to solve it. 
+**NOTE:** Please avoid working on something before a relevant issue has been opened. Once the issue has been discussed and accepted then work can begin to solve it.
 
 Example user story: `As an admin I want to be able to create new users because I don't want unknown users to be able to use my application`
 
@@ -83,3 +83,5 @@ Example user story: `As an admin I want to be able to create new users because I
 5. Delete the 'in-progress' label
 6. Update the time label if neccessary
 7. Close the user story referencing the PR
+
+_These guidelines for creating user stories are an adaptation of [Simon's](https://github.com/simonlab) [**user-story-checklist**](https://github.com/SimonLab/user-story-checklist) repo_
