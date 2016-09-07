@@ -29,24 +29,29 @@ Here is our **[complete list](https://github.com/dwyl/contributing/labels)** of 
 
 ![labels](https://cloud.githubusercontent.com/assets/12450298/18248682/afcd6974-7371-11e6-84bf-0cb9f4677d92.png)
 
+Github gives you a pre-populated list of labels for you to use. They are:
+
 - `bug` #EE0701 - report a bug that needs fixed
 - `duplicate` #CCCCCC - duplicate issue
 - `enhancement` #84B6EB - improving existing code
 - `help-wanted` #128A0C - looking for help or expertise on a subject
+- `invalid` #E6E6E6 - GitHub standard tag (not used)
+- `question` #CC317C - for open questions and discussions
+- `wontfix` #ffffff - when an issue won't be addressed (with reason why in comment)
+
+Here are the custom ones that we use at dwyl:
+
 - `in-progress` #009688 - to be added when an issue has been assigned
 - `in-review` #128A0C - once a PR has been submitted relating to the issue
-- `invalid` #E6E6E6 - GitHub standard tag (not used)
 - `please-test` #08E700 - added after PR is merged (assign to product owner)
 - `priority-1` #0D47A1 - drop everything and work on this (used only when _completely_ neccessary)
 - `priority-2` #1976D2 - high priority issue (what needs doing now)
 - `priority-3` #42A5F5 - high priority (what needs doing next)
 - `priority-4` #8DC9F9 - low priority (to be upgraded later)
 - `priority-5` #C5DEF5 - lowest priority (non-urgent changes)
-- `question` #CC317C - for open questions and discussions
 - `T[x]d` #F06292 - time in 'x' days it should take (estimation)
 - `T[x]h` #F7C6C7 - time in 'x' hours it should take (estimation)
 - `technical` #D4C5F9 - technical issue for developers
-- `wontfix` #ffffff - when an issue won't be addressed (with reason why in comment)
 
 ### Issues
 
