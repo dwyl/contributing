@@ -38,13 +38,9 @@ At dwyl we use _issues_ to log our user stories and technical tasks for a given 
 
 After creating an issue/story (_before you estimate the time required or start working on it_) get people's input/feedback to _confirm_ that the description of the story is clear, has enough detail and addresses a real need/issue.
 
-This may feel a bit "_bureaucratic_" but (_we find that on balance_) it makes for better remote working because less discussion is "lost" and means everyone can follow along regardless of their location.
+This may feel a bit "_bureaucratic_" but (_we find that on balance_) it makes for better remote working because less discussion is "lost" and means everyone can follow along regardless of their location. See our [workflow](#workflow) above!
 
->There **_must_** be a **comment** from **at least one other person** on the issue acknowledging it and/or confirming the requirement/bug before work starts. This is necessary to avoid doing _unnecessary work_. e.g. someone may have already solved that problem or implemented a similar feature on a different project and can point you in the direction of sample code or the PO/Client may deem the issue/story to be lower priority than something else on the list.
-
-Here is our work flow step-by-step for creating and developing a user story and its technical tasks:
-
-**NOTE:** Please avoid working on something before a relevant issue has been opened. Once the issue has been discussed and accepted then work can begin to solve it.
+Here is our step-by-step process for creating and developing a user story and its technical tasks:
 
 Example user story: `As an admin I want to be able to create new users because I don't want unknown users to be able to use my application`
 
