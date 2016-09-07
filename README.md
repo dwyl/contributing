@@ -19,11 +19,7 @@ See: https://github.com/dwyl/contributing/issues/1 + https://github.com/dwyl/sum
 
 ## Recommended Guidelines
 
-### Issues
-
-At dwyl we use _issues_ to log our user stories and technical tasks for a given project. User stories are higher level issues that describe certain functionalities of the application you're building. These user stories get broken down into smaller **_technical_** tasks.
-
-### Issues > Before You Start
+### Workflow
 
 Before you begin any work on a dwyl project please open an issue on the repository that you wish to contribute to.
 
@@ -32,7 +28,11 @@ There **_must_** be a **comment** from **at least one other person** on the issu
 1. First read through the existing stories/issues for the project to familiarise yourself with the current "backlog".
 2. Think of the keywords associated with the story/issue you want to create.
 3. Perform a quick search through the existing issues for the project with the keywords you identified e.g: https://github.com/dwyl/time/issues?utf8=%E2%9C%93&q=is%3Aissue%20email if email was your keyword.
-4. Once you are (quite) sure there is no existing issue/story covering what you want to solve/create move on to creating ... (see: steps below)
+4. Once you are (quite) sure there is no existing issue/story covering what you want to solve/create, move on to [creating one](#create-the-user-story-and-its-technical-tasks)
+
+### Issues
+
+At dwyl we use _issues_ to log our user stories and technical tasks for a given project. User stories are higher level issues that describe certain functionalities of the application you're building. These user stories get broken down into smaller **_technical_** tasks.
 
 ### Issues > Validation
 
