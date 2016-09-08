@@ -79,7 +79,7 @@ _These guidelines for creating user stories are an adaptation of [Simon's](https
 At dwyl we like to work in the most ***agile*** way possible wherever we can. This even extends to how we submit and review our **pull requests**. You might have the tendency, if you have been working on a project, to bundle up all of your bug fixes/feature additions into one large PR and then submit it to be reviewed all at once. At dwyl we prefer working in smaller increments splitting the work into individual parts to be reviewed separately. We prefer this for a couple of reasons:
 
 + It allows us to keep track of the work more easily because it provides more descriptive reference points (paper trail) to which we can look back at in future if required
-+ It's gives the person who is reviewing the PR to focus on one thing at a time which improves the quality of the review
++ It gives the person reviewing the PR a single focus for the change/bug-fix which improves review speed.
 
 ### Labels
 
