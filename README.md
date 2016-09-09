@@ -74,6 +74,27 @@ Example user story: `As an admin I want to be able to create new users because I
 
 _These guidelines for creating user stories are an adaptation of [Simon's](https://github.com/simonlab) [**user-story-checklist**](https://github.com/SimonLab/user-story-checklist) repo. Check it out!_
 
+### Pull Requests
+
+At dwyl we like to work in the most ***agile*** way possible.
+This extends to how we submit and review our **pull requests**.
+
+> **Rule**: _**One thing** (feature or bug fix) **per pull request**_.
+
+You might be _tempted_, to bundle up _several_ bug fixes/feature additions into
+one _large_ PR and then submit it to be reviewed all at once.
+We prefer working in _smaller increments_ splitting the work
+into individual parts to be reviewed separately. The reasons are:
+
++ It allows us to keep track of the work more easily because it provides more
+_descriptive_ reference points
+("[_paper trail_](https://en.wiktionary.org/wiki/paper_trail)")
+to which we can look back at in future if required
++ It gives the person reviewing the PR a single focus for the change/bug-fix
+which improves review speed.
+
+> Further reading: "Working in Small Batches":  http://www.startuplessonslearned.com/2009/02/work-in-small-batches.html
+
 ### Labels
 
 GitHub can be a _great_ project management tool if used _effectively_. One of the ways you can manage your project backlog is through **labels**. Labels are a great way to **organise** and **track** the progress of a given project at _any_ point in time. [Here's why we choose to use GitHub](https://github.com/dwyl/github-reference#why)
