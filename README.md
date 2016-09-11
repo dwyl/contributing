@@ -1,6 +1,4 @@
-# contributing
-
-Guidelines for people contributing to dwyl projects
+# Contributing to dwyl projects
 
 Firstly, a ***heartfelt thankyou*** for even *considering* contributing to the dwyl project!
 We rely on contributions from *many* ***fantastic people*** to make dwyl a reality
@@ -94,6 +92,16 @@ to which we can look back at in future if required
 which improves review speed.
 
 > Further reading: "Working in Small Batches":  http://www.startuplessonslearned.com/2009/02/work-in-small-batches.html
+
++ **When you submit your pull request, include:**
+  + A **descriptive title** that answers the question "What does this PR do?"
+  + A reference to the issue that the PR solves
+  + An explanation of what the PR includes (**bullet pointed lists** are sometimes helpful to make things clearer) and the _implementation detail_
+  + An **update to the documentation** (often the repo's readme)
+  + Make sure your PR **adds tests** for the new code you have written
+  + If you have the permissions to do so, **assign your pull request** to someone for review (this person will be the first point of contact if the PR merges a bug into the production environment)
+  
+A good example is this one: https://github.com/indexzero/ps-tree/pull/12 ((created from the need which was confirmed in [this issue](https://github.com/indexzero/ps-tree/issues/10))).
 
 ### Labels
 
