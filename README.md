@@ -26,9 +26,9 @@ See: https://github.com/dwyl/contributing/issues/1 + https://github.com/dwyl/sum
 
 ### Workflow
 
-Before you begin any work on a dwyl project please open an issue on the repository that you wish to contribute to.
+Before you begin any work on a dwyl project please **open an issue** on the repository that you wish to contribute to.
 
-There **_must_** be a **comment** from **at least one other person** on the issue acknowledging it and/or confirming the requirement/bug before work starts. This is necessary to avoid doing _unnecessary work_. e.g. someone may have already solved that problem or implemented a similar feature on a different project and can point you in the direction of sample code or the PO/Client may deem the issue/story to be lower priority than something else on the list. The recommended workflow is as follows:
+There **_must_** be a **comment** from **at least one other person** on the issue acknowledging it and/or confirming the requirement/bug before work starts. This is necessary to avoid doing _unnecessary work_. e.g. someone may have already solved that problem or implemented a similar feature on a different project and can point you in the direction of sample code or the PO/Client may deem the issue/story to be lower priority than something else on the list. [Here's an example](https://github.com/dwyl/hapi-auth-jwt2/pull/140#issuecomment-178005901) of what we mean. The recommended workflow is as follows:
 
 1. First read through the existing stories/issues for the project to familiarise yourself with the current "backlog".
 2. Think of the keywords associated with the story/issue you want to create.
