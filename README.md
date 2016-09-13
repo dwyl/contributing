@@ -20,7 +20,7 @@ See: https://github.com/dwyl/contributing/issues/1 + https://github.com/dwyl/sum
 ### Contents
 + [Workflow](#workflow)
 + [Issues](#issues)
-  + [Issue Validation](#issues->-validation)
+  + [Issue Validation](#issues--validation)
 + [Pull Requests](#pull-requests)
 + [Labels](#labels)
 
