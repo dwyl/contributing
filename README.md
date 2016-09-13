@@ -17,6 +17,13 @@ See: https://github.com/dwyl/contributing/issues/1 + https://github.com/dwyl/sum
 
 ## Recommended Guidelines
 
+### Contents
++ [Workflow](#workflow)
++ [Issues](#issues)
+  + [Issue Validation](#issues--validation)
++ [Pull Requests](#pull-requests)
++ [Labels](#labels)
+
 ### Workflow
 
 Before you begin any work on a dwyl project please open an issue on the repository that you wish to contribute to.
@@ -100,7 +107,7 @@ which improves review speed.
   + An **update to the documentation** (often the repo's readme)
   + Make sure your PR **adds tests** for the new code you have written
   + If you have the permissions to do so, **assign your pull request** to someone for review (this person will be the first point of contact if the PR merges a bug into the production environment)
-  
+
 A good example is this one: https://github.com/indexzero/ps-tree/pull/12 ((created from the need which was confirmed in [this issue](https://github.com/indexzero/ps-tree/issues/10))).
 
 ### Labels
