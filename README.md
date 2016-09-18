@@ -22,6 +22,7 @@ See: https://github.com/dwyl/contributing/issues/1 + https://github.com/dwyl/sum
 + [Issues](#issues)
   + [Issue Validation](#issues--validation)
 + [Pull Requests](#pull-requests)
++ [Stars](#stars)
 + [Labels](#labels)
 
 ### Workflow
@@ -109,6 +110,13 @@ which improves review speed.
   + If you have the permissions to do so, **assign your pull request** to someone for review (this person will be the first point of contact if the PR merges a bug into the production environment)
 
 A good example is this one: https://github.com/indexzero/ps-tree/pull/12 ((created from the need which was confirmed in [this issue](https://github.com/indexzero/ps-tree/issues/10))).
+
+### Stars 🌟 (share the love!)
+
+***After you've contributed to one of our repos, or if you've found one of them helpful or useful in any way, please share the love by starring it.
+This shows other members in the developer community that it's a worthwhile project or learning resource and one that can offer value to other developers like you!*** 🌟
+
+
 
 ### Labels
 
