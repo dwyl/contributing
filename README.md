@@ -111,6 +111,16 @@ which improves review speed.
 
 A good example is this one: https://github.com/indexzero/ps-tree/pull/12 ((created from the need which was confirmed in [this issue](https://github.com/indexzero/ps-tree/issues/10))).
 
+#### Images and Binary Files
+
+When making a pull request, make sure that you haven't included any ***unnecessary*** files that will take up a lot of space.  
+Such files include images and other binary type files.  
+Git is meant for source code and other (text-based) files that require version control.   
+Images and other binary files are difficult for a human to review in a GitHub Pull Request.   
+This means that when ever a person clones/pulls the code they have to _download_ many/huge files (_not just the code which is typically tiny by comparison_)
+> It is a _general_ `git` "_best practice_" to avoid _clogging_ up your Git repo with files that don't need to be under version control.
+
+
 ### Stars 🌟 (share the love!)
 
 ***After you've contributed to one of our repos, or if you've found one of them helpful or useful in any way, please share the love by starring it.
