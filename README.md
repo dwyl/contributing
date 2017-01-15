@@ -1,11 +1,11 @@
 # Contributing to dwyl projects
 
 Firstly, a ***heartfelt thankyou*** for even *considering* contributing to the dwyl project!
-We rely on contributions from *many* ***fantastic people*** to make dwyl a reality
+We rely on contributions from *many* ***fantastic people*** to [make dwyl a reality](https://github.com/dwyl/start-here)
 and are *excited* that you are reading this in order to join the fun!
 
 We (dwyl) are building our company using the open source code others have published
-and consequently we think its *only fair* that everything we make is also open source.
+and consequently think its *only fair* that everything we make is also open source.
 
 We are releasing our work under the GNU General Public License Version 2 (GPL V.2)
 if you have any questions regarding the license, please read:
@@ -13,7 +13,7 @@ https://github.com/dwyl/intellectual-property and raise an
 [issue](https://github.com/dwyl/intellectual-property/issues)
 on GitHub if you require clarification!
 
-See: https://github.com/dwyl/contributing/issues/1 + https://github.com/dwyl/summer-2015/issues/27
+See: https://github.com/dwyl/contributing/issues/1
 
 ## Recommended Guidelines
 
@@ -25,20 +25,23 @@ See: https://github.com/dwyl/contributing/issues/1 + https://github.com/dwyl/sum
 + [Stars](#stars)
 + [Labels](#labels)
 
-### Workflow
+## Workflow
 
-Before you begin any work on a dwyl project please **open an issue** on the repository that you wish to contribute to.
+> Before you begin any work on a dwyl project **please open an issue** and **wait for acknowledgment of the need** on the repository that you wish to contribute to.
 
-There **_must_** be a **comment** from **at least one other person** on the issue acknowledging it and/or confirming the requirement/bug before work starts. This is necessary to avoid doing _unnecessary work_. e.g. someone may have already solved that problem or implemented a similar feature on a different project and can point you in the direction of sample code or the PO/Client may deem the issue/story to be lower priority than something else on the list. [Here's an example](https://github.com/dwyl/hapi-auth-jwt2/pull/140#issuecomment-178005901) of what we mean. The recommended workflow is as follows:
+There **_must_** be a **comment** from **at least one other person** on the issue acknowledging it and/or confirming the requirement/bug before work starts. This is necessary to avoid doing _unnecessary work_.  
+e.g. someone may have _already solved_ that problem or _implemented a similar feature on a different project_ and can point you in the direction of sample code or the PO/Client may deem the issue/story to be _lower priority than something else on the list_. [Here's an example](https://github.com/dwyl/hapi-auth-jwt2/pull/140#issuecomment-178005901) of what we mean.
 
-1. First read through the existing stories/issues for the project to familiarise yourself with the current "backlog".
-2. Think of the keywords associated with the story/issue you want to create.
-3. Perform a quick search through the existing issues for the project with the keywords you identified e.g: https://github.com/dwyl/time/issues?utf8=%E2%9C%93&q=is%3Aissue%20email if email was your keyword.
-4. Once you are (quite) sure there is no existing issue/story covering what you want to solve/create, move on to [creating one](#create-the-user-story-and-its-technical-tasks)
+### 1. Verify the need for what you are proposing
+
+1. Read through the existing stories/issues for the project to familiarise yourself with the current "backlog".
+2. *Search through the existing issues*˜ for keywords associated with the story/issue you want to create, e.g: https://github.com/dwyl/time/issues?utf8=%E2%9C%93&q=is%3Aissue%20email if email was your keyword.
+4. Once you are (quite) sure there is no existing issue/story covering what you want to solve/create, move on to [creating one](#2.-create-the-user-story-and-its-technical-tasks).
 
 ### Issues
 
-At dwyl we use _issues_ to log our user stories and technical tasks for a given project. User stories are higher level issues that describe certain functionalities of the application you're building. These user stories get broken down into smaller **_technical_** tasks.
+At dwyl we use _issues_ to log our user stories and technical tasks to ensure we have a [single version of the truth](https://github.com/dwyl/github-reference#why).  
+User stories describe features of the application in terms of their value to the *user*. These are broken down into smaller **_technical_** tasks where needed.
 
 ### Issues > Validation
 
@@ -46,37 +49,40 @@ After creating an issue/story (_before you estimate the time required or start w
 
 This may feel a bit "_bureaucratic_" but (_we find that on balance_) it makes for better remote working because less discussion is "lost" and means everyone can follow along regardless of their location. See our [workflow](#workflow) above!
 
-Here is our step-by-step process for creating and developing a user story and its technical tasks:
+
+
+#### 2. Create the User Story and its Technical Tasks
 
 Example user story: `As an admin I want to be able to create new users because I don't want unknown users to be able to use my application`
 
-#### Create the User Story and its Technical Tasks
-1. Create an issue for each of your user stories
-2. Add an estimated time label for each
-3. Add a milestone to group the user story with its relevant sprint
-4. Split the user story into individual technical tasks
-5. Add an estimated time label for each task (**_documentation + development + tests_**)
-4. Add a priority label to each technical task (**_1-5_**)
-5. Add descriptive labels that describe the task in more detail
+1. Create an issue for your user story
++ Add a priority label to the issue (**_1-5_**)
++ Add [any other labels](https://github.com/dwyl/labels/labels) that apply
++ Split the user story into individual technical tasks _where needed_ (not required for a single task/small user story)
++ Add an estimated time label for each task (**_documentation + development + tests + styling (if applicable)_**)
++ Add a time estimate to the _user story_ (derived from technical tasks)
++ Await acknowledgment of the need for the user story **before beginning any work**
 
-#### Begin Work on the Technical Tasks
-1. Assign the technical task to someone on your team (_or yourself_)
-2. Add the 'in-progress' label to the task so that your team knows it is currently being worked on and when it began
+_Note:_ For work in sprints, a **milestone** is added **at the sprint planning session** to group the user story with its relevant sprint.
+
+#### 3. Work on the Technical Tasks
+1. Assign the technical task to yourself
+2. Add the `in-progress` label to the task so that your team knows it is currently being worked on and when it began
 3. Update the `README.md` before working on a task: **what, why, how**
-4. Add comments to the technical task to update your team of your progress and any sticking points you might experience along the way (**_this allows people to help you more effectively and gives your client something measurable_**)
-5. Periodically check GitHub notifications to see if someone has responded to your comments
-6. If you haven't finished your current task by the end of the day take 1/2h to describe the progress you've made and what else needs doing. Anyone should be able to pick up and complete a user story by reading this description
-7. Every commit you make should reference a user story or technical task
-8. Once you've made a commit, push up your changes and then open a PR so that the rest of your team can easily see what you've been working on. Add `[WiP]` before the title of your PR and add that it's **NOT READY FOR REVIEW** in the description.
+4. [Add comments to the issue as you work](https://github.com/dwyl/learn-nightwatch/issues/8) to update your team of your progress and any sticking points you might experience along the way (**_this allows people to help you more effectively and gives your client something measurable_**)
+  + If you haven't finished your current task by the end of the day, take 10 minutes to describe the progress you've made and what else needs doing - anyone should be able to pick up and complete a user story by reading this description
++ **Every commit you make should reference a user story or technical task**
++ Once you've made a commit, push up your changes and then open a PR _(even if the work isn't yet finished)_ so that the rest of your team can easily see what you've been working on
+  + Add `[WiP]` before the title of your PR and add that it's **NOT READY FOR REVIEW** in the description if it's still in progress
 
-#### Complete the Task
+#### 4. Complete the Task
 1. Make sure all tests are passing and that your code coverage is ✅ 100%
-2. Increment the version of your application
-3. Remove the `[WiP]` from your PR title and change the description to **READY FOR REVIEW**
-4. Assign someone to review your pull request
-5. Delete the 'in-progress' label
-6. Update the time label if neccessary
-7. Close the user story referencing the PR
++ Increment the version of your application
++ Remove the `[WiP]` from your PR title and change the description to **READY FOR REVIEW**
++ Make sure your pull request is [ready for review](#pull-requests)
++ Assign someone to review your pull request
++ Delete the `in-progress` label and _add an `in-review` label_
++ Update the time label if necessary
 
 _These guidelines for creating user stories are an adaptation of [Simon's](https://github.com/simonlab) [**user-story-checklist**](https://github.com/SimonLab/user-story-checklist) repo. Check it out!_
 
