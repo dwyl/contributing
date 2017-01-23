@@ -20,6 +20,13 @@ with the story/issue you want to create, <br />
 e.g: https://github.com/dwyl/time/issues?utf8=%E2%9C%93&q=is%3Aissue%20app+icon
 if `email` was your keyword.
 
+![issue-matching-keyword-search](https://cloud.githubusercontent.com/assets/194400/22225715/852d9f78-e1bb-11e6-9d20-37492da92dc1.png)
+
+1. if you ***find*** an _existing_ issue that matches what you were looking for,
+please ***comment*** on it so we know more than one person has the need/issue.
+
+![issue-search-for-app-icon](https://cloud.githubusercontent.com/assets/24758860/22225508/993c7ecc-e1ba-11e6-8a53-e8d2ac398546.png)
+
 1. Otherwise, if you are (_reasonably_) sure there is no _existing_ issue/story
 covering what you have in mind, create a new issue (_see next step_!)
 
