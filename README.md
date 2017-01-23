@@ -10,8 +10,6 @@ and are *excited* that you are reading this in order to join the fun!
 
 ### Contents
 + [Workflow](#workflow)
-+ [Issues](#issues)
-  + [Issue Validation](#issues--validation)
 + [Pull Requests](#pull-requests)
 + [Stars](#stars)
 + [Labels](#labels)
