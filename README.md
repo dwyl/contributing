@@ -1,48 +1,77 @@
 ![welcome-teal](https://cloud.githubusercontent.com/assets/194400/22215755/76cb4dbc-e194-11e6-95ed-7def95e68f14.png)
 
-Firstly, a ***heartfelt thank you*** for contributing to this project! <br />
-We rely on contributions from *many* ***fantastic people*** to [make dwyl a reality](https://github.com/dwyl/start-here)
-and are *excited* that you are reading this in order to join the fun!
+Firstly, a ***heartfelt thank you*** for
+making time to contribute to this project! <br />
+As a _distributed_ team we _rely_ on the contributing guide steps
+to keep our communication clear. <br />
+_Please_ let us know if anything is _unclear_
+or if you have any suggestions
+for how to simplify things.
+
+## _New_ To The Project?
+
+### Step 1: Check if the Idea/Story/Issue _Already Exists_ Using GitHub  ![search](https://cloud.githubusercontent.com/assets/194400/22224334/255930a8-e1b6-11e6-9953-12cd4739aa1c.png)
+
+1. Please take a minute to **read through the existing stories/issues**
+for the project to familiarize yourself with the current "backlog".
+
+1. Try **searching** through the existing issues for _keywords_ associated
+with the story/issue you want to create, <br />
+e.g: https://github.com/dwyl/time/issues?utf8=%E2%9C%93&q=is%3Aissue%20app+icon
+if `email` was your keyword.
+
+1. Otherwise, if you are (_reasonably_) sure there is no _existing_ issue/story
+covering what you have in mind, create a new issue (_see next step_!)
 
 
-## Recommended Guidelines
+### Step 2. Create a New User Story _or_ Report an Issue ![New Issue](https://cloud.githubusercontent.com/assets/194400/22224203/bbc5efb4-e1b5-11e6-9fcb-3aae75ae74ed.png)
 
-### Contents
-+ [Workflow](#workflow)
-+ [Pull Requests](#pull-requests)
-+ [Stars](#stars)
-+ [Labels](#labels)
+1. Using the `New Issue` button, create an issue for the user story or issue
 
-## Workflow
-
-
-### 1. Verify the need/issue
-
-1. **Read through the existing stories/issues** for the project to familiarise
-yourself with the current "backlog".
-
-1. **Search** through the existing issues for keywords associated with the
-story/issue you want to create, e.g: https://github.com/dwyl/time/issues?utf8=%E2%9C%93&q=is%3Aissue%20email
-if email was your keyword.
-
-1. Once you are (quite) sure there is no existing issue/story covering what you
-want to solve/create, move on to
-[creating a new issue](#2.-create-the-user-story-and-its-technical-tasks).
-
-
-### 2. Create the User Story
-
-Example user story: `As an admin I want to be able to create new users because I don't want unknown users to be able to use my application`
-
-1. Create an issue for your user story
-
-  + A good user story describes the problem.
-  + It should include all the information necessary for the Product Owner to
-  decide if it is a necessary/desired feature.
+  + A good user story describes the problem in a concise user-focussed way:
+  Example user story:
+  ```
+  As a person using the app
+  I want to be able to save my preferences for content
+  so that I can see content that is relevant to me when I open the app.
+  ```
+  or if you are reporting an issue/bug/fault try and include
+  the exact steps to "_reproduce_" the issue. example:
+  ```
+  when using the app on
+  ```
+  + Please *include* as much ***relevant information*** as you can
+  so the Product Owner (_or project leader_) can decide if
+  it is a necessary/desired feature.
+  Example of useful details:
+  ```
+  People using the app will only access the app from their company-issued
+  Android (Lollipop) Mobile phone (5 inch Samsung Galaxy J)
+  The screen resolution of 1080 x 1920 pixels
+  ```
+  or
+  ```
+  People use the app in areas with poor mobile signal
+  so the app has to work offline and sync data/changes later when on wifi.
+  ```
+  or for a when reporting an issue (_potential bug_):
+  ```
+  People using Windows 8 and Internet Explorer 10 report that
+  they cannot click on the button to save their settings.
+  ```
 + **Before beginning any work**, await confirmation of the need for the user
 story from the Product owner (or Project Maintainer).
-+ That's it! You don't need to do anything else until the need is confirmed and prioritised. You can check back later to see if this has happened.
++ That's it! You don't need to do anything else until the need is confirmed and prioritized. You can check back later to see if this has happened.
 
+Verify the Need/Issue
+
+
+> **Note**: if you have a security/privacy related question that you want
+to ask or disclose privately, please email us: [hello+security@dwyl.io](mailto:hello+security@dwyl.io)
+
+<br />
+
+## Existing Team Members
 
 ### 3. After need is confirmed
 
