@@ -1,5 +1,7 @@
 ![welcome-teal](https://cloud.githubusercontent.com/assets/194400/22215755/76cb4dbc-e194-11e6-95ed-7def95e68f14.png)
 
+### “_Every thought, every word, and every action that adds to the positive and the wholesome is a contribution to peace. Each and every one of us is capable of making such a contribution_.” ~ Aung San Suu Kyi
+
 Firstly, a ***heartfelt thank you*** for
 making time to contribute to this project! <br />
 As a _distributed_ team we _rely_ on the contributing guide steps
@@ -10,7 +12,7 @@ for how to simplify things.
 
 ## _New_ To The Project?
 
-### Step 1: Check if the Idea/Story/Issue _Already Exists_ Using GitHub  ![search](https://cloud.githubusercontent.com/assets/194400/22224334/255930a8-e1b6-11e6-9953-12cd4739aa1c.png)
+### Step 1: Check if the Idea/Story/Issue _Already Exists_ Using GitHub Search ![search](https://cloud.githubusercontent.com/assets/194400/22224334/255930a8-e1b6-11e6-9953-12cd4739aa1c.png)
 
 1. Please take a minute to **read through the existing stories/issues**
 for the project to familiarize yourself with the current "backlog".
@@ -34,16 +36,19 @@ covering what you have in mind, create a new issue (_see next step_!)
 ### Step 2. Create a New User Story _or_ Report an Issue ![New Issue](https://cloud.githubusercontent.com/assets/194400/22224203/bbc5efb4-e1b5-11e6-9fcb-3aae75ae74ed.png)
 
 1. Using the `New Issue` button, create an issue for the user story or issue
+  you have in mind.
 
-  + A good user story describes the problem in a concise user-focussed way:
-  Example user story:
+  + A _good_ user story _describes_ the idea
+  in a _**concise** and **user-focussed**_ way. <br />
+  Example user story (_if the feature has not been described before_):
   ```
-  As a person using the app
-  I want to be able to save my preferences for content
-  so that I can see content that is relevant to me when I open the app.
+  As a person using the Web App
+  I want to be able to save a shortcut app icon to my home screen
+  so that I can easily get back into the app without having to navigate to it.
   ```
   or if you are reporting an issue/bug/fault try and include
-  the exact steps to "_reproduce_" the issue. example:
+  the exact steps to "_reproduce_" the issue. <br />
+  example:
   ```
   when using the app on
   ```
