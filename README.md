@@ -1,39 +1,44 @@
 ![welcome-teal](https://cloud.githubusercontent.com/assets/194400/22215755/76cb4dbc-e194-11e6-95ed-7def95e68f14.png)
 
-### “_Every thought, every word, and every action that adds to the positive and the wholesome is a contribution to peace. Each and every one of us is capable of making such a contribution_.” ~ Aung San Suu Kyi
+> “_Every thought, every word, and every action
+that adds to the positive and the wholesome is a contribution to peace. <br />
+Each and every one of us is capable of making such a contribution_.”
+~ [Aung San Suu Kyi](https://en.wikipedia.org/wiki/Aung_San_Suu_Kyi)
 
 Firstly, a ***heartfelt thank you*** for
 making time to contribute to this project! <br />
-As a _distributed_ team we _rely_ on the contributing guide steps
-to keep our communication clear. <br />
+As a _distributed_ team we _rely_ on people to follow the steps
+in the contributing guide to keep our communication clear. <br />
 _Please_ let us know if anything is _unclear_
-or if you have any suggestions
-for how to simplify things.
+or if you have any suggestions for how to simplify/streamline things.
 
 ## _New_ To The Project?
 
 ### Step 1: Check if the Idea/Story/Issue _Already Exists_ Using GitHub Search ![search](https://cloud.githubusercontent.com/assets/194400/22224334/255930a8-e1b6-11e6-9953-12cd4739aa1c.png)
 
-1. Please take a minute to **read through the existing stories/issues**
+1. Please take a minute to ***read through the existing stories/issues***
 for the project to familiarize yourself with the current "backlog".
 
-1. Try **searching** through the existing issues for _keywords_ associated
-with the story/issue you want to create, <br />
-e.g: https://github.com/dwyl/time/issues?utf8=%E2%9C%93&q=is%3Aissue%20app+icon
-if `email` was your keyword.
+1. Try ***searching*** through the ***existing issues***
+for _keywords_ associated with the story/issue you want to create, <br />
+e.g:
+https://github.com/dwyl/time/issues?utf8=%E2%9C%93&q=is%3Aissue%20app+icon <br/>
+if `"app icon"` were your keywords and you're searching in the "**Time**" project.
 
 ![issue-matching-keyword-search](https://cloud.githubusercontent.com/assets/194400/22225715/852d9f78-e1bb-11e6-9d20-37492da92dc1.png)
 
 1. if you ***find*** an _existing_ issue that matches what you were looking for,
-please ***comment*** on it so we know more than one person has the need/issue.
+_please_ click on the title of the issue, ***read the description*** to
+confirm if it's what you are looking for, then ***comment*** on it
+so we know more than one person has the need/issue.
 
 ![issue-search-for-app-icon](https://cloud.githubusercontent.com/assets/24758860/22225508/993c7ecc-e1ba-11e6-8a53-e8d2ac398546.png)
 
 1. Otherwise, if you are (_reasonably_) sure there is no _existing_ issue/story
-covering what you have in mind, create a new issue (_see next step_!)
+covering what you have in mind, _please_ create a new issue (_see next step_!)
 
 
-### Step 2. Create a New User Story _or_ Report an Issue ![New Issue](https://cloud.githubusercontent.com/assets/194400/22224203/bbc5efb4-e1b5-11e6-9fcb-3aae75ae74ed.png)
+### Step 2: Create a New User Story _or_ Report an Issue ![New Issue](https://cloud.githubusercontent.com/assets/194400/22224203/bbc5efb4-e1b5-11e6-9fcb-3aae75ae74ed.png)
 
 1. Using the `New Issue` button, create an issue for the user story or issue
   you have in mind.
@@ -50,7 +55,9 @@ covering what you have in mind, create a new issue (_see next step_!)
   the exact steps to "_reproduce_" the issue. <br />
   example:
   ```
-  when using the app on
+  when using the app on an iPhone 6 running the latest OS (10.2)
+  when I attempt to save a shortcut to my home screen,
+  I do not see an app icon. :-(
   ```
   + Please *include* as much ***relevant information*** as you can
   so the Product Owner (_or project leader_) can decide if
@@ -59,18 +66,21 @@ covering what you have in mind, create a new issue (_see next step_!)
   ```
   People using the app will only access the app from their company-issued
   Android (Lollipop) Mobile phone (5 inch Samsung Galaxy J)
-  The screen resolution of 1080 x 1920 pixels
+  The screen resolution is 1080 x 1920 pixels
   ```
-  or
+  or describing a specific need for "_offline capability_"
   ```
   People use the app in areas with poor mobile signal
-  so the app has to work offline and sync data/changes later when on wifi.
+  so the app has to work offline and sync data/changes later
+  when they are back on WiFi or 3G.
   ```
   or for a when reporting an issue (_potential bug_):
   ```
   People using Windows 8 and Internet Explorer 10 report that
-  they cannot click on the button to save their settings.
+  they cannot click on the button to save their app preferences/settings.
   ```
+
+### Step 3:
 + **Before beginning any work**, await confirmation of the need for the user
 story from the Product owner (or Project Maintainer).
 + That's it! You don't need to do anything else until the need is confirmed and prioritized. You can check back later to see if this has happened.
@@ -83,7 +93,7 @@ to ask or disclose privately, please email us: [hello+security@dwyl.io](mailto:h
 
 <br />
 
-## Existing Team Members
+## Existing Team Members _Verify_ User Stories/Issues
 
 ### 3. After need is confirmed
 
