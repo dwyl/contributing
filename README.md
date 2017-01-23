@@ -1,19 +1,10 @@
 # Contributing to dwyl projects
 
-Firstly, a ***heartfelt thankyou*** for even *considering* contributing to the dwyl project!
+Firstly, a ***heartfelt thank you*** for even *considering* contributing to the
+dwyl project. <br />
 We rely on contributions from *many* ***fantastic people*** to [make dwyl a reality](https://github.com/dwyl/start-here)
 and are *excited* that you are reading this in order to join the fun!
 
-We (dwyl) are building our company using the open source code others have published
-and consequently think its *only fair* that everything we make is also open source.
-
-We are releasing our work under the GNU General Public License Version 2 (GPL V.2)
-if you have any questions regarding the license, please read:
-https://github.com/dwyl/intellectual-property and raise an
-[issue](https://github.com/dwyl/intellectual-property/issues)
-on GitHub if you require clarification!
-
-See: https://github.com/dwyl/contributing/issues/1
 
 ## Recommended Guidelines
 
@@ -27,16 +18,19 @@ See: https://github.com/dwyl/contributing/issues/1
 
 ## Workflow
 
-> Before you begin any work on a dwyl project **please open an issue** and **wait for acknowledgment of the need** on the repository that you wish to contribute to.
 
-There **_must_** be a **comment** from **at least one other person** on the issue acknowledging it and/or confirming the requirement/bug before work starts. This is necessary to avoid doing _unnecessary work_.  
-e.g. someone may have _already solved_ that problem or _implemented a similar feature on a different project_ and can point you in the direction of sample code or the PO/Client may deem the issue/story to be _lower priority than something else on the list_. [Here's an example](https://github.com/dwyl/hapi-auth-jwt2/pull/140#issuecomment-178005901) of what we mean.
+### 1. Verify the need/issue
 
-### 1. Verify the need for what you are proposing
+1. **Read through the existing stories/issues** for the project to familiarise
+yourself with the current "backlog".
 
-1. Read through the existing stories/issues for the project to familiarise yourself with the current "backlog".
-2. *Search through the existing issues*˜ for keywords associated with the story/issue you want to create, e.g: https://github.com/dwyl/time/issues?utf8=%E2%9C%93&q=is%3Aissue%20email if email was your keyword.
-4. Once you are (quite) sure there is no existing issue/story covering what you want to solve/create, move on to [creating one](#2.-create-the-user-story-and-its-technical-tasks).
+1. **Search** through the existing issues for keywords associated with the
+story/issue you want to create, e.g: https://github.com/dwyl/time/issues?utf8=%E2%9C%93&q=is%3Aissue%20email
+if email was your keyword.
+
+1. Once you are (quite) sure there is no existing issue/story covering what you
+want to solve/create, move on to
+[creating a new issue](#2.-create-the-user-story-and-its-technical-tasks).
 
 ### Issues
 
@@ -44,6 +38,11 @@ At dwyl we use _issues_ to log our user stories and technical tasks to ensure we
 User stories describe features of the application in terms of their value to the *user*. These are broken down into smaller **_technical_** tasks where needed.
 
 ### Issues > Validation
+
+> Before you begin any work on a dwyl project **please open an issue** and **wait for acknowledgment of the need** on the repository that you wish to contribute to.
+
+There **_must_** be a **comment** from **at least one other person** on the issue acknowledging it and/or confirming the requirement/bug before work starts. This is necessary to avoid doing _unnecessary work_.  
+e.g. someone may have _already solved_ that problem or _implemented a similar feature on a different project_ and can point you in the direction of sample code or the PO/Client may deem the issue/story to be _lower priority than something else on the list_. [Here's an example](https://github.com/dwyl/hapi-auth-jwt2/pull/140#issuecomment-178005901) of what we mean.
 
 After creating an issue/story (_before you estimate the time required or start working on it_) get people's input/feedback to _confirm_ that the description of the story is clear, has enough detail and addresses a real need/issue.
 
@@ -167,3 +166,10 @@ Here are the custom ones that we use at dwyl:
 - `T[x]d` #F06292 - time in 'x' days it should take (estimation)
 - `T[x]h` #F7C6C7 - time in 'x' hours it should take (estimation)
 - `technical` #D4C5F9 - technical issue for developers
+
+### Additional Information
+We are releasing our work under the GNU General Public License Version 2 (GPL V.2)
+if you have any questions regarding the license, please read:
+https://github.com/dwyl/intellectual-property and raise an
+[issue](https://github.com/dwyl/intellectual-property/issues)
+on GitHub if you require clarification!
