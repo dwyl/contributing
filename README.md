@@ -10,8 +10,6 @@ and are *excited* that you are reading this in order to join the fun!
 
 ### Contents
 + [Workflow](#workflow)
-+ [Issues](#issues)
-  + [Issue Validation](#issues--validation)
 + [Pull Requests](#pull-requests)
 + [Stars](#stars)
 + [Labels](#labels)
@@ -32,39 +30,41 @@ if email was your keyword.
 want to solve/create, move on to
 [creating a new issue](#2.-create-the-user-story-and-its-technical-tasks).
 
-### Issues
 
-At dwyl we use _issues_ to log our user stories and technical tasks to ensure we have a [single version of the truth](https://github.com/dwyl/github-reference#why).  
-User stories describe features of the application in terms of their value to the *user*. These are broken down into smaller **_technical_** tasks where needed.
-
-### Issues > Validation
-
-> Before you begin any work on a dwyl project **please open an issue** and **wait for acknowledgment of the need** on the repository that you wish to contribute to.
-
-There **_must_** be a **comment** from **at least one other person** on the issue acknowledging it and/or confirming the requirement/bug before work starts. This is necessary to avoid doing _unnecessary work_.  
-e.g. someone may have _already solved_ that problem or _implemented a similar feature on a different project_ and can point you in the direction of sample code or the PO/Client may deem the issue/story to be _lower priority than something else on the list_. [Here's an example](https://github.com/dwyl/hapi-auth-jwt2/pull/140#issuecomment-178005901) of what we mean.
-
-After creating an issue/story (_before you estimate the time required or start working on it_) get people's input/feedback to _confirm_ that the description of the story is clear, has enough detail and addresses a real need/issue.
-
-This may feel a bit "_bureaucratic_" but (_we find that on balance_) it makes for better remote working because less discussion is "lost" and means everyone can follow along regardless of their location. See our [workflow](#workflow) above!
-
-
-
-#### 2. Create the User Story and its Technical Tasks
+### 2. Create the User Story
 
 Example user story: `As an admin I want to be able to create new users because I don't want unknown users to be able to use my application`
 
 1. Create an issue for your user story
-+ Add a priority label to the issue (**_1-5_**)
-+ Add [any other labels](https://github.com/dwyl/labels/labels) that apply
-+ Split the user story into individual technical tasks _where needed_ (not required for a single task/small user story)
-+ Add an estimated time label for each task (**_documentation + development + tests + styling (if applicable)_**)
+
+  + A good user story describes the problem.
+  + It should include all the information necessary for the Product Owner to
+  decide if it is a necessary/desired feature.
++ **Before beginning any work**, await confirmation of the need for the user
+story from the Product owner (or Project Maintainer).
++ That's it! You don't need to do anything else until the need is confirmed and prioritised. You can check back later to see if this has happened.
+
+
+### 3. After need is confirmed
+
+1. The person acknowledging the user story will typically add some labels to
+the issue, but you can still add [any other relevant
+ labels](https://github.com/dwyl/labels/labels) eg. `question`
+, `discuss`, etc.
++ Product owner (or Project Maintainer) will add a priority label to the issue
+ (**_1-5_**)
++ _Where needed_, split the user story into individual technical tasks (not
+  required for a single task/small user story)
++ Add an estimated time label for each task (**_documentation + development +
+  tests + styling (if applicable)_**)
 + Add a time estimate to the _user story_ (derived from technical tasks)
-+ Await acknowledgment of the need for the user story **before beginning any work**
 
-_Note:_ For work in sprints, a **milestone** is added **at the sprint planning session** to group the user story with its relevant sprint.
 
-#### 3. Work on the Technical Tasks
+_Note:_ For work in sprints, a **milestone** is added **at the sprint planning
+session** to group the user story with its relevant sprint.
+
+### 4. Work on the Technical Tasks
+
 1. Assign the technical task to yourself
 2. Add the `in-progress` label to the task so that your team knows it is currently being worked on and when it began
 3. Update the `README.md` before working on a task: **what, why, how**
@@ -75,6 +75,7 @@ _Note:_ For work in sprints, a **milestone** is added **at the sprint planning s
   + Add `[WiP]` before the title of your PR and add that it's **NOT READY FOR REVIEW** in the description if it's still in progress
 
 #### 4. Complete the Task
+
 1. Make sure all tests are passing and that your code coverage is ✅ 100%
 + Increment the version of your application
 + Remove the `[WiP]` from your PR title and change the description to **READY FOR REVIEW**
@@ -167,7 +168,19 @@ Here are the custom ones that we use at dwyl:
 - `T[x]h` #F7C6C7 - time in 'x' hours it should take (estimation)
 - `technical` #D4C5F9 - technical issue for developers
 
-### Additional Information
+## *What?*
+
+### Issues
+
+At dwyl we use _issues_ to log our user stories and technical tasks to ensure we have a [single version of the truth](https://github.com/dwyl/github-reference#why).  
+User stories describe features of the application in terms of their value to the *user*.
+
+### Issues > Validation
+
+This may feel a bit "_bureaucratic_" but (_we find that on balance_) it makes for better remote working because less discussion is "lost" and means everyone can follow along regardless of their location.
+
+## Additional Information
+
 We are releasing our work under the GNU General Public License Version 2 (GPL V.2)
 if you have any questions regarding the license, please read:
 https://github.com/dwyl/intellectual-property and raise an
