@@ -1,19 +1,10 @@
 # Contributing to dwyl projects
 
-Firstly, a ***heartfelt thankyou*** for even *considering* contributing to the dwyl project!
+Firstly, a ***heartfelt thank you*** for even *considering* contributing to the
+dwyl project. <br />
 We rely on contributions from *many* ***fantastic people*** to [make dwyl a reality](https://github.com/dwyl/start-here)
 and are *excited* that you are reading this in order to join the fun!
 
-We (dwyl) are building our company using the open source code others have published
-and consequently think its *only fair* that everything we make is also open source.
-
-We are releasing our work under the GNU General Public License Version 2 (GPL V.2)
-if you have any questions regarding the license, please read:
-https://github.com/dwyl/intellectual-property and raise an
-[issue](https://github.com/dwyl/intellectual-property/issues)
-on GitHub if you require clarification!
-
-See: https://github.com/dwyl/contributing/issues/1
 
 ## Recommended Guidelines
 
@@ -27,16 +18,19 @@ See: https://github.com/dwyl/contributing/issues/1
 
 ## Workflow
 
-> Before you begin any work on a dwyl project **please open an issue** and **wait for acknowledgment of the need** on the repository that you wish to contribute to.
 
-There **_must_** be a **comment** from **at least one other person** on the issue acknowledging it and/or confirming the requirement/bug before work starts. This is necessary to avoid doing _unnecessary work_.  
-e.g. someone may have _already solved_ that problem or _implemented a similar feature on a different project_ and can point you in the direction of sample code or the PO/Client may deem the issue/story to be _lower priority than something else on the list_. [Here's an example](https://github.com/dwyl/hapi-auth-jwt2/pull/140#issuecomment-178005901) of what we mean.
+### 1. Verify the need/issue
 
-### 1. Verify the need for what you are proposing
+1. **Read through the existing stories/issues** for the project to familiarise
+yourself with the current "backlog".
 
-1. Read through the existing stories/issues for the project to familiarise yourself with the current "backlog".
-2. *Search through the existing issues*˜ for keywords associated with the story/issue you want to create, e.g: https://github.com/dwyl/time/issues?utf8=%E2%9C%93&q=is%3Aissue%20email if email was your keyword.
-4. Once you are (quite) sure there is no existing issue/story covering what you want to solve/create, move on to [creating one](#2.-create-the-user-story-and-its-technical-tasks).
+1. **Search** through the existing issues for keywords associated with the
+story/issue you want to create, e.g: https://github.com/dwyl/time/issues?utf8=%E2%9C%93&q=is%3Aissue%20email
+if email was your keyword.
+
+1. Once you are (quite) sure there is no existing issue/story covering what you
+want to solve/create, move on to
+[creating a new issue](#2.-create-the-user-story-and-its-technical-tasks).
 
 
 ### 2. Create the User Story
@@ -50,7 +44,7 @@ Example user story: `As an admin I want to be able to create new users because I
   decide if it is a necessary/desired feature.
 + **Before beginning any work**, await confirmation of the need for the user
 story from the Product owner (or Project Maintainer).
-+ That's it! You don't need to do anything else until the need is confirmed and prioritised. You can check back later to see if this has happened. 
++ That's it! You don't need to do anything else until the need is confirmed and prioritised. You can check back later to see if this has happened.
 
 
 ### 3. After need is confirmed
@@ -186,3 +180,11 @@ User stories describe features of the application in terms of their value to the
 ### Issues > Validation
 
 This may feel a bit "_bureaucratic_" but (_we find that on balance_) it makes for better remote working because less discussion is "lost" and means everyone can follow along regardless of their location.
+
+## Additional Information
+
+We are releasing our work under the GNU General Public License Version 2 (GPL V.2)
+if you have any questions regarding the license, please read:
+https://github.com/dwyl/intellectual-property and raise an
+[issue](https://github.com/dwyl/intellectual-property/issues)
+on GitHub if you require clarification!
