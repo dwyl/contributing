@@ -1,7 +1,6 @@
-# Contributing to dwyl projects
+![welcome-teal](https://cloud.githubusercontent.com/assets/194400/22215755/76cb4dbc-e194-11e6-95ed-7def95e68f14.png)
 
-Firstly, a ***heartfelt thank you*** for even *considering* contributing to the
-dwyl project. <br />
+Firstly, a ***heartfelt thank you*** for contributing to this project! <br />
 We rely on contributions from *many* ***fantastic people*** to [make dwyl a reality](https://github.com/dwyl/start-here)
 and are *excited* that you are reading this in order to join the fun!
 
@@ -121,8 +120,8 @@ A good example is this one: https://github.com/indexzero/ps-tree/pull/12 ((creat
 
 When making a pull request, make sure that you haven't included any ***unnecessary*** files that will take up a lot of space.  
 Such files include images and other binary type files.  
-Git is meant for source code and other (text-based) files that require version control.   
-Images and other binary files are difficult for a human to review in a GitHub Pull Request.   
+Git is meant for source code and other (text-based) files that require version control.
+Images and other binary files are difficult for a human to review in a GitHub Pull Request.
 This means that when ever a person clones/pulls the code they have to _download_ many/huge files (_not just the code which is typically tiny by comparison_)
 > It is a _general_ `git` "_best practice_" to avoid _clogging_ up your Git repo with files that don't need to be under version control.
 
