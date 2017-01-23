@@ -1,16 +1,16 @@
 ![welcome-teal](https://cloud.githubusercontent.com/assets/194400/22215755/76cb4dbc-e194-11e6-95ed-7def95e68f14.png)
 
-> “_Every thought, every word, and every action
-that adds to the positive and the wholesome is a contribution to peace. <br />
-Each and every one of us is capable of making such a contribution_.”
+> “_Every thought, **every word**, and **every action**
+that **adds to** the **positive** is a **contribution to peace**. <br />
+Each and **every one** of us is **capable** of making such a **contribution**_.”
 ~ [Aung San Suu Kyi](https://en.wikipedia.org/wiki/Aung_San_Suu_Kyi)
 
 Firstly, a ***heartfelt thank you*** for
 making time to contribute to this project! <br />
 As a _distributed_ team we _rely_ on people to follow the steps
-in the contributing guide to keep our communication clear. <br />
+in the contributing guide to **keep our _communication crystal clear_**. <br />
 _Please_ let us know if anything is _unclear_
-or if you have any suggestions for how to simplify/streamline things.
+or if you have _**any suggestions** for how to **simplify/streamline**_ things.
 
 ## _New_ To The Project?
 
@@ -80,22 +80,52 @@ covering what you have in mind, _please_ create a new issue (_see next step_!)
   they cannot click on the button to save their app preferences/settings.
   ```
 
-### Step 3:
+> ***Tip***: if you can upload a ***sketch*** (_of the idea_) or
+***screenshot*** (_of the issue_), it helps _clarify_ a lot! <br />
+> ***How to take screenshot***: http://www.take-a-screenshot.org
+(_all platforms_!)
+
+Example creating a **New Issue** with a ***clear description***
+and **_illustrative_ screenshots**:
+
+[![create-issue-for-home-screen-icon](https://cloud.githubusercontent.com/assets/24758860/22227322/ae12d9f6-e1c2-11e6-928c-c20cfe8b3912.png)](https://github.com/dwyl/dwyl.github.io/issues/194)
+
+This is a _real_ issue: https://github.com/dwyl/dwyl.github.io/issues/194
+if you want to see how it was _resolved_, click and go check it out!
+
+### Step 3: Submit the _New Issue_!
+
++ Once you _submit_ a new issue for a User Story or Issue/Bug a member
+of the team (_typically the Product Owner_) will review the issue.
++ That's _it_ from the side of the _issue_ creator!
++ We aim to respond to new issues within a few minutes but
+this can take up to a few hours during busy work days.
+(_thank you for your patience!_)
+
+#### What can I do `while` I _wait_ for a _reply_?
+
++ If you are _itching_ to help _describe_ how the story/issue _could_
+be implemented or "_fixed_" feel free to describe your thoughts
+in a _follow-up_ comment on the issue you _just_ created!
++
 + **Before beginning any work**, await confirmation of the need for the user
 story from the Product owner (or Project Maintainer).
 + That's it! You don't need to do anything else until the need is confirmed and prioritized. You can check back later to see if this has happened.
 
 Verify the Need/Issue
 
+<hr />
+> ***Note***: if you have a ***security/privacy related question***
+that you want to ask or ***disclose privately***, **please email** us: [**hello+security@dwyl.io**](mailto:hello+security@dwyl.io)
 
-> **Note**: if you have a security/privacy related question that you want
-to ask or disclose privately, please email us: [hello+security@dwyl.io](mailto:hello+security@dwyl.io)
+<hr />
 
+<br />
 <br />
 
 ## Existing Team Members _Verify_ User Stories/Issues
 
-### 3. After need is confirmed
+### Step 4. After need is confirmed
 
 1. The person acknowledging the user story will typically add some labels to
 the issue, but you can still add [any other relevant
