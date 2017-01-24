@@ -18,10 +18,10 @@ _Please_ let us know if anything is _unclear_
 or if you have _**any suggestions** for how to **simplify/streamline**_ things.
 
 <br />
-## Security/Privacy Concern or Questions?
-If you have a ***security/privacy related question***
-that you want to ask or ***disclose privately***, <br />
-**please email** us:
+## Got a Security/Privacy Concern or Question?
+If you have a [***security/privacy***](https://github.com/dwyl/learn-security)
+_related question_ that you want to ask or ***disclose privately***, <br />
+**_please_ email** us:
 [**hello+security@dwyl.io**](mailto:hello+security@dwyl.io) <br />
 _For **all other questions/ideas/issues, please follow** the **steps below**_.
 <br /><br />
@@ -125,9 +125,9 @@ of the team (_typically the Product Owner_) will ***review*** the issue.
 ## :star: Star The Project! :star: (_share the love!_)
 
 _After_ you have ***contributed*** to the project,
-_e.g: by commenting on or creating an issue_,
+_e.g: by commenting on or creating an issue_, <br />
 or if you've found the project, interesting, helpful or useful in _any way_,
-please share the love by starring it!
+_please_ share the love by starring it!
 Stars show _other_ members in the developer community
 that it's a _**worthwhile project** or **learning resource**_
 and one that can offer value to other developers like you! 🌟
@@ -172,7 +172,7 @@ this is quite easy to find by searching for a **label**:
 
 # Part Two
 
-## A _Different_ Team Member _Must Verify_ User The Storie/Issue
+## A _Different_ Team Member _Must Verify_ the User Story/Issue
 
 ### Step 4: _Confirming_ the Need in the New Story/Issue
 
@@ -193,17 +193,31 @@ labels is to help the team categorize and prioritize issues in the backlog see:
 
 ### Step 5: Assigning _Priority_ to the Story/Issue
 
-+ Product owner (or Project Maintainer) will add a priority label to the issue
- (**_1-5_**)
-+ _Where needed_, split the user story into individual technical tasks (not
-  required for a single task/small user story)
-+ Add an estimated time label for each task (**_documentation + development +
-  tests + styling (if applicable)_**)
-+ Add a time estimate to the _user story_ (derived from technical tasks)
-
-
-_Note:_ For work in sprints, a **milestone** is added **at the sprint planning
-session** to group the user story with its relevant sprint.
++ ***Always ensure*** that the Story/Issue focusses on ***only one thing***.
+As soon as you see the word "***and***" in a story/issue, you know it is
+trying to do more than one thing.
++ ***If*** the Story/Issue has **too many components or features***,
+  split the user story into "***sub-stories***"
+  (_often reffered to as "**sub-tasks**"_)
+  which you **link** to from the "main" story/issue.
+  `-> Example of a Larger Story ("Epic") with Linked Sub-stories Required!`
+  see: https://github.com/dwyl/contributing/issues/55
++ Product owner (or Project Maintainer) will add a
+  priority label e.g: `Priority-2` to the story/issue.
++ Any/all Sub-Stories should _also_ be prioritized so that the team
+can determine the _order_ in which they need to be worked on.
++ During "_Sprint Planning_" a ***time estimate label*** is added
+  to each story (_and Sub-Stories/tasks_)
+  The time estimate _must_ include time to:
+  + ***document***
+  + ***test***
+  + ***develop*** and
+  + ***deliver***
++ Where ever possible/practical/relevant **include** the person who
+**_originally_ created the story/issue** in the time estimation discussion.
++ For work in sprints, a **milestone** is added **at the sprint planning
+session** to group the user stories with its relevant sprint;
+this gives _everyone_ in the team a **_clear_ picture** of what is ***planned***.
 
 # This _Whole_ Section needs to be Re-written...
 
