@@ -8,11 +8,13 @@ Each and **every one** of us is **capable** of making such a **contribution**_.�
 Firstly, a ***heartfelt thank you*** for
 making time to contribute to this project! <br />
 As a _distributed_ team we _rely_ on people to follow the steps
-in the contributing guide to **keep our _communication crystal clear_**. <br />
+in the contributing guide <br />
+to _avoid confusion_ and
+**keep our _communication consistently crystal clear_**! <br />
 _Please_ let us know if anything is _unclear_
 or if you have _**any suggestions** for how to **simplify/streamline**_ things.
 
-## _New_ To The Project?
+# _New_ To The Project?
 
 ### Step 1: Check if the Idea/Story/Issue _Already Exists_ Using GitHub Search ![search](https://cloud.githubusercontent.com/assets/194400/22224334/255930a8-e1b6-11e6-9953-12cd4739aa1c.png)
 
@@ -96,39 +98,75 @@ if you want to see how it was _resolved_, click and go check it out!
 ### Step 3: Submit the _New Issue_!
 
 + Once you _submit_ a new issue for a User Story or Issue/Bug a member
-of the team (_typically the Product Owner_) will review the issue.
+of the team (_typically the Product Owner_) will ***review*** the issue.
+
 + That's _it_ from the side of the _issue_ creator!
-+ We aim to respond to new issues within a few minutes but
-this can take up to a few hours during busy work days.
-(_thank you for your patience!_)
+
+
+![thank-you-green-large](https://cloud.githubusercontent.com/assets/194400/22229077/5b0695ee-e1cd-11e6-9001-e5ff53afce36.jpg)
+
+<br />
+
+## Questions?
+
+#### How _Long_ Does it take for an Issue to be _Reviewed_?
+
+We ***aim*** to respond to new issues within _**minutes**_
+but during busy work days this can take up to ***a few hours***...
+(_**thank you** for your **patience**!_)
+
+![thinking-please-wait](https://cloud.githubusercontent.com/assets/194400/22228969/9add48f8-e1cc-11e6-8cdc-ef9b30eac846.jpg)
 
 #### What can I do `while` I _wait_ for a _reply_?
 
-+ If you are _itching_ to help _describe_ how the story/issue _could_
-be implemented or "_fixed_" feel free to describe your thoughts
-in a _follow-up_ comment on the issue you _just_ created!
-+
-+ **Before beginning any work**, await confirmation of the need for the user
-story from the Product owner (or Project Maintainer).
-+ That's it! You don't need to do anything else until the need is confirmed and prioritized. You can check back later to see if this has happened.
++ If you are ***itching*** to help "move the issue/story along"
+you can help by _describing_ how the story/issue _could_
+be implemented or "_fixed_" ... feel free to ***describe your thoughts***
+in a **_follow-up_ comment** on the issue you _just_ created!
 
-Verify the Need/Issue
++ **_Please_ do not write _any_ code _until_**
+the story/issue/bug has been ***verified***
+(_by the product owner or project lead_). <br />
+(_It's not that we "doubt" anyone's abilities or the validity of ideas/issues
+we simply don't want people "wasting time" or "duplicating effort"
+on un-verified issues...
+also there are **many** other ways you can help `while` you wait..._)
 
-<hr />
-> ***Note***: if you have a ***security/privacy related question***
+![what-to-do-while-waiting](https://cloud.githubusercontent.com/assets/194400/22229403/5a08474e-e1cf-11e6-8c1f-858f3a167315.jpg)
+
+> To help us **a lot**: go on a treasure hunt for an issue <br />
+that _someone else_ created which has not had any comments ... <br />
+or has not been _assigned_ to someone for investigation/work. <br />
+this is quite easy to find by searching for a **label**:
+[`help wanted`](https://github.com/search?q=org%3Adwyl+is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+
+<br />
+## Security/Privacy Concern or Questions?
+If you have a ***security/privacy related question***
 that you want to ask or ***disclose privately***, **please email** us: [**hello+security@dwyl.io**](mailto:hello+security@dwyl.io)
 
-<hr />
 
 <br />
 <br />
 
-## Existing Team Members _Verify_ User Stories/Issues
+## A _Different_ Team Member _Must Verify_ User The Storie/Issue
 
-### Step 4. After need is confirmed
+### Step 4. Confirming the Need in the New Story/Issue
 
-1. The person acknowledging the user story will typically add some labels to
-the issue, but you can still add [any other relevant
+1. When a new issue (_user story, feature request or potential bug_)
+is submitted by someone, we _require_ a _different_ person to verify it.
+Typically this verification of need is done by the "_Product Owner_" ("**PO**")
+or the "_Project Leader_" ("**PL**"),
+but in the case that the issue was _created_ by the PO/PL then a _different_
+member of the team will need to _confirm_ their _understanding_ of the issue.
+
+1. The person acknowledging the user story will typically add some **labels** to
+the issue to help ***categorise*** it.
+1. (_More_) Labels can always be added/removed at any time. The purpose of
+labels is to help the team categorize and prioritize issues in the backlog.
+
+
+, but you can still add [any other relevant
  labels](https://github.com/dwyl/labels/labels) eg. `question`
 , `discuss`, etc.
 + Product owner (or Project Maintainer) will add a priority label to the issue
