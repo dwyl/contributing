@@ -17,21 +17,16 @@ with **simple steps** people can **_easily_ follow** <br />
 _Please_ let us know if anything is _unclear_
 or if you have _**any suggestions** for how to **simplify/streamline**_ things.
 
-<br />
-## Got a Security/Privacy Concern or Question?
-If you have a [***security/privacy***](https://github.com/dwyl/learn-security)
-_related question_ that you want to ask or ***disclose privately***, <br />
-**_please_ email** us:
-[**hello+security@dwyl.io**](mailto:hello+security@dwyl.io) <br />
-_For **all other questions/ideas/issues, please follow** the **steps below**_.
-<br /><br />
-
-![i m new](https://cloud.githubusercontent.com/assets/194400/22239494/b6caf0e6-e20e-11e6-95d8-ad4275311c89.jpg)
-
 
 # _New_ To The Project?
 
-### Step 1: Check if the Idea/Story/Issue _Already Exists_ Using GitHub Search ![search](https://cloud.githubusercontent.com/assets/194400/22224334/255930a8-e1b6-11e6-9953-12cd4739aa1c.png)
+Our contribution steps in a _nutshell_:
+
+![validate-idea](https://cloud.githubusercontent.com/assets/194400/22268041/e2f45df0-e27d-11e6-9c86-41e898b70701.png)
+
+## Part 1
+
+### A) Check if the Idea/Story/Issue _Already Exists_ Using GitHub Search ![search](https://cloud.githubusercontent.com/assets/194400/22224334/255930a8-e1b6-11e6-9953-12cd4739aa1c.png)
 
 1. Please take a minute to ***read through the existing stories/issues***
 for the project to familiarize yourself with the current "backlog".
@@ -53,7 +48,7 @@ so we know more than one person has the need/issue.
 covering what you have in mind, _please_ create a new issue (_see next step_!)
 
 
-### Step 2: Create a New User Story _or_ Report an Issue ![New Issue](https://cloud.githubusercontent.com/assets/194400/22224203/bbc5efb4-e1b5-11e6-9fcb-3aae75ae74ed.png)
+### B) Create a New User Story _or_ Report an Issue ![New Issue](https://cloud.githubusercontent.com/assets/194400/22224203/bbc5efb4-e1b5-11e6-9fcb-3aae75ae74ed.png)
 
 1. Using the `New Issue` button, create an issue for the user story or issue
   you have in mind.
@@ -108,16 +103,18 @@ and **_illustrative_ screenshots**:
 This is a _real_ issue: https://github.com/dwyl/dwyl.github.io/issues/194
 if you want to see how it was _resolved_, click and go check it out!
 
-### Step 3: Submit the _New Issue_!
+### C) Submit the _New Issue_!
 
 + Once you _submit_ a new issue for a User Story or Issue/Bug a member
 of the team (_typically the Product Owner_) will ***review*** the issue.
 
 + That's _it_ from the side of the _issue_ creator!
 
-
 ![thank-you-green-large](https://cloud.githubusercontent.com/assets/194400/22229077/5b0695ee-e1cd-11e6-9001-e5ff53afce36.jpg)
 
+# _Next Steps_...?
+
+Once a new issue has been _created_, it has to be "_validated_".
 
 
 ## :star: Star The Project! :star: (_share the love!_)
@@ -136,7 +133,7 @@ and one that can offer value to other developers like you! 🌟
 
 ## Questions?
 
-#### How _Long_ Does it take for an Issue to be _Reviewed_?
+#### How _Long_ Does it take for an Issue to be _Validated_?
 
 We ***aim*** to respond to new issues within _**minutes**_
 but during busy work days this can take up to ***a few hours***... <br />
@@ -169,9 +166,7 @@ this is quite easy to find by searching for a **label**:
 
 <br /><br /><br />
 
-# _Next_?
-
-## A _Different_ Team Member _Must Verify_ the User Story/Issue
+## A _Different_ Team Member _Must Validate_ the User Story/Issue
 
 ### Step 4: _Confirming_ the Need in the New Story/Issue
 
@@ -390,3 +385,12 @@ if you have any questions regarding the license, please read:
 https://github.com/dwyl/intellectual-property and raise an
 [issue](https://github.com/dwyl/intellectual-property/issues)
 on GitHub if you require clarification!
+
+<br />
+## Got a Security/Privacy Concern or Question?
+If you have a [***security/privacy***](https://github.com/dwyl/learn-security)
+_related question_ that you want to ask or ***disclose privately***, <br />
+**_please_ email** us:
+[**hello+security@dwyl.io**](mailto:hello+security@dwyl.io) <br />
+_For **all other questions/ideas/issues, please follow** the **normal steps**_.
+<br /><br />
