@@ -385,12 +385,16 @@ if you have any questions regarding the license, please read:
 https://github.com/dwyl/intellectual-property and raise an
 [issue](https://github.com/dwyl/intellectual-property/issues)
 on GitHub if you require clarification!
-
+a
 <br />
-## Got a Security/Privacy Concern or Question?
+
+
+# Got a _Security/Privacy_ Concern or Question ?
+
 If you have a [***security/privacy***](https://github.com/dwyl/learn-security)
-_related question_ that you want to ask or ***disclose privately***, <br />
+_related question_ that you want to ask or ***disclose discreetly***, <br />
 **_please_ email** us:
 [**hello+security@dwyl.io**](mailto:hello+security@dwyl.io) <br />
 _For **all other questions/ideas/issues, please follow** the **normal steps**_.
+***Thanks***!
 <br /><br />
