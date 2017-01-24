@@ -1,1 +1,3 @@
-Please view our [contribution guidelines](https://github.com/dwyl/contributing)
+_**Please read** our_
+[**contribution guide**](https://github.com/dwyl/contributing)
+(_thank you_!)
