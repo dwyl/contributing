@@ -43,14 +43,12 @@ https://github.com/dwyl/time/issues?utf8=%E2%9C%93&q=is%3Aissue%20app+icon <br/>
 if `"app icon"` were your keywords and you're searching in the "**Time**" project.
 
 ![issue-matching-keyword-search](https://cloud.githubusercontent.com/assets/194400/22225715/852d9f78-e1bb-11e6-9d20-37492da92dc1.png)
-
 1. if you ***find*** an _existing_ issue that matches what you were looking for,
 _please_ click on the title of the issue, ***read the description*** to
 confirm if it's what you are looking for, then ***comment*** on it
 so we know more than one person has the need/issue.
 
 ![issue-search-for-app-icon](https://cloud.githubusercontent.com/assets/24758860/22225508/993c7ecc-e1ba-11e6-8a53-e8d2ac398546.png)
-
 1. Otherwise, if you are (_reasonably_) sure there is no _existing_ issue/story
 covering what you have in mind, _please_ create a new issue (_see next step_!)
 
@@ -123,11 +121,12 @@ of the team (_typically the Product Owner_) will ***review*** the issue.
 
 
 ## :star: Star The Project! :star: (_share the love!_)
-
+<!--
 _After_ you have ***contributed*** to the project,
 _e.g: by commenting on or creating an issue_, <br />
-or if you've found the project, interesting, helpful or useful in _any way_,
-_please_ share the love by starring it!
+-->
+If you've found the project interesting, helpful or useful in _any way_,
+_please_ share the love by starring it! <br />
 Stars show _other_ members in the developer community
 that it's a _**worthwhile project** or **learning resource**_
 and one that can offer value to other developers like you! 🌟
@@ -140,7 +139,7 @@ and one that can offer value to other developers like you! 🌟
 #### How _Long_ Does it take for an Issue to be _Reviewed_?
 
 We ***aim*** to respond to new issues within _**minutes**_
-but during busy work days this can take up to ***a few hours***...
+but during busy work days this can take up to ***a few hours***... <br />
 (_**thank you** for your **patience**!_)
 
 ![thinking-please-wait](https://cloud.githubusercontent.com/assets/194400/22228969/9add48f8-e1cc-11e6-8cdc-ef9b30eac846.jpg)
@@ -219,23 +218,45 @@ can determine the _order_ in which they need to be worked on.
 session** to group the user stories with its relevant sprint;
 this gives _everyone_ in the team a **_clear_ picture** of what is ***planned***.
 
-# This _Whole_ Section needs to be Re-written...
+### Step 6: Do the Work!
 
-### 4. Work on the Technical Tasks
+Once _all_ the previous steps have been performed
+(_story/issue created, categorised with labels, any sub-stories/tasks
+  created and estimate label applied_)
 
-1. Assign the technical task to yourself
-2. Add the `in-progress` label to the task so that your team knows it is currently being worked on and when it began
+1. ***Assign*** the story/issue to yourself _before_ you start working.
+2. ***Apply*** the `in-progress` **label** to the story/issue/sub-task so
+  that your team knows when work started
+  and that it is ***currently*** being worked.
 3. Update the `README.md` before working on a task: **what, why, how**
-4. [Add comments to the issue as you work](https://github.com/dwyl/learn-nightwatch/issues/8) to update your team of your progress and any sticking points you might experience along the way (**_this allows people to help you more effectively and gives your client something measurable_**)
-  + If you haven't finished your current task by the end of the day, take 10 minutes to describe the progress you've made and what else needs doing - anyone should be able to pick up and complete a user story by reading this description
-+ **Every commit you make should reference a user story or technical task**
-+ Once you've made a commit, push up your changes and then open a PR _(even if the work isn't yet finished)_ so that the rest of your team can easily see what you've been working on
-  + Add `[WiP]` before the title of your PR and add that it's **NOT READY FOR REVIEW** in the description if it's still in progress
+  This is refered to as
+  [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+4. ***Log*** progress as
+  [_comments in the issue_](https://github.com/dwyl/learn-nightwatch/issues/8)
+  you are working on to keep everyone informed along
+  the way (**_this allows people to help you more effectively and gives
+    your client something measurable_**).
+  + If you _haven't finished_ your current task by the end of the day,
+  take **5 minutes** to **_describe_ the progress** you've made
+  and what else (_still_) needs to be done - _anyone_ should be able
+  to pick up and complete a user story by reading this description.
+  + If you are leaving for more than a day,
+  ***remove*** the `in-pogress` **label**
+  and ***un-assign yourself*** form the story.
++ ***Reference*** the **user story/issue/sub-task** you are working on
+  by pasting a link to the GitHub issue
+  in the **commit message**.
++ Once you have _commited_ your work/progessy, push up your changes
+  and then open a Pull Rrequest _(even if the work isn't yet finished)_
+  so that the rest of your team can easily see what you've been working on.
+  + Add `[WiP]` before the title of your PR and add that it's
+  **NOT READY FOR REVIEW** in the description if it's still in progress.
 
-#### 4. Complete the Task
+#### Step 7. Complete the Task - Preparing your Pull Request for Review
 
-1. Make sure all tests are passing and that your code coverage is ✅ 100%
-+ Increment the version of your application
+1. Make sure ***all tests*** are **passing**
+  and (_where applicable_) that your **code coverage** is ***100%***.
++ Increment the version of your application if it is a "_new release_".
 + Remove the `[WiP]` from your PR title and change the description to **READY FOR REVIEW**
 + Make sure your pull request is [ready for review](#pull-requests)
 + Assign someone to review your pull request
