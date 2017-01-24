@@ -7,12 +7,27 @@ Each and **every one** of us is **capable** of making such a **contribution**_.�
 
 Firstly, a ***heartfelt thank you*** for
 making time to contribute to this project! <br />
-As a _distributed_ team we _rely_ on people to follow the steps
-in the contributing guide <br />
-to _avoid confusion_ and
+
+> As a **_distributed_ team**, <br />
+we **_need_** a **contributing guide**
+with **simple steps** people can **_easily_ follow** <br />
+**so that** we _avoid confusion_ and
 **keep our _communication consistently crystal clear_**! <br />
+
 _Please_ let us know if anything is _unclear_
 or if you have _**any suggestions** for how to **simplify/streamline**_ things.
+
+<br />
+## Security/Privacy Concern or Questions?
+If you have a ***security/privacy related question***
+that you want to ask or ***disclose privately***, <br />
+**please email** us:
+[**hello+security@dwyl.io**](mailto:hello+security@dwyl.io) <br />
+_For **all other questions/ideas/issues, please follow** the **steps below**_.
+<br /><br />
+
+![i m new](https://cloud.githubusercontent.com/assets/194400/22239494/b6caf0e6-e20e-11e6-95d8-ad4275311c89.jpg)
+
 
 # _New_ To The Project?
 
@@ -82,7 +97,7 @@ covering what you have in mind, _please_ create a new issue (_see next step_!)
   they cannot click on the button to save their app preferences/settings.
   ```
 
-> ***Tip***: if you can upload a ***sketch*** (_of the idea_) or
+> ***Tip***: _if you **can upload** a_ ***sketch*** (_of the idea_) or
 ***screenshot*** (_of the issue_), it helps _clarify_ a lot! <br />
 > ***How to take screenshot***: http://www.take-a-screenshot.org
 (_all platforms_!)
@@ -104,6 +119,19 @@ of the team (_typically the Product Owner_) will ***review*** the issue.
 
 
 ![thank-you-green-large](https://cloud.githubusercontent.com/assets/194400/22229077/5b0695ee-e1cd-11e6-9001-e5ff53afce36.jpg)
+
+
+
+## :star: Star The Project! :star: (_share the love!_)
+
+_After_ you have ***contributed*** to the project,
+_e.g: by commenting on or creating an issue_,
+or if you've found the project, interesting, helpful or useful in _any way_,
+please share the love by starring it!
+Stars show _other_ members in the developer community
+that it's a _**worthwhile project** or **learning resource**_
+and one that can offer value to other developers like you! 🌟
+
 
 <br />
 
@@ -140,35 +168,31 @@ or has not been _assigned_ to someone for investigation/work. <br />
 this is quite easy to find by searching for a **label**:
 [`help wanted`](https://github.com/search?q=org%3Adwyl+is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 
-<br />
-## Security/Privacy Concern or Questions?
-If you have a ***security/privacy related question***
-that you want to ask or ***disclose privately***, **please email** us: [**hello+security@dwyl.io**](mailto:hello+security@dwyl.io)
+<br /><br /><br />
 
-
-<br />
-<br />
+# Part Two
 
 ## A _Different_ Team Member _Must Verify_ User The Storie/Issue
 
-### Step 4. Confirming the Need in the New Story/Issue
+### Step 4: _Confirming_ the Need in the New Story/Issue
 
 1. When a new issue (_user story, feature request or potential bug_)
-is submitted by someone, we _require_ a _different_ person to verify it.
-Typically this verification of need is done by the "_Product Owner_" ("**PO**")
+is submitted by someone, we _require_ a _different_ person to verify it. <br />
+_Typically_ this verification of need
+is done by the "_Product Owner_" ("**PO**")
 or the "_Project Leader_" ("**PL**"),
 but in the case that the issue was _created_ by the PO/PL then a _different_
 member of the team will need to _confirm_ their _understanding_ of the issue.
 
-1. The person acknowledging the user story will typically add some **labels** to
-the issue to help ***categorise*** it.
+1. The person acknowledging the user story will add some **labels** to
+the issue to help ***categorise*** it. eg. `question`, `discuss`, etc.
+
 1. (_More_) Labels can always be added/removed at any time. The purpose of
-labels is to help the team categorize and prioritize issues in the backlog.
+labels is to help the team categorize and prioritize issues in the backlog see:
+[complete list of labels](https://github.com/dwyl/labels/labels)
 
+### Step 5: Assigning _Priority_ to the Story/Issue
 
-, but you can still add [any other relevant
- labels](https://github.com/dwyl/labels/labels) eg. `question`
-, `discuss`, etc.
 + Product owner (or Project Maintainer) will add a priority label to the issue
  (**_1-5_**)
 + _Where needed_, split the user story into individual technical tasks (not
@@ -180,6 +204,8 @@ labels is to help the team categorize and prioritize issues in the backlog.
 
 _Note:_ For work in sprints, a **milestone** is added **at the sprint planning
 session** to group the user story with its relevant sprint.
+
+# This _Whole_ Section needs to be Re-written...
 
 ### 4. Work on the Technical Tasks
 
@@ -237,28 +263,33 @@ A good example is this one: https://github.com/indexzero/ps-tree/pull/12 ((creat
 
 #### Images and Binary Files
 
-When making a pull request, make sure that you haven't included any ***unnecessary*** files that will take up a lot of space.  
-Such files include images and other binary type files.  
-Git is meant for source code and other (text-based) files that require version control.
-Images and other binary files are difficult for a human to review in a GitHub Pull Request.
+When making a pull request, make sure that you haven't included
+any ***unnecessary*** files that will take up a lot of space in the project!
+
+Such files include images and other binary files like dependencies or drivers.
+Git is meant for source code and other (_text-based_)
+files that require version control.
+Images and other binary files are difficult for a human to review
+in a GitHub Pull Request and just take up a huge amount of space!
 This means that when ever a person clones/pulls the code they have to _download_ many/huge files (_not just the code which is typically tiny by comparison_)
+
 > It is a _general_ `git` "_best practice_" to avoid _clogging_ up your Git repo with files that don't need to be under version control.
-
-
-### Stars 🌟 (share the love!)
-
-***After you've contributed to one of our repos, or if you've found one of them helpful or useful in any way, please share the love by starring it.
-This shows other members in the developer community that it's a worthwhile project or learning resource and one that can offer value to other developers like you!*** 🌟
-
 
 
 ### Labels
 
-GitHub can be a _great_ project management tool if used _effectively_. One of the ways you can manage your project backlog is through **labels**. Labels are a great way to **organise** and **track** the progress of a given project at _any_ point in time. [Here's why we choose to use GitHub](https://github.com/dwyl/github-reference#why)
+GitHub can be a _great_ project management tool if used _effectively_.
+One of the ways you can manage your project backlog is through **labels**.
+Labels are a great way to **organise** and **track** the progress of a
+given project at _any_ point in time. [Here's why we choose to use GitHub](https://github.com/dwyl/github-reference#why)
 
-At dwyl we have created our _own_ standard list of labels that we use for each of our projects. This gives our developers the ability to move between projects **quickly** and **productively**, saving time and energy in the process.
+At dwyl we have created our _own_ standard list of labels
+that we use for each of our projects. This gives our team the ability
+to move between projects **quickly** and **productively**, saving time
+and energy in the process.
 
-Here is our **[complete list](https://github.com/dwyl/contributing/labels)** of labels and how they should be used:
+Here is our [**Complete List of Labels**](https://github.com/dwyl/labels/labels)
+and how they should be used:
 
 ![labels](https://cloud.githubusercontent.com/assets/12450298/18248682/afcd6974-7371-11e6-84bf-0cb9f4677d92.png)
 
