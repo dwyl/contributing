@@ -17,14 +17,11 @@ with **simple steps** people can **_easily_ follow** <br />
 _Please_ let us know if anything is _unclear_
 or if you have _**any suggestions** for how to **simplify/streamline**_ things.
 
-
-# _New_ To The Project?
-
 Our contribution steps in a _nutshell_:
 
 ![validate-idea](https://cloud.githubusercontent.com/assets/194400/22268041/e2f45df0-e27d-11e6-9c86-41e898b70701.png)
 
-## Part 1
+# Part 1: _Describe_ the Idea, User Story or Issue
 
 ### A) Check if the Idea/Story/Issue _Already Exists_ Using GitHub Search ![search](https://cloud.githubusercontent.com/assets/194400/22224334/255930a8-e1b6-11e6-9953-12cd4739aa1c.png)
 
@@ -133,7 +130,7 @@ and one that can offer value to other developers like you! 🌟
 
 ## Questions?
 
-#### How _Long_ Does it take for an Issue to be _Validated_?
+### How _Long_ Does it take for an Issue to be _Validated_?
 
 We ***aim*** to respond to new issues within _**minutes**_
 but during busy work days this can take up to ***a few hours***... <br />
@@ -141,7 +138,7 @@ but during busy work days this can take up to ***a few hours***... <br />
 
 ![thinking-please-wait](https://cloud.githubusercontent.com/assets/194400/22228969/9add48f8-e1cc-11e6-8cdc-ef9b30eac846.jpg)
 
-#### What can I do `while` I _wait_ for a _reply_?
+### What can I do `while` I _wait_ for a _reply_?
 
 + If you are ***itching*** to help "move the issue/story along"
 you can help by _describing_ how the story/issue _could_
@@ -166,9 +163,11 @@ this is quite easy to find by searching for a **label**:
 
 <br /><br /><br />
 
-## A _Different_ Team Member _Must Validate_ the User Story/Issue
+# Part 2: _Validate_ the User Story/Issue
 
-### Step 4: _Confirming_ the Need in the New Story/Issue
+> A _different_ team member ***must validate*** the User Story/Issue.
+
+### A) _Confirm_ the Need in the New Story/Issue
 
 1. When a new issue (_user story, feature request or potential bug_)
 is submitted by someone, we _require_ a _different_ person to verify it. <br />
@@ -185,7 +184,7 @@ the issue to help ***categorise*** it. eg. `question`, `discuss`, etc.
 labels is to help the team categorize and prioritize issues in the backlog see:
 [complete list of labels](https://github.com/dwyl/labels/labels)
 
-### Step 5: Assigning _Priority_ to the Story/Issue
+### B) _Assign_ a _Priority_ to the Story/Issue
 
 + ***Always ensure*** that the Story/Issue focusses on ***only one thing***.
 As soon as you see the word "***and***" in a story/issue, you know it is
@@ -200,6 +199,9 @@ trying to do more than one thing.
   priority label e.g: `Priority-2` to the story/issue.
 + Any/all Sub-Stories should _also_ be prioritized so that the team
 can determine the _order_ in which they need to be worked on.
+
+### C) _Estimate_ the Time Required to Perform the Work
+
 + During "_Sprint Planning_" a ***time estimate label*** is added
   to each story (_and Sub-Stories/tasks_)
   The time estimate _must_ include time to:
@@ -213,13 +215,17 @@ can determine the _order_ in which they need to be worked on.
 session** to group the user stories with its relevant sprint;
 this gives _everyone_ in the team a **_clear_ picture** of what is ***planned***.
 
-### Step 6: Do the Work!
+
+
+# Part 3: _Make_ it _Happen_!
 
 ![get-it-done](https://cloud.githubusercontent.com/assets/194400/22265743/44a2ca72-e275-11e6-819d-2c5a1958ea11.png)
 
 Once _all_ the previous steps have been performed
 (_story/issue created, categorized with labels, any sub-stories/tasks
   created and estimate label applied_)
+
+### A) _Assign_ Yourself the Task and Do it!
 
 1. ***Assign*** the story/issue to yourself _before_ you start working.
 
@@ -237,6 +243,7 @@ Once _all_ the previous steps have been performed
   remind yourself of the last time you
   "**inherited**" **undocumented code**..._) <br />
   **Watch**: ["**_The Mess_ We're In**" by Joe Armstrong](https://youtu.be/lKXe3HUG2l4?t=8m56s)
+
 4. ***Log*** progress as
   [_comments in the issue_](https://github.com/dwyl/learn-nightwatch/issues/8
   you are working on to keep everyone informed along
@@ -255,13 +262,15 @@ Once _all_ the previous steps have been performed
   in the **commit message**.
 
 6. Once you have _commited_ your work/progessy, push up your changes
-  and then open a Pull Rrequest _(even if the work isn't yet finished)_ <br />
+  and then open a Pull Request _(even if the work isn't yet finished)_ <br />
   so that the rest of your team can easily see what you've been working on.
-  (_rem)
+  (_remember ..._)
   + Add `[WiP]` before the title of your PR and add that it's
   **NOT READY FOR REVIEW** in the description if it's still in progress.
 
-### Step 7. _Prepare_ your Pull Request for Review
+### B) _Prepare_ a Pull Request (PR) for Review
+
+> **Rule (of thumb)**: _**Keep Pull Requests Small and Focussed**_.
 
 1. Make sure ***all tests*** are **passing**
   and (_where applicable_) that your **code coverage** is ***100%***.
@@ -269,47 +278,69 @@ Once _all_ the previous steps have been performed
   (_Don't laugh, we have seen "**cowboy developers**" do this...!
   If a test is failing, the feature is broken!
   Fix the feature to make the test pass. Only then is your work "**done**"_)
-+ Increment the version of your application if it is a "_new release_".
-+ Remove the `[WiP]` from your PR title and change the description to **READY FOR REVIEW**
-+ Make sure your pull request is [ready for review](#pull-requests)
-+ Assign someone to review your pull request
-+ Delete the `in-progress` label and _add an `in-review` label_
-+ Update the time label if necessary
+  + ***Never*** _assign_ a PR for "_review_"
+  _until_ _**all CI checks** are **pass**_.
 
-_These guidelines for creating user stories are an adaptation of [Simon's](https://github.com/simonlab) [**user-story-checklist**](https://github.com/SimonLab/user-story-checklist) repo. Check it out!_
++ **Increment** the _version_ of your application if it is a "_new release_".
 
-### Pull Requests
++ ***Remove*** the `[WiP]` from your PR title.
 
-At dwyl we like to work in the most ***agile*** way possible.
-This extends to how we submit and review our **pull requests**.
++ ***Describe*** what your PR contains in the PR description. <br />
+(_**Never** leave the PR description blank!
+  remember this is in an exercise in **communicating with your team members**_!)
 
-> **Rule**: _**One thing** (feature or bug fix) **per pull request**_.
++ **Remove** the `in-progress` label from the PR and associated issues.
 
-You might be _tempted_, to bundle up _several_ bug fixes/feature additions into
++ ***Apply*** the `awaiting-review` label to the PR.
+
++ ***Assign*** someone to review your PR.
+
+
+## Notes on Creating _Good_ Pull Requests
+
+## 1. Keep it Small and Simple
+
++ Don't _tempted_, to bundle up _several_ bug fixes/feature additions into
 one _large_ PR and then submit it to be reviewed all at once.
 We prefer working in _smaller increments_ splitting the work
 into individual parts to be reviewed separately. The reasons are:
 
-+ It allows us to keep track of the work more easily because it provides more
-_descriptive_ reference points
-("[_paper trail_](https://en.wiktionary.org/wiki/paper_trail)")
-to which we can look back at in future if required
-+ It gives the person reviewing the PR a single focus for the change/bug-fix
-which improves review speed.
-
 > Further reading: "Working in Small Batches":  http://www.startuplessonslearned.com/2009/02/work-in-small-batches.html
 
-+ **When you submit your pull request, include:**
-  + A **descriptive title** that answers the question "What does this PR do?"
-  + A reference to the issue that the PR solves
-  + An explanation of what the PR includes (**bullet pointed lists** are sometimes helpful to make things clearer) and the _implementation detail_
-  + An **update to the documentation** (often the repo's readme)
-  + Make sure your PR **adds tests** for the new code you have written
-  + If you have the permissions to do so, **assign your pull request** to someone for review (this person will be the first point of contact if the PR merges a bug into the production environment)
++ The _best_ PRs **update the documentation** (often the repo's readme)
 
-A good example is this one: https://github.com/indexzero/ps-tree/pull/12 ((created from the need which was confirmed in [this issue](https://github.com/indexzero/ps-tree/issues/10))).
++ ***Always*** there are **tests** for any new code you have written.
 
-#### Images and Binary Files
+## 2. Be Descriptive in the PR Title/Description!
+
++ A **descriptive title** answers the question:
+"_What **included** in this PR_?"
+
++ A ***good description*** gives the person reviewing the PR
+a **clear picture/focus** for the feature/change/bug-fix
+which ***improves review speed***.
+
+## 3. PR _Ettiquete_
+
++ reference the issue(s) that the PR solves in the PR description
+
++ explain what the PR includes (**bullet pointed lists**
+  are sometimes helpful to make things clearer)
+  and the _implementation detail_.
+
++ If you have the _permissions_ to do so,
+**assign your pull request**
+to someone for review.
+
+A good example PR: https://github.com/indexzero/ps-tree/pull/12
+((created from the need which was confirmed in
+  [this issue](https://github.com/indexzero/ps-tree/issues/10))).
+
+<br />
+
+## General Notes
+
+### Images and Binary Files
 
 When making a pull request, make sure that you haven't included
 any ***unnecessary*** files that will take up a lot of space in the project!
@@ -319,19 +350,33 @@ Git is meant for source code and other (_text-based_)
 files that require version control.
 Images and other binary files are difficult for a human to review
 in a GitHub Pull Request and just take up a huge amount of space!
-This means that when ever a person clones/pulls the code they have to _download_ many/huge files (_not just the code which is typically tiny by comparison_)
+This means that when ever a person clones/pulls the code they have
+to _download_ many/huge files
+(_not just the code which is typically tiny by comparison_)
 
-> It is a _general_ `git` "_best practice_" to avoid _clogging_ up your Git repo with files that don't need to be under version control.
+> It is a _general_ `git` "_best practice_" to avoid _clogging_ up your
+Git repo with files that don't need to be under version control.
+
+### Inspired By ...
+
+Guidelines for creating user stories are addapted from
+[Simon's](https://github.com/simonlab)
+[**user-story-checklist**](https://github.com/SimonLab/user-story-checklist)
+repo. Check it out! :heart:
 
 
 ### Labels
+
+> see: https://github.com/dwyl/labels
+> https://github.com/dwyl/contributing/issues/40
 
 GitHub can be a _great_ project management tool if used _effectively_.
 One of the ways we _communicate_ with each other in our project(s)
 is by using **labels** to _categorize_ the issues/stories/PRs.
 
 Labels are a great way to **organise** and **track** the progress of a
-given project at _any_ point in time. [Here's why we choose to use GitHub](https://github.com/dwyl/github-reference#why)
+given project at _any_ point in time.
+[Here's why we choose to use GitHub](https://github.com/dwyl/github-reference#why)
 
 At dwyl we have created our _own_ standard list of labels
 that we use for each of our projects. This gives our team the ability
