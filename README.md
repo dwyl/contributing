@@ -169,7 +169,7 @@ this is quite easy to find by searching for a **label**:
 
 <br /><br /><br />
 
-# Part Two
+# _Next_?
 
 ## A _Different_ Team Member _Must Verify_ the User Story/Issue
 
@@ -220,19 +220,30 @@ this gives _everyone_ in the team a **_clear_ picture** of what is ***planned***
 
 ### Step 6: Do the Work!
 
+![get-it-done](https://cloud.githubusercontent.com/assets/194400/22265743/44a2ca72-e275-11e6-819d-2c5a1958ea11.png)
+
 Once _all_ the previous steps have been performed
-(_story/issue created, categorised with labels, any sub-stories/tasks
+(_story/issue created, categorized with labels, any sub-stories/tasks
   created and estimate label applied_)
 
 1. ***Assign*** the story/issue to yourself _before_ you start working.
+
 2. ***Apply*** the `in-progress` **label** to the story/issue/sub-task so
   that your team knows when work started
   and that it is ***currently*** being worked.
-3. Update the `README.md` before working on a task: **what, why, how**
-  This is refered to as
-  [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+
+3. ***Update*** the `README.md` ***before*** working on the task:
+  _Ensuring_ you answer the questions: ***Why? What? How?***
+  > This is referred to as
+  ["***Readme Driven Development***"](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+  i.e: you ***document*** your work
+  ***before*** you write ***any code***. <br />
+  (_if this feels "tedious" to you, ask yourself
+  remind yourself of the last time you
+  "**inherited**" **undocumented code**..._) <br />
+  **Watch**: ["**_The Mess_ We're In**" by Joe Armstrong](https://youtu.be/lKXe3HUG2l4?t=8m56s)
 4. ***Log*** progress as
-  [_comments in the issue_](https://github.com/dwyl/learn-nightwatch/issues/8)
+  [_comments in the issue_](https://github.com/dwyl/learn-nightwatch/issues/8
   you are working on to keep everyone informed along
   the way (**_this allows people to help you more effectively and gives
     your client something measurable_**).
@@ -243,19 +254,26 @@ Once _all_ the previous steps have been performed
   + If you are leaving for more than a day,
   ***remove*** the `in-pogress` **label**
   and ***un-assign yourself*** form the story.
-+ ***Reference*** the **user story/issue/sub-task** you are working on
+
+5. ***Reference*** the **user story/issue/sub-task** you are working on
   by pasting a link to the GitHub issue
   in the **commit message**.
-+ Once you have _commited_ your work/progessy, push up your changes
-  and then open a Pull Rrequest _(even if the work isn't yet finished)_
+
+6. Once you have _commited_ your work/progessy, push up your changes
+  and then open a Pull Rrequest _(even if the work isn't yet finished)_ <br />
   so that the rest of your team can easily see what you've been working on.
+  (_rem)
   + Add `[WiP]` before the title of your PR and add that it's
   **NOT READY FOR REVIEW** in the description if it's still in progress.
 
-#### Step 7. Complete the Task - Preparing your Pull Request for Review
+### Step 7. _Prepare_ your Pull Request for Review
 
 1. Make sure ***all tests*** are **passing**
   and (_where applicable_) that your **code coverage** is ***100%***.
+  + ***Never*** _comment_ out a test that is failing.
+  (_Don't laugh, we have seen "**cowboy developers**" do this...!
+  If a test is failing, the feature is broken!
+  Fix the feature to make the test pass. Only then is your work "**done**"_)
 + Increment the version of your application if it is a "_new release_".
 + Remove the `[WiP]` from your PR title and change the description to **READY FOR REVIEW**
 + Make sure your pull request is [ready for review](#pull-requests)
@@ -314,7 +332,9 @@ This means that when ever a person clones/pulls the code they have to _download_
 ### Labels
 
 GitHub can be a _great_ project management tool if used _effectively_.
-One of the ways you can manage your project backlog is through **labels**.
+One of the ways we _communicate_ with each other in our project(s)
+is by using **labels** to _categorize_ the issues/stories/PRs.
+
 Labels are a great way to **organise** and **track** the progress of a
 given project at _any_ point in time. [Here's why we choose to use GitHub](https://github.com/dwyl/github-reference#why)
 
