@@ -21,7 +21,21 @@ Our contribution steps in a _nutshell_:
 
 ![validate-idea](https://cloud.githubusercontent.com/assets/194400/22268041/e2f45df0-e27d-11e6-9c86-41e898b70701.png)
 
-# Part 1: _Describe_ the Idea, User Story or Issue
+## Part 1: _Describe_ the Idea or User Story in an Issue
+
+### _Got_ Issues...?
+
+_Everything_ starts with a _thought_.
+We collect our _thoughts_ in GitHub "issues".
+The issue can then be _**dicussed, validated** and **worked on** as a **team**_.
+We use _issues_ to log our user stories and sub/technical tasks
+to ensure we have a
+[single version of the truth](https://github.com/dwyl/github-reference#why).  
+
+_**User stories** describe features_ (_or expected behaviours_)
+of the application in terms of their ***value***
+to the ***person using the application***.
+
 
 ### A) Check if the Idea/Story/Issue _Already Exists_ Using GitHub Search ![search](https://cloud.githubusercontent.com/assets/194400/22224334/255930a8-e1b6-11e6-9953-12cd4739aa1c.png)
 
@@ -47,11 +61,15 @@ covering what you have in mind, _please_ create a new issue (_see next step_!)
 
 ### B) Create a New User Story _or_ Report an Issue ![New Issue](https://cloud.githubusercontent.com/assets/194400/22224203/bbc5efb4-e1b5-11e6-9fcb-3aae75ae74ed.png)
 
-1. Using the `New Issue` button, create an issue for the user story or issue
+1. Using the `New Issue` button, create an **issue**
+  for the ***user story*** (_feature request, expected behaviour or "bug"_)
   you have in mind.
 
-  + A _good_ user story _describes_ the idea
+> A _good_ user story _describes_ the idea
   in a _**concise** and **user-focussed**_ way. <br />
+
+#### Example User Story Descriptions
+
   Example user story (_if the feature has not been described before_):
   ```
   As a person using the Web App
@@ -66,7 +84,9 @@ covering what you have in mind, _please_ create a new issue (_see next step_!)
   when I attempt to save a shortcut to my home screen,
   I do not see an app icon. :-(
   ```
-  + Please *include* as much ***relevant information*** as you can
+#### Include Relevant Information in the _Issue Description_
+
+Please *include* as much ***relevant information*** as you can
   so the Product Owner (_or project leader_) can decide if
   it is a necessary/desired feature.
   Example of useful details:
@@ -92,8 +112,8 @@ covering what you have in mind, _please_ create a new issue (_see next step_!)
 > ***How to take screenshot***: http://www.take-a-screenshot.org
 (_all platforms_!)
 
-Example creating a **New Issue** with a ***clear description***
-and **_illustrative_ screenshots**:
+Example creating a **New Issue** for an ***expected behaviour***
+with a ***clear description*** and **_illustrative_ screenshots**:
 
 [![create-issue-for-home-screen-icon](https://cloud.githubusercontent.com/assets/24758860/22227322/ae12d9f6-e1c2-11e6-928c-c20cfe8b3912.png)](https://github.com/dwyl/dwyl.github.io/issues/194)
 
@@ -130,6 +150,8 @@ and one that can offer value to other developers like you! 🌟
 
 ## Questions?
 
+
+
 ### How _Long_ Does it take for an Issue to be _Validated_?
 
 We ***aim*** to respond to new issues within _**minutes**_
@@ -161,9 +183,24 @@ or has not been _assigned_ to someone for investigation/work. <br />
 this is quite easy to find by searching for a **label**:
 [`help wanted`](https://github.com/search?q=org%3Adwyl+is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 
+#### Is it a "_Bug_"?
+
+We also use GitHub issues to report "***unexpected behaviour***"
+(_sometimes referred to as a "**bug**"_) in an app or module,
+however we use the word "**issue**" to ***generically***
+mean ***any*** thought/thing we want to ***record*** in the project
+and share with the team,
+and ***reserve*** the word "**bug**" for when a reported issue
+has been ***verified*** as **not functioning** according to the
+***expected behaviour*** in the ***user acceptance test*** described
+in the ***original user story***.
+
+> Please do _not_ use the word "**bug**" or apply the `bug` label
+until the issue has been ***validated***.
+
 <br /><br /><br />
 
-# Part 2: _Validate_ the User Story/Issue
+# Part 2: _Validate_ the Need (User Story) or Issue Exists
 
 > A _different_ team member ***must validate*** the User Story/Issue.
 
@@ -414,14 +451,6 @@ Here are the custom ones that we use at dwyl:
 
 ## *What?*
 
-### Issues
-
-At dwyl we use _issues_ to log our user stories and technical tasks to ensure we have a [single version of the truth](https://github.com/dwyl/github-reference#why).  
-User stories describe features of the application in terms of their value to the *user*.
-
-### Issues > Validation
-
-This may feel a bit "_bureaucratic_" but (_we find that on balance_) it makes for better remote working because less discussion is "lost" and means everyone can follow along regardless of their location.
 
 ## Additional Information
 
