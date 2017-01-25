@@ -415,9 +415,13 @@ has been reviewed by at least one other person on the team. thanks!_)
 
 ### C) _Reviewer(s): Review_, _Comment On_ and _Merge_ the Pull Request
 
-Always remember: **Pull Requests** are
-"_**discussion threads** for code reviews_"
-
+Always remember: a **Pull Requests** is a
+"_**discussion thread** for **understanding** the code_",
+our objective is to _ensure_ the code works, is well documented/tested
+and is "_free from errors_". We don't
+["_nit pick_"](https://en.oxforddictionaries.com/definition/nitpicking)
+if it's going to delay shipping. Equally, where code requires _clarification_,
+tell people; ***everyone*** benefits from easy-to-read (_understand_) code.
 
 The person who is _assigned_ to review the PR
 (_often referred to as the **Quality Assurance Person** or "**QA**"_) will:
@@ -439,8 +443,11 @@ is being reviewed. (_at this point new commits which change large portions
 
 + ***Checkout*** the PR's _branch_ and run it on your local machine
 following the instructions in the `README.md` where applicable.
+> ***Confirm*** the tests pass and app runs on your local machine.
 
-+ ***Confirm*** that the tests pass and app runs on your local machine.
++ ***Open the Issue(s)*** referenced in the Pull Request
+and re-acquaint yourself with the User Stories so you can
+***confirm*** the content of the PR **satisfies** the ***Acceptance Criteria***.
 
 + ***Review*** the _content_ (_documentation, tests or code_)
 in the Pull Request on GitHub...
@@ -449,10 +456,32 @@ in the Pull Request on GitHub...
 giving feedback on their code.
 > see: "notes on code reviews": https://github.com/dwyl/contributing/issues/32#issuecomment-271089111 [![Get Help!](https://img.shields.io/badge/help-wanted-brightgreen.svg?style=flat)](https://github.com/dwyl/contributing/issues)
 
-+ ***If*** for _any reason_ you are ***unsatisfied*** with the _content_ of the
+  + ***If*** for _any reason_ you are ***unsatisfied*** with the _content_ of the
 pull request (_documentation, tests or code_), ***request changes***.
+  + ***Don't be afraid*** to "_push back_" on a PR if the code is unclear,
+***especially*** if the developer who's code you are reviewing is
+"_more experienced_" because they _might_ be making _assumptions_ that
+their code is "_self-documenting_"... <br />
 
++ Once you are _satisfied_ that the content in the Pull Request,
+approve the pull request using GitHub's "_Review_" interface. <br />
+![review-changes-submit](https://cloud.githubusercontent.com/assets/194400/22298017/f45fa20e-e316-11e6-8fd6-d9825f5ce682.png) <br />
+> We ***encourage peer-review*** by team-members on ***all*** our projects, <br />
+so it's not _uncommon_ to see _multiple_ people "***approving***" a PR. <br />
+e.g: https://github.com/TheScienceMuseum/collectionsonline/pull/708 <br />
+![multiple-reviewers](https://cloud.githubusercontent.com/assets/194400/22298408/54d24b7c-e318-11e6-9009-4b42bba4f5e4.png)
 
++ ***Merge the Pull Request***.
+
++ ***Delete The Branch*** on GitHub (_and your local machine_)
+the code is now merged into another branch (_most likely `master`_)
+so deleting the branch will not "_lose_" any code.
+
++ ***Finnally*** _someone_ on the team
+(_usually the developer who created the PR_)
+applies the [`please-test` **label**](https://github.com/dwyl/labels/issues/46)
+to any issues mentioned in the PR so that the Product Owner and/or
+User Testing Team are _aware_ that the feature is ready to test.
 
 <br /><br /><br />
 
