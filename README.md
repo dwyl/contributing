@@ -20,6 +20,7 @@ Our contribution steps in a _nutshell_:
 
 ***Please*** ***inform us*** if ***anything*** is ***unclear***
 or if you have _**any suggestions** for how to **simplify/streamline**_ things.
+[![Get Help!](https://img.shields.io/badge/get-help-brightgreen.svg?style=flat)](https://github.com/dwyl/contributing/issues)
 
 
 # Part 1: _Describe_ the Idea or User Story in an Issue
@@ -52,11 +53,16 @@ https://github.com/dwyl/time/issues?utf8=%E2%9C%93&q=is%3Aissue%20app+icon <br/>
 if `"app icon"` were the keywords for what you have in mind
 and you were searching in the "**Time**" project. <br />
 ![issue-matching-keyword-search](https://cloud.githubusercontent.com/assets/194400/22225715/852d9f78-e1bb-11e6-9d20-37492da92dc1.png)
+
 1. if you ***find*** an _existing_ issue that matches what you were looking for,
 _please_ click on the title of the issue, ***read the description*** to
 confirm if it's what you are looking for, then ***comment*** on it
 so we know more than one person has the need/issue. <br />
+> _**Note**: if there is **already an issue** for what you were thinking,
+you can **skip** the "B)" and "C)" steps
+as there's **no need** to create a **new issue**_.
 ![issue-search-for-app-icon](https://cloud.githubusercontent.com/assets/24758860/22225508/993c7ecc-e1ba-11e6-8a53-e8d2ac398546.png)
+
 1. _Otherwise_, once you are (_reasonably_) sure there is
 no _existing_ issue/story covering what you have in mind,
 _please_ **create** a ***new issue*** (_see next step_!)
@@ -133,10 +139,13 @@ with a ***clear description*** and **_illustrative_ screenshots**:
 
 ### C) Submit the _New Issue_!
 
-+ Once you _submit_ a new issue for a User Story or Issue/Bug a member
+1. Preview the issue _before_ you submit it to ensure any images were uploaded
+and there aren't any issues with the markdown/text in the description.
+
+1. Once you _submit_ a new issue for a User Story or Issue/Bug a member
 of the team (_typically the Product Owner_) will ***review*** the issue.
 
-+ That's _it_ from the side of the _issue_ creator!
+2. That's _it_ from the side of the _issue_ creator! (_thank you!_)
 
 ![thank-you-green-large](https://cloud.githubusercontent.com/assets/194400/22229077/5b0695ee-e1cd-11e6-9001-e5ff53afce36.jpg)
 
@@ -145,6 +154,7 @@ of the team (_typically the Product Owner_) will ***review*** the issue.
 Once a new issue has been _created_,
 it ***must*** be "***validated***"
 by a ***different*** _member_ of the team/organisation.
+(_see: "Part 2" below..._)
 
 
 ## :star: Star The Project! :star: (_share the love!_)
@@ -259,7 +269,8 @@ until the issue has been ***validated***.
 
 # Part 2: _Validate_ the Need (User Story) or Issue _Exists_
 
-> A _different_ team member ***must validate*** the User Story/Issue.
+> A _different_ team member from the person who _created_ the issue
+***must validate*** the User Story/Issue.
 
 ### A) _Confirm_ the Need in the New Story/Issue
 
@@ -297,8 +308,8 @@ can determine the _order_ in which they need to be worked on.
 ### C) _Estimate_ the Time Required to Perform the Work
 
 + During "_Sprint Planning_" a ***time estimate label*** is added
-  to each story (_and Sub-Stories/tasks_)
-  The time estimate _must_ include time to:
+  to each story (_and Sub-Stories/tasks_) <br />
+  The time estimate **_must_ include** time to:
   + ***document***
   + ***test***
   + ***develop*** and
@@ -311,7 +322,7 @@ can determine the _order_ in which they need to be worked on.
 session** to group the user stories with its relevant sprint;
 this gives _everyone_ in the team a **_clear_ picture** of what is ***planned***.
 
-
+<br /><br /><br />
 
 # Part 3: _Do_ the _Work_!
 
@@ -320,8 +331,11 @@ this gives _everyone_ in the team a **_clear_ picture** of what is ***planned***
 Once _all_ the previous steps have been performed
 (_story/issue created, categorized with labels, any sub-stories/tasks
   created and estimate label applied_)
+and you are _sure_ you ***understand*** what is ***required***
+(_make sure there are clear Acceptance Criteria_),
+go for it!
 
-### A) _Assign_ Yourself the Task and Do it!
+### A) _Assign_ Yourself the Task and [_Do it_](https://youtu.be/M9-IZ1pNk00?t=45s)!
 
 1. ***Assign*** the story/issue to yourself _before_ you start working.
 
@@ -341,10 +355,10 @@ Once _all_ the previous steps have been performed
   **Watch**: ["**_The Mess_ We're In**" by Joe Armstrong](https://youtu.be/lKXe3HUG2l4?t=8m56s)
 
 4. ***Log*** progress as
-  [_comments in the issue_](https://github.com/dwyl/learn-nightwatch/issues/8
+  [_comments in the issue_](https://github.com/dwyl/learn-nightwatch/issues/8)
   you are working on to keep everyone informed along
   the way (**_this allows people to help you more effectively and gives
-    your client something measurable_**).
+    your team/client/stakeholders something measurable_**).
   + If you _haven't finished_ your current task by the end of the day,
   take **5 minutes** to **_describe_ the progress** you've made
   and what else (_still_) needs to be done - _anyone_ should be able
@@ -364,11 +378,17 @@ Once _all_ the previous steps have been performed
   + Add `[WiP]` before the title of your PR and add that it's
   **NOT READY FOR REVIEW** in the description if it's still in progress.
 
-### B) _Prepare_ a Pull Request (PR) for Review
+### B) _Prepare_ a Pull Request (PR) and _Assign_ (_to someone else_) for Review
 
 > **Rule (of thumb)**: _**Keep Pull Requests Small and Focussed**_.
 
-1. Make sure ***all tests*** are **passing**
+1. ***Describe*** what your PR contains in the PR description;
+it only takes a _few seconds_
+but ***dramatically improves*** the ***review process***. <br />
+(_Please **never** leave the PR description blank!
+  remember this is in an exercise in **communicating with your team members**_!)
+
++ Make sure ***all tests*** are **passing**
   and (_where applicable_) that your **code coverage** is ***100%***.
   + ***Never*** _comment_ out a test that is failing.
   (_Don't laugh, we have seen "**cowboy developers**" do this...!
@@ -376,42 +396,81 @@ Once _all_ the previous steps have been performed
   Fix the feature to make the test pass. Only then is your work "**done**"_)
   + ***Never*** _assign_ a PR for "_review_"
   _until_ _**all CI checks** are **pass**_.
-  ![check failed](https://cloud.githubusercontent.com/assets/194400/22284176/db2d698a-e2dd-11e6-8799-573226328b6b.png)
+  ![check failed](https://cloud.githubusercontent.com/assets/194400/22284176/db2d698a-e2dd-11e6-8799-573226328b6b.png) <br />
   if _anything_ is failing on a PR and you _need_ help simply
   ***comment*** in the PR "_thread_" _asking_ for help!
 
-
-+ **Increment** the _version_ of your application if it is a "_new release_".
++  **Increment** the _version_ of your application if it is a "_new release_".
 
 + ***Remove*** the `[WiP]` from your PR title.
 
-+ ***Describe*** what your PR contains in the PR description. <br />
-(_**Never** leave the PR description blank!
-  remember this is in an exercise in **communicating with your team members**_!)
-
 + **Remove** the `in-progress` label from the PR and associated issues.
 
-+ ***Apply*** the `awaiting-review` label to the PR.
++ ***Apply*** the
+[`awaiting-review` **label**](https://github.com/dwyl/labels/issues/49) to the PR.
 
-+ ***Assign*** someone to review your PR.
++ ***Assign*** someone `else` to _review_ your PR. <br />
+(_please don't merge your own PRs we need to ensure every change
+has been reviewed by at least one other person on the team. thanks!_)
+
+### C) _Reviewer(s): Review_, _Comment On_ and _Merge_ the Pull Request
+
+Always remember: **Pull Requests** are
+"_**discussion threads** for code reviews_"
 
 
-## Notes on Creating _Good_ Pull Requests
+The person who is _assigned_ to review the PR
+(_often referred to as the **Quality Assurance Person** or "**QA**"_) will:
+
+1. ***Confirm*** that all "**CI**" ***checks pass*** _before_ doing anything else.
+> Tests should all pass and "_test coverage_" should be _measured_
+for every change/pull request. <br />
+All our projects aim for 100% Test Coverage.
+The project should also have a
+[pre-commit hook](https://github.com/dwyl/learn-pre-commit) <br />
+to check that the code has been "linted" and conforms to standard.
+
++ ***Apply*** the
+[`in-review` **label**](https://github.com/dwyl/labels/issues/48)
+to the Pull Request to signal to other members of the team that the PR
+is being reviewed. (_at this point new commits which change large portions
+  of the code being reviewed should not be pushed unless
+  they are for changes that have been requested by the reviewer_)
+
++ ***Checkout*** the PR's _branch_ and run it on your local machine
+following the instructions in the `README.md` where applicable.
+
++ ***Confirm*** that the tests pass and app runs on your local machine.
+
++ ***Review*** the _content_ (_documentation, tests or code_)
+in the Pull Request on GitHub...
+
++ ***Write comments*** or notes to the developer(s)
+giving feedback on their code.
+> see: "notes on code reviews": https://github.com/dwyl/contributing/issues/32#issuecomment-271089111 [![Get Help!](https://img.shields.io/badge/help-wanted-brightgreen.svg?style=flat)](https://github.com/dwyl/contributing/issues)
+
++ ***If*** for _any reason_ you are ***unsatisfied*** with the _content_ of the
+pull request (_documentation, tests or code_), ***request changes***.
+
+
+
+<br /><br /><br />
+
+## _Notes_ on Creating _Good_ Pull Requests
 
 ## 1. Keep it Small and Simple
 
-+ Don't _tempted_, to bundle up _several_ bug fixes/feature additions into
-one _large_ PR and then submit it to be reviewed all at once.
++ Don't _tempted_, to "_bundle_" up _several_ bug fixes/feature additions into
+one _large_ PR and then submit it to be reviewed all at once... <br />
 We prefer working in _smaller increments_ splitting the work
-into individual parts to be reviewed separately. The reasons are:
-
-> Further reading: "Working in Small Batches":  http://www.startuplessonslearned.com/2009/02/work-in-small-batches.html
+into individual parts to be reviewed separately. <br />
+> _Why_...? Read: "***Work in Small Batches***": <br /> http://www.startuplessonslearned.com/2009/02/work-in-small-batches.html
 
 + The _best_ PRs **update the documentation** (often the repo's readme)
 
-+ ***Always*** there are **tests** for any new code you have written.
++ ***Always*** _ensure_ there are **tests** for any new code you have written.
 
-## 2. Be Descriptive in the PR Title/Description!
+## 2. _Descriptive_ Pull Request Title and Description!
 
 + A **descriptive title** answers the question:
 "_What **included** in this PR_?"
@@ -420,9 +479,9 @@ into individual parts to be reviewed separately. The reasons are:
 a **clear picture/focus** for the feature/change/bug-fix
 which ***improves review speed***.
 
-## 3. PR _Ettiquete_
++ ***Reference*** the issue(s) that the PR addressed in the PR description.
 
-+ reference the issue(s) that the PR solves in the PR description
+## 3. PR _Ettiquete_
 
 + explain what the PR includes (**bullet pointed lists**
   are sometimes helpful to make things clearer)
@@ -433,10 +492,9 @@ which ***improves review speed***.
 to someone (_else_) for review.
 
 + ***Never*** merge your _own_ pull requests on a **_team_ project**.
-**No Exceptions**. Just ***don't do it***. 
+**No Exceptions**. Just ***don't do it***.
 
 A good example PR: https://github.com/indexzero/ps-tree/pull/12
-
 created from the ***need***
 which was ***validated*** and ***discussed*** in
 an **issue** https://github.com/indexzero/ps-tree/issues/10

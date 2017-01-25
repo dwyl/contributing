@@ -1,5 +1,7 @@
 # Notes on code reviewing
 
+> see: https://github.com/dwyl/contributing/issues/32#issuecomment-271089111
+
 > "*Programs are meant to be read by humans,  
 > and only incidentally for computers to execute*." - Donald Knuth
 - - -
