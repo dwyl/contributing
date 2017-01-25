@@ -23,11 +23,12 @@ Our contribution steps in a _nutshell_:
 
 ## Part 1: _Describe_ the Idea or User Story in an Issue
 
-### _Got_ Issues...?
+### _Why_ Use GitHub Issues...?
 
 _Everything_ starts with a _thought_.
-We collect our _thoughts_ in GitHub "issues".
-The issue can then be _**dicussed, validated** and **worked on** as a **team**_.
+We collect our _thoughts_ in GitHub "issues". <br />
+The issue can then be _**dicussed, validated**
+and **worked on** as a **team**_. <br />
 We use _issues_ to log our user stories and sub/technical tasks
 to ensure we have a
 [single version of the truth](https://github.com/dwyl/github-reference#why).  
@@ -39,36 +40,40 @@ to the ***person using the application***.
 
 ### A) Check if the Idea/Story/Issue _Already Exists_ Using GitHub Search ![search](https://cloud.githubusercontent.com/assets/194400/22224334/255930a8-e1b6-11e6-9953-12cd4739aa1c.png)
 
-1. Please take a minute to ***read through the existing stories/issues***
-for the project to familiarize yourself with the current "backlog".
+1. Please take a moment to ***read through the existing stories/issues***
+for the project <br />
+to familiarize yourself with the _current_ "***backlog***".
+(_there is a chance what you are thinking has **already** been **described**
+  by someone else..._)
 
 1. Try ***searching*** through the ***existing issues***
 for _keywords_ associated with the story/issue you want to create, <br />
 e.g:
 https://github.com/dwyl/time/issues?utf8=%E2%9C%93&q=is%3Aissue%20app+icon <br/>
-if `"app icon"` were your keywords and you're searching in the "**Time**" project.
-
+if `"app icon"` were the keywords for what you have in mind
+and you were searching in the "**Time**" project. <br />
 ![issue-matching-keyword-search](https://cloud.githubusercontent.com/assets/194400/22225715/852d9f78-e1bb-11e6-9d20-37492da92dc1.png)
 1. if you ***find*** an _existing_ issue that matches what you were looking for,
 _please_ click on the title of the issue, ***read the description*** to
 confirm if it's what you are looking for, then ***comment*** on it
-so we know more than one person has the need/issue.
-
+so we know more than one person has the need/issue. <br />
 ![issue-search-for-app-icon](https://cloud.githubusercontent.com/assets/24758860/22225508/993c7ecc-e1ba-11e6-8a53-e8d2ac398546.png)
-1. Otherwise, if you are (_reasonably_) sure there is no _existing_ issue/story
-covering what you have in mind, _please_ create a new issue (_see next step_!)
+1. _Otherwise_, once you are (_reasonably_) sure there is
+no _existing_ issue/story covering what you have in mind,
+_please_ **create** a ***new issue*** (_see next step_!)
 
 
 ### B) Create a New User Story _or_ Report an Issue ![New Issue](https://cloud.githubusercontent.com/assets/194400/22224203/bbc5efb4-e1b5-11e6-9fcb-3aae75ae74ed.png)
 
 1. Using the `New Issue` button, create an **issue**
-  for the ***user story*** (_feature request, expected behaviour or "bug"_)
+  for the ***user story***
+  (_feature request, expected or **unexpected** behaviour_)
   you have in mind.
 
 > A _good_ user story _describes_ the idea
   in a _**concise** and **user-focussed**_ way. <br />
 
-#### Example User Story Descriptions
+### _Example_ User Story Descriptions
 
   Example user story (_if the feature has not been described before_):
   ```
@@ -84,7 +89,7 @@ covering what you have in mind, _please_ create a new issue (_see next step_!)
   when I attempt to save a shortcut to my home screen,
   I do not see an app icon. :-(
   ```
-#### Include Relevant Information in the _Issue Description_
+### Include Any/All _Relevant_ Information in the _Issue Description_
 
 Please *include* as much ***relevant information*** as you can
   so the Product Owner (_or project leader_) can decide if
@@ -117,8 +122,8 @@ with a ***clear description*** and **_illustrative_ screenshots**:
 
 [![create-issue-for-home-screen-icon](https://cloud.githubusercontent.com/assets/24758860/22227322/ae12d9f6-e1c2-11e6-928c-c20cfe8b3912.png)](https://github.com/dwyl/dwyl.github.io/issues/194)
 
-This is a _real_ issue: https://github.com/dwyl/dwyl.github.io/issues/194
-if you want to see how it was _resolved_, click and go check it out!
+> This is a _real_ issue: https://github.com/dwyl/dwyl.github.io/issues/194
+**you _can_ help us _resolve_ it**!
 
 ### C) Submit the _New Issue_!
 
@@ -150,17 +155,51 @@ and one that can offer value to other developers like you! 🌟
 
 ## Questions?
 
+### _Why_ Does the Issue _Need_ to be _Validated_? >> One Word: _Communication_
+
+This _may initially feel_ a bit "_bureaucratic_" but
+we _urge_ you _not_ to think of it as
+["_jumping through hoops_"](https://en.wiktionary.org/wiki/jump_through_hoops)
+but _rather_, _we_ think of ***issue validation*** as:
+
++ ***ensures*** that **everyone** on the project
+is ***aware*** of the issue/idea/story.
+
++ ***saves you time*** by ***avoiding*** ***duplicating effort***!
+> The **Product Owner** (**PO**) or **Project Lead** (**PL**)
+has _detailed knowledge_ of the _current_ issue backlog
+and all _previous_ ("closed") issues.
+They know _how_ features/functionality _should_ work and can
+validate from the _user's_ perspective
+
++ ***someone else*** might have **insight** they can share on the issue! <br />
+> e.g: if you have a **question** or are stuck on a challenge/problem,
+[_**share** your **thoughts** and/or **progress** towards "**solving**" it in
+**issue comments**_](https://github.com/dwyl/learn-nightwatch/issues/8)
+you _never_ know when you will get _insight_ from a complete stranger!
+
++ ***clearly documents*** the project so anyone _joining_ the team
+_later_ on can see the "_history_".
+> We have found this to be _invaluable_ when people are _learning_
+how something works!
+
+
+(_we find that on balance_)
+it makes for better remote working because less discussion is "lost"
+and means everyone can follow along regardless of their location.
 
 
 ### How _Long_ Does it take for an Issue to be _Validated_?
 
 We ***aim*** to respond to new issues within _**minutes**_
 but during busy work days this can take up to ***a few hours***... <br />
-(_**thank you** for your **patience**!_)
+(_**thank you** for your **patience**!
+  **please** help us by giving as much useful information
+  as possible in the issue description._)
 
 ![thinking-please-wait](https://cloud.githubusercontent.com/assets/194400/22228969/9add48f8-e1cc-11e6-8cdc-ef9b30eac846.jpg)
 
-### What can I do `while` I _wait_ for a _reply_?
+### What can I do `while` I _wait_ for a my issue to be _Validated_?
 
 + If you are ***itching*** to help "move the issue/story along"
 you can help by _describing_ how the story/issue _could_
@@ -200,7 +239,7 @@ until the issue has been ***validated***.
 
 <br /><br /><br />
 
-# Part 2: _Validate_ the Need (User Story) or Issue Exists
+# Part 2: _Validate_ the Need (User Story) or Issue _Exists_
 
 > A _different_ team member ***must validate*** the User Story/Issue.
 
@@ -317,6 +356,10 @@ Once _all_ the previous steps have been performed
   Fix the feature to make the test pass. Only then is your work "**done**"_)
   + ***Never*** _assign_ a PR for "_review_"
   _until_ _**all CI checks** are **pass**_.
+  ![check failed](https://cloud.githubusercontent.com/assets/194400/22284176/db2d698a-e2dd-11e6-8799-573226328b6b.png)
+  if _anything_ is failing on a PR and you _need_ help simply
+  ***comment*** in the PR "_thread_" _asking_ for help!
+
 
 + **Increment** the _version_ of your application if it is a "_new release_".
 
@@ -448,8 +491,6 @@ Here are the custom ones that we use at dwyl:
 - `T[x]d` #F06292 - time in 'x' days it should take (estimation)
 - `T[x]h` #F7C6C7 - time in 'x' hours it should take (estimation)
 - `technical` #D4C5F9 - technical issue for developers
-
-## *What?*
 
 
 ## Additional Information
