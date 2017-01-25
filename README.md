@@ -303,8 +303,10 @@ can determine the _order_ in which they need to be worked on.
   + ***test***
   + ***develop*** and
   + ***deliver***
+
 + Where ever possible/practical/relevant **include** the person who
 **_originally_ created the story/issue** in the time estimation discussion.
+
 + For work in sprints, a **milestone** is added **at the sprint planning
 session** to group the user stories with its relevant sprint;
 this gives _everyone_ in the team a **_clear_ picture** of what is ***planned***.
@@ -428,7 +430,10 @@ which ***improves review speed***.
 
 + If you have the _permissions_ to do so,
 **assign your pull request**
-to someone for review.
+to someone (_else_) for review.
+
++ ***Never*** merge your _own_ pull requests on a **_team_ project**.
+**No Exceptions**. Just ***don't do it***. 
 
 A good example PR: https://github.com/indexzero/ps-tree/pull/12
 
