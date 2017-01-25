@@ -16,7 +16,7 @@ with **simple steps** people can **_easily_ follow** <br />
 
 Our contribution steps in a _nutshell_:
 
-![validate-idea](https://cloud.githubusercontent.com/assets/194400/22287004/1cde1ebe-e2e9-11e6-9c00-8a0312d0ba6d.png "DWYL's Contribution Guidelines Steps Diagram")
+![validate-idea](https://cloud.githubusercontent.com/assets/194400/22287688/a929a9ae-e2eb-11e6-8d16-f2ebbebea080.png "DWYL's Contribution Guidelines Steps Diagram")
 
 ***Please*** ***inform us*** if ***anything*** is ***unclear***
 or if you have _**any suggestions** for how to **simplify/streamline**_ things.
@@ -311,7 +311,7 @@ this gives _everyone_ in the team a **_clear_ picture** of what is ***planned***
 
 
 
-# Part 3: _Make_ it _Happen_!
+# Part 3: _Do_ the _Work_!
 
 ![get-it-done](https://cloud.githubusercontent.com/assets/194400/22265743/44a2ca72-e275-11e6-819d-2c5a1958ea11.png)
 
