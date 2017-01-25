@@ -75,9 +75,6 @@ _please_ **create** a ***new issue*** (_see next step_!)
   (_feature request, expected or **unexpected** behaviour_)
   you have in mind.
 
-> A _good_ user story _describes_ the idea
-  in a _**concise** and **user-focussed**_ way. <br />
-
 ### _Example_ User-focussed "Story" Descriptions
 
 _**User stories** describe features_ (_or "**expected behaviour**"
@@ -101,10 +98,26 @@ in terms of the ***value***
   ```
 ### Include Any/All _Relevant_ Information in the _Issue Description_
 
-Please *include* as much ***relevant information*** as you can
++ Please *include* as much ***relevant information*** as you can
 so the Product Owner (_or project leader_) <br />
 can ***validate*** if
 it is a **necessary/desired** feature.
+
++ **Note**: A _good_ user story _describes_ the idea
+  in a _**concise** and **user-focussed**_ way. <br />
+
++ ***Never*** leave the issue _description_ blank
+even when you are in a "rush" <br />
+the point of issues is to _communicate_,
+if you see an _incomplete_ issue flag it.
+(_link your friend to here...!_)<br />
+You _wouldn't_ send a _blank email_
+to hundreds of your friends (_unless you wanted to freak them out!_), yet,<br />
+submitting ***blank issues*** is doing _exactly_ that!
+It sends a ["_I have **no idea** what I'm doing_"](https://www.google.com/search?q=i+have+no+idea+what+i%27m+doing&tbm=isch)
+**message** to your ***peers*** ... <br />
+Which was only _amusing_ the _first_ time ... _just_ ***communicate better***.
+
 
 Example of useful details:
 ```
@@ -136,6 +149,8 @@ with a ***clear description*** and **_illustrative_ screenshots**:
 
 > This is a _real_ issue: https://github.com/dwyl/dwyl.github.io/issues/194
 **you _can_ help us _resolve_ it**!
+
+
 
 ### C) Submit the _New Issue_!
 
@@ -291,7 +306,7 @@ labels is to help the team categorize and prioritize issues in the backlog see:
 
 ### B) _Assign_ a _Priority_ to the Story/Issue
 
-+ ***Always ensure*** that the Story/Issue focusses on ***only one thing***.
+1. ***Always ensure*** that the Story/Issue focusses on ***only one thing***.
 As soon as you see the word "***and***" in a story/issue, you know it is
 trying to do more than one thing.
 + ***If*** the Story/Issue has **too many components or features***,
@@ -307,7 +322,7 @@ can determine the _order_ in which they need to be worked on.
 
 ### C) _Estimate_ the Time Required to Perform the Work
 
-+ During "_Sprint Planning_" a ***time estimate label*** is added
+1. During "_Sprint Planning_" a ***time estimate label*** is added
   to each story (_and Sub-Stories/tasks_) <br />
   The time estimate **_must_ include** time to:
   + ***document***
@@ -434,25 +449,25 @@ The project should also have a
 [pre-commit hook](https://github.com/dwyl/learn-pre-commit) <br />
 to check that the code has been "linted" and conforms to standard.
 
-+ ***Apply*** the
+1. ***Apply*** the
 [`in-review` **label**](https://github.com/dwyl/labels/issues/48)
 to the Pull Request to signal to other members of the team that the PR
 is being reviewed. (_at this point new commits which change large portions
   of the code being reviewed should not be pushed unless
   they are for changes that have been requested by the reviewer_)
 
-+ ***Checkout*** the PR's _branch_ and run it on your local machine
+1. ***Checkout*** the PR's _branch_ and run it on your local machine
 following the instructions in the `README.md` where applicable.
 > ***Confirm*** the tests pass and app runs on your local machine.
 
-+ ***Open the Issue(s)*** referenced in the Pull Request
+1. ***Open the Issue(s)*** referenced in the Pull Request
 and re-acquaint yourself with the User Stories so you can
 ***confirm*** the content of the PR **satisfies** the ***Acceptance Criteria***.
 
-+ ***Review*** the _content_ (_documentation, tests or code_)
+1. ***Review*** the _content_ (_documentation, tests or code_)
 in the Pull Request on GitHub...
 
-+ ***Write comments*** or notes to the developer(s)
+1. ***Write comments*** or notes to the developer(s)
 giving feedback on their code.
 > see: "notes on code reviews": https://github.com/dwyl/contributing/issues/32#issuecomment-271089111 [![Get Help!](https://img.shields.io/badge/help-wanted-brightgreen.svg?style=flat)](https://github.com/dwyl/contributing/issues)
 
@@ -471,19 +486,19 @@ so it's not _uncommon_ to see _multiple_ people "***approving***" a PR. <br />
 e.g: https://github.com/TheScienceMuseum/collectionsonline/pull/708 <br />
 ![multiple-reviewers](https://cloud.githubusercontent.com/assets/194400/22298408/54d24b7c-e318-11e6-9009-4b42bba4f5e4.png)
 
-+ ***Merge the Pull Request***.
+1. ***Merge the Pull Request***.
 
-+ ***Delete The Branch*** on GitHub (_and your local machine_)
+1. ***Delete The Branch*** on GitHub (_and your local machine_)
 the code is now merged into another branch (_most likely `master`_)
 so deleting the branch will not "_lose_" any code.
 
-+ ***Finnally*** _someone_ on the team
+1. ***Finnally*** _someone_ on the team
 (_usually the developer who created the PR_)
 applies the [`please-test` **label**](https://github.com/dwyl/labels/issues/46)
 to any issues mentioned in the PR so that the Product Owner and/or
 User Testing Team are _aware_ that the feature is ready to test.
 
-<br /><br /><br />
+<br /><br />
 
 ## _Notes_ on Creating _Good_ Pull Requests
 
