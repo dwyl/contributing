@@ -260,7 +260,7 @@ or has not been _assigned_ to someone for investigation/work. <br />
 this is quite easy to find by searching for a **label**:
 [`help wanted`](https://github.com/search?q=org%3Adwyl+is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 
-#### Is it a "_Bug_"?
+### Is it a "_Bug_"?
 
 We also use GitHub issues to report "***unexpected behaviour***"
 (_sometimes referred to as a "**bug**"_) in an app or module,
@@ -318,23 +318,53 @@ can determine the _order_ in which they need to be worked on.
 ### C) _Estimate_ the Time Required to Perform the Work
 
 1. For an _ongoing_ project, we estimate stories
-  During "_Sprint Planning_" session;
-  A ***time estimate label*** is added
-  to each story (_and Sub-Stories/tasks_) <br />
-  The time estimate **_must_ include** time to:
-  + ***document***
-  + ***test***
-  + ***develop*** and
-  + ***deliver***
+  During "_Sprint Planning_" session; <br />
+  A ***time estimate label*** (_e.g_: `T4h`  or `T25m`) is added
+  to each story (_and any Sub-Stories/tasks_) <br />
+  The time estimate **_must_ factor** time to:
+  + ***document*** the changes made to the codebase or UI
+  + ***test*** both the code (_unit/functional tests_) and UI tests
+  + ***develop*** the feature (_or fix the "bug"_)
+  + ***deliver*** by submitting a PR and going through a review/QA cycle.
+  + ***deploy*** the work to an environment
+  where a non-technical peopler can _evaluate_ it against the original
+  story description and acceptance criteria!
 
 + Where ever possible/practical/relevant **include** the person who
-**_originally_ created the story/issue** in the time estimation discussion.
+  **_originally_ created the story/issue** in the time estimation discussion.
 
 + For work in sprints, a **milestone** is added **at the sprint planning
 session** to group the user stories with its relevant sprint;
 this gives _everyone_ in the team a **_clear_ picture** of what is ***planned***.
 
-### Estimating for Open Source Modules (_without "sprints"_)
+### _Practical_ Note on Time Estimation for a Story/Task
+
+Our time estimates are
+usually for a ***pair of people programming together***. <br />
+(_adjust accordingly if you're working without a pair.
+or, better yet, **find someone** to pair with!_)<br />
+
+Where the team includes _several developers_ the time
+estimate will be the _average_ expected time <br />
+for the two _least experienced people_.
+Underestimating the expected time for a task out of "_naive optimism_" <br />
+sets an ***unrealistic expectation*** and leads to ***stress & sadness***.
+
+#### Revising a Time Estimate
+
+If you are made aware of _any_ reason why the original time estimate
+applied to a story is unlikely to be the _actual_ time it's going to take
+to complete, inform your team as soon as possible!
+Avoid _suffering in silence_ if you are _stuck_ on something just
+because you don't want to alter the time estimate!
+Nobody will "_hate_" you for being honest about how much effort it _actually_
+is taking to deliver the work! Just tell your team
+(_by commenting in the issue_) as soon as you know it's
+taking longer than expected, and _ask_ for _specific_
+help from your "***Scrum Master***" or "**Team Lead**".
+
+
+### Estimating for _Open Source_ Modules (_without "sprints"_)
 
 For independent open source modules or hobby projects
 we **estimate** on an **ad hoc basis _before_ work starts** on the issue. <br />
