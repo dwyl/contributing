@@ -14,28 +14,27 @@ with **simple steps** people can **_easily_ follow** <br />
 **so that** we _avoid confusion_ and
 **keep our _communication consistently crystal clear_**! <br />
 
-_Please_ let us know if anything is _unclear_
-or if you have _**any suggestions** for how to **simplify/streamline**_ things.
-
 Our contribution steps in a _nutshell_:
 
-![validate-idea](https://cloud.githubusercontent.com/assets/194400/22268041/e2f45df0-e27d-11e6-9c86-41e898b70701.png)
+![validate-idea](https://cloud.githubusercontent.com/assets/194400/22287004/1cde1ebe-e2e9-11e6-9c00-8a0312d0ba6d.png "DWYL's Contribution Guidelines Steps Diagram")
 
-## Part 1: _Describe_ the Idea or User Story in an Issue
+***Please*** ***inform us*** if ***anything*** is ***unclear***
+or if you have _**any suggestions** for how to **simplify/streamline**_ things.
+
+
+# Part 1: _Describe_ the Idea or User Story in an Issue
 
 ### _Why_ Use GitHub Issues...?
 
 _Everything_ starts with a _thought_.
-We collect our _thoughts_ in GitHub "issues". <br />
+We collect _all_ our _thoughts_ in GitHub "issues". <br />
 The issue can then be _**dicussed, validated**
-and **worked on** as a **team**_. <br />
-We use _issues_ to log our user stories and sub/technical tasks
-to ensure we have a
-[single version of the truth](https://github.com/dwyl/github-reference#why).  
-
-_**User stories** describe features_ (_or expected behaviours_)
-of the application in terms of their ***value***
-to the ***person using the application***.
+and **worked on** as a **team**_ while keeping ***everyone informed***. <br />
+We use _issues_ to _log_ our user stories, sub/technical tasks
+and any ***progress*** towards solving the issue, <br />
+this ***ensures*** we have a
+[_**single source** of the **truth**_](https://github.com/dwyl/github-reference#why)
+that _everyone_ can easily see!  
 
 
 ### A) Check if the Idea/Story/Issue _Already Exists_ Using GitHub Search ![search](https://cloud.githubusercontent.com/assets/194400/22224334/255930a8-e1b6-11e6-9953-12cd4739aa1c.png)
@@ -73,7 +72,12 @@ _please_ **create** a ***new issue*** (_see next step_!)
 > A _good_ user story _describes_ the idea
   in a _**concise** and **user-focussed**_ way. <br />
 
-### _Example_ User Story Descriptions
+### _Example_ User-focussed "Story" Descriptions
+
+_**User stories** describe features_ (_or "**expected behaviour**"
+of the application_) <br />
+in terms of the ***value***
+(_or "**benefit**"_) to the ***person using the application***.
 
   Example user story (_if the feature has not been described before_):
   ```
@@ -92,25 +96,27 @@ _please_ **create** a ***new issue*** (_see next step_!)
 ### Include Any/All _Relevant_ Information in the _Issue Description_
 
 Please *include* as much ***relevant information*** as you can
-  so the Product Owner (_or project leader_) can decide if
-  it is a necessary/desired feature.
-  Example of useful details:
-  ```
-  People using the app will only access the app from their company-issued
-  Android (Lollipop) Mobile phone (5 inch Samsung Galaxy J)
-  The screen resolution is 1080 x 1920 pixels
-  ```
-  or describing a specific need for "_offline capability_"
-  ```
-  People use the app in areas with poor mobile signal
-  so the app has to work offline and sync data/changes later
-  when they are back on WiFi or 3G.
-  ```
-  or for a when reporting an issue (_potential bug_):
-  ```
-  People using Windows 8 and Internet Explorer 10 report that
-  they cannot click on the button to save their app preferences/settings.
-  ```
+so the Product Owner (_or project leader_) <br />
+can ***validate*** if
+it is a **necessary/desired** feature.
+
+Example of useful details:
+```
+People using the app will only access the app from their company-issued
+Android (Lollipop) Mobile phone (5 inch Samsung Galaxy J)
+The screen resolution is 1080 x 1920 pixels
+```
+or describing a specific need for "_offline capability_"
+```
+People use the app in areas with poor mobile signal
+so the app has to work offline and sync data/changes later
+when they are back on WiFi or 3G.
+```
+or for a when reporting an issue (_potential bug_):
+```
+People using Windows 8 and Internet Explorer 10 report that
+they cannot click on the button to save their app preferences/settings.
+```
 
 > ***Tip***: _if you **can upload** a_ ***sketch*** (_of the idea_) or
 ***screenshot*** (_of the issue_), it helps _clarify_ a lot! <br />
@@ -136,7 +142,9 @@ of the team (_typically the Product Owner_) will ***review*** the issue.
 
 # _Next Steps_...?
 
-Once a new issue has been _created_, it has to be "_validated_".
+Once a new issue has been _created_,
+it ***must*** be "***validated***"
+by a ***different*** _member_ of the team/organisation.
 
 
 ## :star: Star The Project! :star: (_share the love!_)
@@ -145,7 +153,7 @@ _After_ you have ***contributed*** to the project,
 _e.g: by commenting on or creating an issue_, <br />
 -->
 If you've found the project interesting, helpful or useful in _any way_,
-_please_ share the love by starring it! <br />
+_please_ ***star*** the repository on GitHub! <br />
 Stars show _other_ members in the developer community
 that it's a _**worthwhile project** or **learning resource**_
 and one that can offer value to other developers like you! 🌟
@@ -158,7 +166,7 @@ and one that can offer value to other developers like you! 🌟
 ### _Why_ Does the Issue _Need_ to be _Validated_? >> One Word: _Communication_
 
 This _may initially feel_ a bit "_bureaucratic_" but
-we _urge_ you _not_ to think of it as
+we _urge_ you _not_ to think of it as <br />
 ["_jumping through hoops_"](https://en.wiktionary.org/wiki/jump_through_hoops)
 but _rather_, _we_ think of ***issue validation*** as:
 
@@ -168,20 +176,30 @@ is ***aware*** of the issue/idea/story.
 + ***saves you time*** by ***avoiding*** ***duplicating effort***!
 > The **Product Owner** (**PO**) or **Project Lead** (**PL**)
 has _detailed knowledge_ of the _current_ issue backlog
-and all _previous_ ("closed") issues.
+and all _previous_ ("closed") issues. <br />
 They know _how_ features/functionality _should_ work and can
-validate from the _user's_ perspective
+validate from the _user's_ perspective. <br />
+***Most importantly*** the PO/PL ***knows*** if someone ***else***
+is ***already*** working on the issue ... <br />
+And, _sometimes_ the _exact_ same issue has ben "***solved before***"
+in a _different_ project, so ***hours/days*** of effort can be saved!!
+
 
 + ***someone else*** might have **insight** they can share on the issue! <br />
 > e.g: if you have a **question** or are stuck on a challenge/problem,
-[_**share** your **thoughts** and/or **progress** towards "**solving**" it in
-**issue comments**_](https://github.com/dwyl/learn-nightwatch/issues/8)
-you _never_ know when you will get _insight_ from a complete stranger!
+[_**share** your **thoughts** and/or **progress**
+towards "**solving**" it in **issue comments**_](https://github.com/dwyl/learn-nightwatch/issues/8#issuecomment-264734792)
+you _never_ know when you will get _insight_ from a ***complete stranger***!
+
++ ***capturing information in issues*** _maintains_ ***relevance and focus***.
+> the discussion is not "***lost***"
+the way it would be in "_chat_"
+and discussion are grouped by relevant topic.
 
 + ***clearly documents*** the project so anyone _joining_ the team
 _later_ on can see the "_history_".
 > We have found this to be _invaluable_ when people are _learning_
-how something works!
+why and how something works the way it does!
 
 
 (_we find that on balance_)
@@ -413,8 +431,11 @@ which ***improves review speed***.
 to someone for review.
 
 A good example PR: https://github.com/indexzero/ps-tree/pull/12
-((created from the need which was confirmed in
-  [this issue](https://github.com/indexzero/ps-tree/issues/10))).
+
+created from the ***need***
+which was ***validated*** and ***discussed*** in
+an **issue** https://github.com/indexzero/ps-tree/issues/10
+***before*** _any_ work was performed.
 
 <br />
 
