@@ -19,7 +19,7 @@ Our contribution steps in a _nutshell_:
 ![validate-idea](https://cloud.githubusercontent.com/assets/194400/22287688/a929a9ae-e2eb-11e6-8d16-f2ebbebea080.png "DWYL's Contribution Guidelines Steps Diagram")
 
 ***Please*** ***inform us*** if ***anything*** is ***unclear***
-or if you have _**any suggestions** for how to **simplify/streamline**_ things.
+or if you have _**a suggestion** for how to **simplify/streamline**_ it!
 [![Get Help!](https://img.shields.io/badge/get-help-brightgreen.svg?style=flat)](https://github.com/dwyl/contributing/issues)
 
 
@@ -186,7 +186,7 @@ and one that can offer value to other developers like you! 🌟
 
 <br />
 
-## Questions?
+# Questions?
 
 ### _Why_ Does the Issue _Need_ to be _Validated_? >> One Word: _Communication_
 
@@ -221,15 +221,10 @@ you _never_ know when you will get _insight_ from a ***complete stranger***!
 the way it would be in "_chat_"
 and discussion are grouped by relevant topic.
 
-+ ***clearly documents*** the project so anyone _joining_ the team
++ ***clearly document*** the project so anyone _joining_ the team
 _later_ on can see the "_history_".
 > We have found this to be _invaluable_ when people are _learning_
 why and how something works the way it does!
-
-
-(_we find that on balance_)
-it makes for better remote working because less discussion is "lost"
-and means everyone can follow along regardless of their location.
 
 
 ### How _Long_ Does it take for an Issue to be _Validated_?
@@ -322,7 +317,9 @@ can determine the _order_ in which they need to be worked on.
 
 ### C) _Estimate_ the Time Required to Perform the Work
 
-1. During "_Sprint Planning_" a ***time estimate label*** is added
+1. For an _ongoing_ project, we estimate stories
+  During "_Sprint Planning_" session;
+  A ***time estimate label*** is added
   to each story (_and Sub-Stories/tasks_) <br />
   The time estimate **_must_ include** time to:
   + ***document***
@@ -336,6 +333,16 @@ can determine the _order_ in which they need to be worked on.
 + For work in sprints, a **milestone** is added **at the sprint planning
 session** to group the user stories with its relevant sprint;
 this gives _everyone_ in the team a **_clear_ picture** of what is ***planned***.
+
+> **Note**: For independent open source modules or hobby projects
+we **estimate** on an **ad hoc basis _before_ work starts** on the issue.
+Just because we are doing Open Source work does not mean we
+shouldn't estimate our time. Some of our open source modules
+are made to solve a problem in a client project/product.
+If you are doing work on an Open Source module during "client work" time,
+please "mirror" the issue in the Project and
+add _ensure_ you estimate in _both_ places so the PO on the project is aware
+of what you are doing.
 
 <br /><br /><br />
 
@@ -519,7 +526,8 @@ into individual parts to be reviewed separately. <br />
 + A **descriptive title** answers the question:
 "_What **included** in this PR_?"
 
-+ A ***good description*** gives the person reviewing the PR
++ A ***good description*** summarises the the _contents_ of the PR and
+gives the person/people reviewing the PR
 a **clear picture/focus** for the feature/change/bug-fix
 which ***improves review speed***.
 
@@ -575,8 +583,9 @@ repo. Check it out! :heart:
 
 ### Labels
 
-> see: https://github.com/dwyl/labels
+> see: https://github.com/dwyl/labels and
 > https://github.com/dwyl/contributing/issues/40
+[![Help Wanted!](https://img.shields.io/badge/help-wanted-brightgreen.svg?style=flat "Please Help Us")](https://github.com/dwyl/contributing/issues/40)
 
 GitHub can be a _great_ project management tool if used _effectively_.
 One of the ways we _communicate_ with each other in our project(s)
