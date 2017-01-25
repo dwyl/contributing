@@ -334,15 +334,22 @@ can determine the _order_ in which they need to be worked on.
 session** to group the user stories with its relevant sprint;
 this gives _everyone_ in the team a **_clear_ picture** of what is ***planned***.
 
-> **Note**: For independent open source modules or hobby projects
-we **estimate** on an **ad hoc basis _before_ work starts** on the issue.
+### Estimating for Open Source Modules (_without "sprints"_)
+
+For independent open source modules or hobby projects
+we **estimate** on an **ad hoc basis _before_ work starts** on the issue. <br />
 Just because we are doing Open Source work does not mean we
-shouldn't estimate our time. Some of our open source modules
-are made to solve a problem in a client project/product.
+shouldn't estimate the expected effort/time for our work. <br />
+If anything we should follow our Contributing Guide ***better***
+because our Open Source work is available for ***everyone*** to see! <br />
+Some of our open source modules
+are made to solve a problem in a client project/product. <br />
 If you are doing work on an Open Source module during "client work" time,
-please "mirror" the issue in the Project and
-add _ensure_ you estimate in _both_ places so the PO on the project is aware
-of what you are doing.
+please "mirror" the issue in the Project and _ensure_ <br />
+you  **estimate in _both_ places** so the "PO"
+(_AKA approver of invoices!!_)
+on the project is _always aware_ of what you are doing.
+
 
 <br /><br /><br />
 
