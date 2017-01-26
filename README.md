@@ -75,7 +75,7 @@ _please_ **create** a ***new issue*** (_see next step_!)
   (_feature request, expected or **unexpected** behaviour_)
   you have in mind.
 
-### _Example_ User-focussed "Story" Descriptions
+### _Example_ User-focused "Story" Descriptions
 
 _**User stories** describe features_ (_or "**expected behaviour**"
 of the application_) <br />
@@ -104,7 +104,7 @@ can ***validate*** if
 it is a **necessary/desired** feature.
 
 + **Note**: A _good_ user story _describes_ the idea
-  in a _**concise** and **user-focussed**_ way. <br />
+  in a _**concise** and **user-focused**_ way. <br />
 
 + ***Never*** leave the issue _description_ blank
 even when you are in a "rush" <br />
