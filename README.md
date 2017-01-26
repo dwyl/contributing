@@ -455,6 +455,9 @@ tell people; ***everyone*** benefits from easy-to-read (_understand_) code.
 The person who is _assigned_ to review the PR
 (_often referred to as the **Quality Assurance Person** or "**QA**"_) will:
 
+<!-- should we be re-confirming that CI Checks pass before reviewing?
+or should we *rely* on the PR submitter to have done the checks?
+see: https://github.com/dwyl/contributing/pull/63#discussion_r97884381
 1. ***Confirm*** that all "**CI**" ***checks pass*** _before_ doing anything else.
 > Tests should all pass and "_test coverage_" should be _measured_
 for every change/pull request. <br />
@@ -462,6 +465,7 @@ All our projects aim for 100% Test Coverage.
 The project should also have a
 [pre-commit hook](https://github.com/dwyl/learn-pre-commit) <br />
 to check that the code has been "linted" and conforms to standard.
+-->
 
 1. ***Apply*** the
 [`in-review` **label**](https://github.com/dwyl/labels/issues/48)
