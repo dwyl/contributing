@@ -163,7 +163,7 @@ of the team (_typically the Product Owner_) will ***review*** the issue.
 
 ![thank-you-green-large](https://cloud.githubusercontent.com/assets/194400/22229077/5b0695ee-e1cd-11e6-9001-e5ff53afce36.jpg)
 
-# _Next Steps_...?
+# _What do I do Next_...?
 
 Once a new issue has been _created_,
 it ***must*** be "***validated***"
@@ -186,6 +186,19 @@ and one that can offer value to other developers like you! 🌟
 <br />
 
 # Questions?
+
+<!-- should the questions be at the END of this doc or
+will people not scroll that far?
+see: https://github.com/dwyl/contributing/pull/63#pullrequestreview-18508277
+My idea was to structure
+the content in in the order a Complete Beginner
+(or at least a Person who is new to our Contributing Guide)
+will *think* of it... So I've submitted my issue/question/bug-report
+i.e: now what...?
+So having these questions and corresponding answers here seemed
+logical... but I'm equally happy for someone to re-org them
+into a FAQ section with other contributing/process-related questions.
+please make suggestions in issues! thanks!! -->
 
 ### _Why_ Does the Issue _Need_ to be _Validated_? >> One Word: _Communication_
 
