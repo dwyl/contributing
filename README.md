@@ -247,7 +247,11 @@ but during busy work days this can take up to ***a few hours***... <br />
   **please** help us by giving as much useful information
   as possible in the issue description._)
 
+<!-- Image removed so we can discuss an alternative ...
+see: https://github.com/dwyl/contributing/issues/62
+and: https://github.com/dwyl/contributing/pull/63#pullrequestreview-18510563
 ![thinking-please-wait](https://cloud.githubusercontent.com/assets/194400/22228969/9add48f8-e1cc-11e6-8cdc-ef9b30eac846.jpg)
+-->
 
 ### What can I do `while` I _wait_ for a my issue to be _Validated_?
 
