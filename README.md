@@ -75,81 +75,9 @@ _please_ **create** a ***new issue*** (_see next step_!)
   (_feature request, expected or **unexpected** behaviour_)
   you have in mind.
 
-### _Example_ User-focused "Story" Descriptions
-
-_**User stories** describe features_ (_or "**expected behaviour**"
-of the application_) <br />
-in terms of the ***value***
-(_or "**benefit**"_) to the ***person using the application***.
-
-  Example user story (_if the feature has not been described before_):
-  ```
-  As a person using the Web App
-  I want to be able to save a shortcut app icon to my home screen
-  so that I can easily get back into the app without having to navigate to it.
-  ```
-  or if you are reporting an issue/bug/fault try and include
-  the exact steps to "_reproduce_" the issue. <br />
-  example:
-  ```
-  when using the app on an iPhone 6 running the latest OS (10.2)
-  when I attempt to save a shortcut to my home screen,
-  I do not see an app icon. :-(
-  ```
-### Include Any/All _Relevant_ Information in the _Issue Description_
-
-+ Please *include* as much ***relevant information*** as you can
-so the Product Owner (_or project leader_) <br />
-can ***validate*** if
-it is a **necessary/desired** feature.
-
-+ **Note**: A _good_ user story _describes_ the idea
-  in a _**concise** and **user-focused**_ way. <br />
-
-+ ***Never*** leave the issue _description_ blank
-even when you are in a "rush" <br />
-the point of issues is to _communicate_,
-if you see an _incomplete_ issue flag it.
-(_link your friend to here...!_)<br />
-You _wouldn't_ send a _blank email_
-to hundreds of your friends (_unless you wanted to freak them out!_), yet,<br />
-submitting ***blank issues*** is doing _exactly_ that!
-It sends a ["_I have **no idea** what I'm doing_"](https://www.google.com/search?q=i+have+no+idea+what+i%27m+doing&tbm=isch)
-**message** to your ***peers*** ... <br />
-Which was only _amusing_ the _first_ time ... _just_ ***communicate better***.
-
-
-Example of useful details:
-```
-People using the app will only access the app from their company-issued
-Android (Lollipop) Mobile phone (5 inch Samsung Galaxy J)
-The screen resolution is 1080 x 1920 pixels
-```
-or describing a specific need for "_offline capability_"
-```
-People use the app in areas with poor mobile signal
-so the app has to work offline and sync data/changes later
-when they are back on WiFi or 3G.
-```
-or for a when reporting an issue (_potential bug_):
-```
-People using Windows 8 and Internet Explorer 10 report that
-they cannot click on the button to save their app preferences/settings.
-```
-
-> ***Tip***: _if you **can upload** a_ ***sketch*** (_of the idea_) or
-***screenshot*** (_of the issue_), it helps _clarify_ a lot! <br />
-> ***How to take screenshot***: http://www.take-a-screenshot.org
-(_all platforms_!)
-
-Example creating a **New Issue** for an ***expected behaviour***
-with a ***clear description*** and **_illustrative_ screenshots**:
-
-[![create-issue-for-home-screen-icon](https://cloud.githubusercontent.com/assets/24758860/22227322/ae12d9f6-e1c2-11e6-928c-c20cfe8b3912.png)](https://github.com/dwyl/dwyl.github.io/issues/194)
-
-> This is a _real_ issue: https://github.com/dwyl/dwyl.github.io/issues/194
-**you _can_ help us _resolve_ it**!
-
+> _**Note**: If you are **new** to writing "**User Stories**",
+please checkout out our **Example User-focused Story Descriptions**
+section in the "Notes" section below_!
 
 
 ### Step 3: Submit the _New Issue_!
@@ -248,8 +176,8 @@ but during busy work days this can take up to ***a few hours***... <br />
   as possible in the issue description._)
 
 <!-- Image removed so we can discuss an alternative ...
-see: https://github.com/dwyl/contributing/issues/62
-and: https://github.com/dwyl/contributing/pull/63#pullrequestreview-18510563
+see: https://github.com/dwyl/contributing/pull/63#pullrequestreview-18510563
+and https://github.com/dwyl/contributing/issues/62
 ![thinking-please-wait](https://cloud.githubusercontent.com/assets/194400/22228969/9add48f8-e1cc-11e6-8cdc-ef9b30eac846.jpg)
 -->
 
@@ -317,7 +245,7 @@ labels is to help the team categorize and prioritize issues in the backlog see:
 
 ### Step 2: _Assign_ a _Priority_ to the Story/Issue
 
-1. ***Always ensure*** that the Story/Issue focusses on ***only one thing***.
+1. ***Always ensure*** that the Story/Issue focuses on ***only one thing***.
 As soon as you see the word "***and***" in a story/issue, you know it is
 trying to do more than one thing.
 + ***If*** the Story/Issue has **too many components or features***,
@@ -413,7 +341,7 @@ this gives _everyone_ in the team a **_clear_ picture** of what is ***planned***
 
 ### Step 3: _Prepare_ a Pull Request (PR) and _Assign_ (_to someone else_) for Review
 
-> **Rule (of thumb)**: _**Keep Pull Requests Small and Focussed**_.
+> **Rule (of thumb)**: _**Keep Pull Requests Small and Focused**_.
 
 1. ***Describe*** what your PR contains in the PR description;
 it only takes a _few seconds_
@@ -514,7 +442,7 @@ e.g: https://github.com/TheScienceMuseum/collectionsonline/pull/708 <br />
 the code is now merged into another branch (_most likely `master`_)
 so deleting the branch will not "_lose_" any code.
 
-1. ***Finnally*** _someone_ on the team
+1. ***Finally*** _someone_ on the team
 (_usually the developer who created the PR_)
 applies the [`please-test` **label**](https://github.com/dwyl/labels/issues/46)
 to any issues mentioned in the PR so that the Product Owner and/or
@@ -526,6 +454,85 @@ adequately address and then ***close the issue***.
 > In ***practice*** the PO often ends up closing the issue.
 
 <br /><br />
+
+# Notes on _Effective_ Contributing
+
+## _Example_ User-focused "Story" Descriptions
+
+_**User stories** describe features_ (_or "**expected behaviour**"
+of the application_) <br />
+in terms of the ***value***
+(_or "**benefit**"_) to the ***person using the application***.
+
+  Example user story (_if the feature has not been described before_):
+  ```
+  As a person using the Web App
+  I want to be able to save a shortcut app icon to my home screen
+  so that I can easily get back into the app without having to navigate to it.
+  ```
+  or if you are reporting an issue/bug/fault try and include
+  the exact steps to "_reproduce_" the issue. <br />
+  example:
+  ```
+  when using the app on an iPhone 6 running the latest OS (10.2)
+  when I attempt to save a shortcut to my home screen,
+  I do not see an app icon. :-(
+  ```
+### Include Any/All _Relevant_ Information in the _Issue Description_
+
++ Please *include* as much ***relevant information*** as you can
+so the Product Owner (_or project leader_) <br />
+can ***validate*** if
+it is a **necessary/desired** feature.
+
++ **Note**: A _good_ user story _describes_ the idea
+  in a _**concise** and **user-focused**_ way. <br />
+
++ ***Never*** leave the issue _description_ blank
+even when you are in a "rush" <br />
+the point of issues is to _communicate_,
+if you see an _incomplete_ issue flag it.
+(_link your friend to here...!_)<br />
+You _wouldn't_ send a _blank email_
+to hundreds of your friends (_unless you wanted to freak them out!_), yet,<br />
+submitting ***blank issues*** is doing _exactly_ that!
+It sends a ["_I have **no idea** what I'm doing_"](https://www.google.com/search?q=i+have+no+idea+what+i%27m+doing&tbm=isch)
+**message** to your ***peers*** ... <br />
+Which was only _amusing_ the _first_ time ... _just_ ***communicate better***.
+
+
+Example of useful details:
+```
+People using the app will only access the app from their company-issued
+Android (Lollipop) Mobile phone (5 inch Samsung Galaxy J)
+The screen resolution is 1080 x 1920 pixels
+```
+or describing a specific need for "_offline capability_"
+```
+People use the app in areas with poor mobile signal
+so the app has to work offline and sync data/changes later
+when they are back on WiFi or 3G.
+```
+or for a when reporting an issue (_potential bug_):
+```
+People using Windows 8 and Internet Explorer 10 report that
+they cannot click on the button to save their app preferences/settings.
+```
+
+> ***Tip***: _if you **can upload** a_ ***sketch*** (_of the idea_) or
+***screenshot*** (_of the issue_), it helps _clarify_ a lot! <br />
+> ***How to take screenshot***: http://www.take-a-screenshot.org
+(_all platforms_!)
+
+Example creating a **New Issue** for an ***expected behaviour***
+with a ***clear description*** and **_illustrative_ screenshots**:
+
+[![create-issue-for-home-screen-icon](https://cloud.githubusercontent.com/assets/24758860/22227322/ae12d9f6-e1c2-11e6-928c-c20cfe8b3912.png)](https://github.com/dwyl/dwyl.github.io/issues/194)
+
+> This is a _real_ issue: https://github.com/dwyl/dwyl.github.io/issues/194
+**you _can_ help us _resolve_ it**!
+
+<br />
 
 ## _Practical_ Note on Time Estimation for a Story/Task
 
