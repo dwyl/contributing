@@ -327,7 +327,20 @@ trying to do more than one thing.
 + Any/all Sub-Stories should _also_ be prioritized so that the team
 can determine the _order_ in which they need to be worked on.
 
-### Step 3: _Estimate_ the Time Required to Perform the Work
+<br /><br /><br />
+
+# Part 3: _Do_ the _Work_!
+
+![get-it-done](https://cloud.githubusercontent.com/assets/194400/22265743/44a2ca72-e275-11e6-819d-2c5a1958ea11.png)
+
+Once _all_ the previous steps have been performed
+(_story/issue created, categorized with labels, any sub-stories/tasks
+  created_)
+and you are _sure_ you ***understand*** what is ***required***
+(_make sure there are clear Acceptance Criteria_),
+go for it!
+
+### Step 1: _Estimate_ the Time Required to Perform the Work
 
 1. For an _ongoing_ project, we estimate stories
   During "_Sprint Planning_" session; <br />
@@ -349,64 +362,9 @@ can determine the _order_ in which they need to be worked on.
 session** to group the user stories with its relevant sprint;
 this gives _everyone_ in the team a **_clear_ picture** of what is ***planned***.
 
-### _Practical_ Note on Time Estimation for a Story/Task
+> _Please **See below** for "**Pratical Notes on Time Estimation**"_.
 
-Our time estimates are
-usually for a ***pair of people programming together***. <br />
-(_adjust accordingly if you're working without a pair.
-or, better yet, **find someone** to pair with!_)<br />
-
-Where the team includes _several developers_ the time
-estimate will be the _average_ expected time <br />
-for the two _least experienced people_.
-Underestimating the expected time for a task out of "_naive optimism_" <br />
-sets an ***unrealistic expectation*** and leads to ***stress & sadness***.
-
-#### Revising a Time Estimate
-
-If you are made aware of _any_ reason why the original time estimate
-applied to a story is unlikely to be the _actual_ time it's going to take
-to complete, inform your team as soon as possible!
-Avoid _suffering in silence_ if you are _stuck_ on something just
-because you don't want to alter the time estimate!
-Nobody will "_hate_" you for being honest about how much effort it _actually_
-is taking to deliver the work! Just tell your team
-(_by commenting in the issue_) as soon as you know it's
-taking longer than expected, and _ask_ for _specific_
-help from your "***Scrum Master***" or "**Team Lead**".
-
-
-### Estimating for _Open Source_ Modules (_without "sprints"_)
-
-For independent open source modules or hobby projects
-we **estimate** on an **ad hoc basis _before_ work starts** on the issue. <br />
-Just because we are doing Open Source work does not mean we
-shouldn't estimate the expected effort/time for our work. <br />
-If anything we should follow our Contributing Guide ***better***
-because our Open Source work is available for ***everyone*** to see! <br />
-Some of our open source modules
-are made to solve a problem in a client project/product. <br />
-If you are doing work on an Open Source module during "client work" time,
-please "mirror" the issue in the Project and _ensure_ <br />
-you  **estimate in _both_ places** so the "PO"
-(_AKA approver of invoices!!_)
-on the project is _always aware_ of what you are doing.
-
-
-<br /><br /><br />
-
-# Part 3: _Do_ the _Work_!
-
-![get-it-done](https://cloud.githubusercontent.com/assets/194400/22265743/44a2ca72-e275-11e6-819d-2c5a1958ea11.png)
-
-Once _all_ the previous steps have been performed
-(_story/issue created, categorized with labels, any sub-stories/tasks
-  created and estimate label applied_)
-and you are _sure_ you ***understand*** what is ***required***
-(_make sure there are clear Acceptance Criteria_),
-go for it!
-
-### Step 1: _Assign_ Yourself the Task and [_Do it_](https://youtu.be/M9-IZ1pNk00?t=45s)!
+### Step 2: _Assign_ Yourself the Task and [_Do it_](https://youtu.be/M9-IZ1pNk00?t=45s)!
 
 1. ***Assign*** the story/issue to yourself _before_ you start working.
 
@@ -449,7 +407,7 @@ go for it!
   + Add `[WiP]` before the title of your PR and add that it's
   **NOT READY FOR REVIEW** in the description if it's still in progress.
 
-### Step 2: _Prepare_ a Pull Request (PR) and _Assign_ (_to someone else_) for Review
+### Step 3: _Prepare_ a Pull Request (PR) and _Assign_ (_to someone else_) for Review
 
 > **Rule (of thumb)**: _**Keep Pull Requests Small and Focussed**_.
 
@@ -484,7 +442,7 @@ but ***dramatically improves*** the ***review process***. <br />
 (_please don't merge your own PRs we need to ensure every change
 has been reviewed by at least one other person on the team. thanks!_)
 
-### Step 3: _Reviewer(s): Review_, _Comment On_ and _Merge_ the Pull Request
+### Step 4: _Reviewer(s): Review_, _Comment On_ and _Merge_ the Pull Request
 
 Always remember: a **Pull Requests** is a
 "_**discussion thread** for **understanding** the code_",
@@ -554,7 +512,57 @@ applies the [`please-test` **label**](https://github.com/dwyl/labels/issues/46)
 to any issues mentioned in the PR so that the Product Owner and/or
 User Testing Team are _aware_ that the feature is ready to test.
 
+2. ***Ideally*** the ***Original Issue Creator*** should post a comment
+confirming that the issue (User Story, Question or Problem) has been
+adequately address and then ***close the issue***.
+> In ***practice*** the PO often ends up closing the issue.
+
 <br /><br />
+
+## _Practical_ Note on Time Estimation for a Story/Task
+
+Our time estimates are
+usually for a ***pair of people programming together***. <br />
+(_adjust accordingly if you're working without a pair.
+or, better yet, **find someone** to pair with!_)<br />
+
+Where the team includes _several developers_ the time
+estimate will be the _average_ expected time <br />
+for the two _least experienced people_.
+Underestimating the expected time for a task out of "_naive optimism_" <br />
+sets an ***unrealistic expectation*** and leads to ***stress & sadness***.
+
+### _Revising_ a Time Estimate
+
+If you are made aware of _any_ reason why the original time estimate
+applied to a story is unlikely to be the _actual_ time it's going to take
+to complete, inform your team as soon as possible!
+Avoid _suffering in silence_ if you are _stuck_ on something just
+because you don't want to alter the time estimate!
+Nobody will "_hate_" you for being honest about how much effort it _actually_
+is taking to deliver the work! Just tell your team
+(_by commenting in the issue_) as soon as you know it's
+taking longer than expected, and _ask_ for _specific_
+help from your "***Scrum Master***" or "**Team Lead**".
+
+
+### Estimating for _Open Source_ Modules (_without "sprints"_)
+
+For independent open source modules or hobby projects
+we **estimate** on an **ad hoc basis _before_ work starts** on the issue. <br />
+Just because we are doing Open Source work does not mean we
+shouldn't estimate the expected effort/time for our work. <br />
+If anything we should follow our Contributing Guide ***better***
+because our Open Source work is available for ***everyone*** to see! <br />
+Some of our open source modules
+are made to solve a problem in a client project/product. <br />
+If you are doing work on an Open Source module during "client work" time,
+please "mirror" the issue in the Project and _ensure_ <br />
+you  **estimate in _both_ places** so the "PO"
+(_AKA approver of invoices!!_)
+on the project is _always aware_ of what you are doing.
+
+<br /> <br />
 
 ## _Notes_ on Creating _Good_ Pull Requests
 
