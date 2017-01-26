@@ -154,13 +154,12 @@ with a ***clear description*** and **_illustrative_ screenshots**:
 
 ### Step 3: Submit the _New Issue_!
 
-1. Preview the issue _before_ you submit it to ensure any images were uploaded
-and there aren't any issues with the markdown/text in the description.
+1. Submit the new issue!
 
-1. Once you _submit_ a new issue for a User Story or Issue/Bug a member
+2. Once you _submit_ a new issue for a User Story or Issue/Bug a member
 of the team (_typically the Product Owner_) will ***review*** the issue.
 
-2. That's _it_ from the side of the _issue_ creator! (_thank you!_)
+3. That's _it_ from the side of the _issue_ creator! (_thank you!_)
 
 ![thank-you-green-large](https://cloud.githubusercontent.com/assets/194400/22229077/5b0695ee-e1cd-11e6-9001-e5ff53afce36.jpg)
 
