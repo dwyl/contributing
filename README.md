@@ -38,7 +38,7 @@ this ***ensures*** we have a
 that _everyone_ can easily see!  
 
 
-### A) Check if the Idea/Story/Issue _Already Exists_ Using GitHub Search ![search](https://cloud.githubusercontent.com/assets/194400/22224334/255930a8-e1b6-11e6-9953-12cd4739aa1c.png)
+### Step 1: Check if the Idea/Story/Issue _Already Exists_ Using GitHub Search ![search](https://cloud.githubusercontent.com/assets/194400/22224334/255930a8-e1b6-11e6-9953-12cd4739aa1c.png)
 
 1. Please take a moment to ***read through the existing stories/issues***
 for the project <br />
@@ -59,7 +59,7 @@ _please_ click on the title of the issue, ***read the description*** to
 confirm if it's what you are looking for, then ***comment*** on it
 so we know more than one person has the need/issue. <br />
 > _**Note**: if there is **already an issue** for what you were thinking,
-you can **skip** the "B)" and "C)" steps
+you can **skip** steps 2 & 3.
 as there's **no need** to create a **new issue**_.
 ![issue-search-for-app-icon](https://cloud.githubusercontent.com/assets/24758860/22225508/993c7ecc-e1ba-11e6-8a53-e8d2ac398546.png)
 
@@ -68,7 +68,7 @@ no _existing_ issue/story covering what you have in mind,
 _please_ **create** a ***new issue*** (_see next step_!)
 
 
-### B) Create a New User Story _or_ Report an Issue ![New Issue](https://cloud.githubusercontent.com/assets/194400/22224203/bbc5efb4-e1b5-11e6-9fcb-3aae75ae74ed.png)
+### Step 2: Create a New User Story _or_ Report an Issue ![New Issue](https://cloud.githubusercontent.com/assets/194400/22224203/bbc5efb4-e1b5-11e6-9fcb-3aae75ae74ed.png)
 
 1. Using the `New Issue` button, create an **issue**
   for the ***user story***
@@ -152,7 +152,7 @@ with a ***clear description*** and **_illustrative_ screenshots**:
 
 
 
-### C) Submit the _New Issue_!
+### Step 3: Submit the _New Issue_!
 
 1. Preview the issue _before_ you submit it to ensure any images were uploaded
 and there aren't any issues with the markdown/text in the description.
@@ -282,7 +282,7 @@ until the issue has been ***validated***.
 > A _different_ team member from the person who _created_ the issue
 ***must validate*** the User Story/Issue.
 
-### A) _Confirm_ the Need in the New Story/Issue
+### Step 1: _Confirm_ the Need in the New Story/Issue
 
 1. When a new issue (_user story, feature request or potential bug_)
 is submitted by someone, we _require_ a _different_ person to verify it. <br />
@@ -299,7 +299,7 @@ the issue to help ***categorise*** it. eg. `question`, `discuss`, etc.
 labels is to help the team categorize and prioritize issues in the backlog see:
 [complete list of labels](https://github.com/dwyl/labels/labels)
 
-### B) _Assign_ a _Priority_ to the Story/Issue
+### Step 2: _Assign_ a _Priority_ to the Story/Issue
 
 1. ***Always ensure*** that the Story/Issue focusses on ***only one thing***.
 As soon as you see the word "***and***" in a story/issue, you know it is
@@ -315,7 +315,7 @@ trying to do more than one thing.
 + Any/all Sub-Stories should _also_ be prioritized so that the team
 can determine the _order_ in which they need to be worked on.
 
-### C) _Estimate_ the Time Required to Perform the Work
+### Step 3: _Estimate_ the Time Required to Perform the Work
 
 1. For an _ongoing_ project, we estimate stories
   During "_Sprint Planning_" session; <br />
@@ -394,7 +394,7 @@ and you are _sure_ you ***understand*** what is ***required***
 (_make sure there are clear Acceptance Criteria_),
 go for it!
 
-### A) _Assign_ Yourself the Task and [_Do it_](https://youtu.be/M9-IZ1pNk00?t=45s)!
+### Step 1: _Assign_ Yourself the Task and [_Do it_](https://youtu.be/M9-IZ1pNk00?t=45s)!
 
 1. ***Assign*** the story/issue to yourself _before_ you start working.
 
@@ -437,7 +437,7 @@ go for it!
   + Add `[WiP]` before the title of your PR and add that it's
   **NOT READY FOR REVIEW** in the description if it's still in progress.
 
-### B) _Prepare_ a Pull Request (PR) and _Assign_ (_to someone else_) for Review
+### Step 2: _Prepare_ a Pull Request (PR) and _Assign_ (_to someone else_) for Review
 
 > **Rule (of thumb)**: _**Keep Pull Requests Small and Focussed**_.
 
@@ -472,7 +472,7 @@ but ***dramatically improves*** the ***review process***. <br />
 (_please don't merge your own PRs we need to ensure every change
 has been reviewed by at least one other person on the team. thanks!_)
 
-### C) _Reviewer(s): Review_, _Comment On_ and _Merge_ the Pull Request
+### Step 3: _Reviewer(s): Review_, _Comment On_ and _Merge_ the Pull Request
 
 Always remember: a **Pull Requests** is a
 "_**discussion thread** for **understanding** the code_",
