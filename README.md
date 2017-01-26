@@ -332,7 +332,7 @@ this gives _everyone_ in the team a **_clear_ picture** of what is ***planned***
   by pasting a link to the GitHub issue
   in the **commit message**.
 
-6. Once you have _commited_ your work/progessy, push up your changes
+6. Once you have _commited_ your work/progress, push up your changes
   and then open a Pull Request _(even if the work isn't yet finished)_ <br />
   so that the rest of your team can easily see what you've been working on.
   (_remember ..._)
