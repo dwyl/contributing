@@ -355,7 +355,7 @@ go for it!
   where a non-technical peopler can _evaluate_ it against the original
   story description and acceptance criteria!
 
-+ Where ever possible/practical/relevant **include** the person who
++ Whereever possible/practical/relevant **include** the person who
   **_originally_ created the story/issue** in the time estimation discussion.
 
 + For work in sprints, a **milestone** is added **at the sprint planning
