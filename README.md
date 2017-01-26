@@ -457,6 +457,13 @@ adequately address and then ***close the issue***.
 
 # Notes on _Effective_ Contributing
 
+### Thanks for Reading! Please Help Us _Improve_! [![Help Wanted!](https://img.shields.io/badge/help-wanted-brightgreen.svg?style=flat "Please Help Us")](https://github.com/dwyl/contributing/issues)
+
+Thank you for reading _this_ far in this
+[_huge_](https://github.com/dwyl/contributing/issues/28) readme!
+Please help us by suggesting edits (_we're always happy to remove words!!_)
+and improvements!
+
 ## _Example_ User-focused "Story" Descriptions
 
 _**User stories** describe features_ (_or "**expected behaviour**"
