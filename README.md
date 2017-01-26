@@ -716,9 +716,7 @@ if you have any questions regarding the license, please read:
 https://github.com/dwyl/intellectual-property and raise an
 [issue](https://github.com/dwyl/intellectual-property/issues)
 on GitHub if you require clarification!
-a
 <br />
-
 
 # Got a _Security/Privacy_ Concern or Question ?
 
