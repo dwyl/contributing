@@ -332,7 +332,7 @@ this gives _everyone_ in the team a **_clear_ picture** of what is ***planned***
   by pasting a link to the GitHub issue
   in the **commit message**.
 
-6. Once you have _commited_ your work/progessy, push up your changes
+6. Once you have _commited_ your work/progress, push up your changes
   and then open a Pull Request _(even if the work isn't yet finished)_ <br />
   so that the rest of your team can easily see what you've been working on.
   (_remember ..._)
@@ -716,9 +716,7 @@ if you have any questions regarding the license, please read:
 https://github.com/dwyl/intellectual-property and raise an
 [issue](https://github.com/dwyl/intellectual-property/issues)
 on GitHub if you require clarification!
-a
 <br />
-
 
 # Got a _Security/Privacy_ Concern or Question ?
 
