@@ -662,26 +662,16 @@ repo. Check it out! :heart:
 
 ### Labels
 
-> see: https://github.com/dwyl/labels and
-> https://github.com/dwyl/contributing/issues/40
-[![Help Wanted!](https://img.shields.io/badge/help-wanted-brightgreen.svg?style=flat "Please Help Us")](https://github.com/dwyl/contributing/issues/40)
-
-GitHub can be a _great_ project management tool if used _effectively_.
-One of the ways we _communicate_ with each other in our project(s)
-is by using **labels** to _categorize_ the issues/stories/PRs.
-
-Labels are a great way to **organise** and **track** the progress of a
-given project at _any_ point in time.
-[Here's why we choose to use GitHub](https://github.com/dwyl/github-reference#why)
+GitHub can be a [_great_ project management tool]((https://github.com/dwyl/github-reference#why) if used _effectively_ and _labels_ are a great way to **organise** and **track** the progress of a
+given project at any point in time.
+They are a fantastic **communication tool**, particularly for [remote teams](https://github.com/dwyl/remote).
 
 At dwyl we have created our _own_ standard list of labels
 that we use for each of our projects. This gives our team the ability
 to move between projects **quickly** and **productively**, saving time
 and energy in the process.
-
-Here is our [**Complete List of Labels**](https://github.com/dwyl/labels/labels)
-and how they should be used:
-
+> For our [**Complete List of Labels**](https://github.com/dwyl/labels/labels)
+and how they should be used, take a look at https://github.com/dwyl/labels.
 
 
 
