@@ -99,7 +99,7 @@ by a ***different*** _member_ of the team/organisation.
 (_see: "Part 2" below..._)
 
 
-## :star: Star The Project! :star: (_share the love!_)
+## :star: Star the Project! :star: (_share the love!_)
 <!--
 _After_ you have ***contributed*** to the project,
 _e.g: by commenting on or creating an issue_, <br />
@@ -146,7 +146,7 @@ They know _how_ features/functionality _should_ work and can
 validate from the _user's_ perspective. <br />
 ***Most importantly*** the PO/PL ***knows*** if someone ***else***
 is ***already*** working on the issue ... <br />
-And, _sometimes_ the _exact_ same issue has ben "***solved before***"
+And, _sometimes_ the _exact_ same issue has been "***solved before***"
 in a _different_ project, so ***hours/days*** of effort can be saved!!
 
 
@@ -287,7 +287,7 @@ go for it!
   where a non-technical peopler can _evaluate_ it against the original
   story description and acceptance criteria!
 
-+ Whereever possible/practical/relevant **include** the person who
++ Wherever possible/practical/relevant **include** the person who
   **_originally_ created the story/issue** in the time estimation discussion.
 
 + For work in sprints, a **milestone** is added **at the sprint planning
@@ -325,7 +325,7 @@ this gives _everyone_ in the team a **_clear_ picture** of what is ***planned***
   and what else (_still_) needs to be done - _anyone_ should be able
   to pick up and complete a user story by reading this description.
   + If you are leaving for more than a day,
-  ***remove*** the `in-pogress` **label**
+  ***remove*** the `in-progress` **label**
   and ***un-assign yourself*** form the story.
 
 5. ***Reference*** the **user story/issue/sub-task** you are working on
@@ -356,7 +356,7 @@ but ***dramatically improves*** the ***review process***. <br />
   If a test is failing, the feature is broken!
   Fix the feature to make the test pass. Only then is your work "**done**"_)
   + ***Never*** _assign_ a PR for "_review_"
-  _until_ _**all CI checks** are **pass**_.
+  _until_ _**all CI checks** have **passed**_.
   ![check failed](https://cloud.githubusercontent.com/assets/194400/22284176/db2d698a-e2dd-11e6-8799-573226328b6b.png) <br />
   if _anything_ is failing on a PR and you _need_ help simply
   ***comment*** in the PR "_thread_" _asking_ for help!
@@ -382,7 +382,7 @@ our objective is to _ensure_ the code works, is well documented/tested
 and is "_free from errors_". We don't
 ["_nit pick_"](https://en.oxforddictionaries.com/definition/nitpicking)
 if it's going to delay shipping. Equally, where code requires _clarification_,
-tell people; ***everyone*** benefits from easy-to-read (_understand_) code.
+tell people; ***everyone*** benefits from easy-to-read (_understandable_) code.
 
 The person who is _assigned_ to review the PR
 (_often referred to as the **Quality Assurance Person** or "**QA**"_) will:
@@ -590,7 +590,7 @@ on the project is _always aware_ of what you are doing.
 
 ## 1. Keep it Small and Simple
 
-+ Don't _tempted_, to "_bundle_" up _several_ bug fixes/feature additions into
++ Don't be _tempted_, to "_bundle_" up _several_ bug fixes/feature additions into
 one _large_ PR and then submit it to be reviewed all at once... <br />
 We prefer working in _smaller increments_ splitting the work
 into individual parts to be reviewed separately. <br />
@@ -603,9 +603,9 @@ into individual parts to be reviewed separately. <br />
 ## 2. _Descriptive_ Pull Request Title and Description!
 
 + A **descriptive title** answers the question:
-"_What **included** in this PR_?"
+"_What is **included** in this PR_?"
 
-+ A ***good description*** summarises the the _contents_ of the PR and
++ A ***good description*** summarises the _contents_ of the PR and
 gives the person/people reviewing the PR
 a **clear picture/focus** for the feature/change/bug-fix
 which ***improves review speed***.
