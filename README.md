@@ -382,7 +382,7 @@ our objective is to _ensure_ the code works, is well documented/tested
 and is "_free from errors_". We don't
 ["_nit pick_"](https://en.oxforddictionaries.com/definition/nitpicking)
 if it's going to delay shipping. Equally, where code requires _clarification_,
-tell people; ***everyone*** benefits from easy-to-read (_understandable_) code.
+tell people; ***everyone*** benefits from _easy-to-read_, (easy-to-understand) code.
 
 The person who is _assigned_ to review the PR
 (_often referred to as the **Quality Assurance Person** or "**QA**"_) will:
