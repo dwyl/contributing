@@ -662,51 +662,17 @@ repo. Check it out! :heart:
 
 ### Labels
 
-> see: https://github.com/dwyl/labels and
-> https://github.com/dwyl/contributing/issues/40
-[![Help Wanted!](https://img.shields.io/badge/help-wanted-brightgreen.svg?style=flat "Please Help Us")](https://github.com/dwyl/contributing/issues/40)
-
-GitHub can be a _great_ project management tool if used _effectively_.
-One of the ways we _communicate_ with each other in our project(s)
-is by using **labels** to _categorize_ the issues/stories/PRs.
-
-Labels are a great way to **organise** and **track** the progress of a
-given project at _any_ point in time.
-[Here's why we choose to use GitHub](https://github.com/dwyl/github-reference#why)
+GitHub can be a [_great_ project management tool]((https://github.com/dwyl/github-reference#why) if used _effectively_ and _labels_ are a great way to **organise** and **track** the progress of a
+given project at any point in time.
+They are a fantastic **communication tool**, particularly for [remote teams](https://github.com/dwyl/remote).
 
 At dwyl we have created our _own_ standard list of labels
 that we use for each of our projects. This gives our team the ability
 to move between projects **quickly** and **productively**, saving time
 and energy in the process.
+> For our [**Complete List of Labels**](https://github.com/dwyl/labels/labels)
+and how they should be used, take a look at https://github.com/dwyl/labels.
 
-Here is our [**Complete List of Labels**](https://github.com/dwyl/labels/labels)
-and how they should be used:
-
-![labels](https://cloud.githubusercontent.com/assets/12450298/18248682/afcd6974-7371-11e6-84bf-0cb9f4677d92.png)
-
-Github gives you a pre-populated list of labels for you to use. They are:
-
-- `bug` #EE0701 - report a bug that needs fixed
-- `duplicate` #CCCCCC - duplicate issue
-- `enhancement` #84B6EB - improving existing code
-- `help-wanted` #128A0C - looking for help or expertise on a subject
-- `invalid` #E6E6E6 - GitHub standard tag (not used)
-- `question` #CC317C - for open questions and discussions
-- `wontfix` #ffffff - when an issue won't be addressed (with reason why in comment)
-
-Here are the custom ones that we use at dwyl:
-
-- `in-progress` #009688 - to be added when an issue has been assigned
-- `in-review` #128A0C - once a PR has been submitted relating to the issue
-- `please-test` #08E700 - added after PR is merged (assign to product owner)
-- `priority-1` #0D47A1 - drop everything and work on this (used only when _completely_ neccessary)
-- `priority-2` #1976D2 - high priority issue (what needs doing now)
-- `priority-3` #42A5F5 - high priority (what needs doing next)
-- `priority-4` #8DC9F9 - low priority (to be upgraded later)
-- `priority-5` #C5DEF5 - lowest priority (non-urgent changes)
-- `T[x]d` #F06292 - time in 'x' days it should take (estimation)
-- `T[x]h` #F7C6C7 - time in 'x' hours it should take (estimation)
-- `technical` #D4C5F9 - technical issue for developers
 
 
 ## Additional Information
