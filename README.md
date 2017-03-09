@@ -654,7 +654,7 @@ Git repo with files that don't need to be under version control.
 
 ### Inspired By ...
 
-Guidelines for creating user stories are addapted from
+Guidelines for creating user stories are adapted from
 [Simon's](https://github.com/simonlab)
 [**user-story-checklist**](https://github.com/SimonLab/user-story-checklist)
 repo. Check it out! :heart:
