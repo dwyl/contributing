@@ -204,6 +204,12 @@ or has not been _assigned_ to someone for investigation/work. <br />
 this is quite easy to find by searching for a **label**:
 [`help wanted`](https://github.com/search?q=org%3Adwyl+is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 
+### Who can/should I assign my PR to?
+Either **_the Project/Team Lead or "QA"_** (where applicable)
+or in the case of an _open source module_, our "rule-of-thumb" is: look at the list of contributors
+and assign your PR to **_the person who has made the most contributions_**.
+If you are unable to assign your PR, simply mention the person by their username (**@** them!) in your PR description to notify them that your PR is "ready for review".
+
 ### Is it a "_Bug_"?
 
 We also use GitHub issues to report "***unexpected behaviour***"
