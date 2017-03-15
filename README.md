@@ -23,7 +23,7 @@ or if you have _**a suggestion** for how to **simplify/streamline**_ it!
 [![Get Help!](https://img.shields.io/badge/get-help-brightgreen.svg?style=flat)](https://github.com/dwyl/contributing/issues)
 
 
-# Part 1: _Describe_ the Idea or User Story in an Issue
+# Part 1: _Describe_ your Question, the Idea or User Story in an Issue
 
 ### _Why_ Use GitHub Issues...?
 
@@ -38,7 +38,7 @@ this ***ensures*** we have a
 that _everyone_ can easily see!  
 
 
-### Step 1: Check if the Idea/Story/Issue _Already Exists_ Using GitHub Search ![search](https://cloud.githubusercontent.com/assets/194400/22224334/255930a8-e1b6-11e6-9953-12cd4739aa1c.png)
+### Step 1: Check if the Question/Idea/Story/Issue _Already Exists_ Using GitHub Search ![search](https://cloud.githubusercontent.com/assets/194400/22224334/255930a8-e1b6-11e6-9953-12cd4739aa1c.png)
 
 1. Please take a moment to ***read through the existing stories/issues***
 for the project <br />
@@ -64,7 +64,7 @@ as there's **no need** to create a **new issue**_.
 ![issue-search-for-app-icon](https://cloud.githubusercontent.com/assets/24758860/22225508/993c7ecc-e1ba-11e6-8a53-e8d2ac398546.png)
 
 1. _Otherwise_, once you are (_reasonably_) sure there is
-no _existing_ issue/story covering what you have in mind,
+no _existing_ question/issue/story covering what you have in mind,
 _please_ **create** a ***new issue*** (_see next step_!)
 
 
@@ -72,7 +72,7 @@ _please_ **create** a ***new issue*** (_see next step_!)
 
 1. Using the `New Issue` button, create an **issue**
   for the ***user story***
-  (_feature request, expected or **unexpected** behaviour_)
+  (_feature request, expected or **unexpected** behaviour, or question_)
   you have in mind.
 
 > _**Note**: If you are **new** to writing "**User Stories**",
@@ -84,7 +84,7 @@ section in the "Notes" section below_!
 
 1. Submit the new issue!
 
-2. Once you _submit_ a new issue for a User Story or Issue/Bug a member
+2. Once you _submit_ a new issue for a User Story or Question/Issue/Bug, a member
 of the team (_typically the Product Owner_) will ***review*** the issue.
 
 3. That's _it_ from the side of the _issue_ creator! (_thank you!_)
