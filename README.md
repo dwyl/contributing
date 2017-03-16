@@ -29,7 +29,7 @@ or if you have _**a suggestion** for how to **simplify/streamline**_ it!
 
 _Everything_ starts with a _thought_.
 We collect _all_ our _thoughts_ in GitHub "issues". <br />
-The issue can then be _**dicussed, validated**
+The issue can then be _**discussed, validated**
 and **worked on** as a **team**_ while keeping ***everyone informed***. <br />
 We use _issues_ to _log_ our user stories, sub/technical tasks
 and any ***progress*** towards solving the issue, <br />
@@ -256,7 +256,7 @@ As soon as you see the word "***and***" in a story/issue, you know it is
 trying to do more than one thing.
 + ***If*** the Story/Issue has **too many components or features***,
   split the user story into "***sub-stories***"
-  (_often reffered to as "**sub-tasks**"_)
+  (_often referred to as "**sub-tasks**"_)
   which you **link** to from the "main" story/issue.
   `-> Example of a Larger Story ("Epic") with Linked Sub-stories Required!`
   see: https://github.com/dwyl/contributing/issues/55
@@ -300,7 +300,7 @@ go for it!
 session** to group the user stories with its relevant sprint;
 this gives _everyone_ in the team a **_clear_ picture** of what is ***planned***.
 
-> _Please **See below** for "**Pratical Notes on Time Estimation**"_.
+> _Please **See below** for "**Practical Notes on Time Estimation**"_.
 
 ### Step 2: _Assign_ Yourself the Task and [_Do it_](https://youtu.be/M9-IZ1pNk00?t=45s)!
 
@@ -338,7 +338,7 @@ this gives _everyone_ in the team a **_clear_ picture** of what is ***planned***
   by pasting a link to the GitHub issue
   in the **commit message**.
 
-6. Once you have _commited_ your work/progress, push up your changes
+6. Once you have _committed_ your work/progress, push up your changes
   and then open a Pull Request _(even if the work isn't yet finished)_ <br />
   so that the rest of your team can easily see what you've been working on.
   (_remember ..._)
@@ -611,14 +611,14 @@ into individual parts to be reviewed separately. <br />
 + A **descriptive title** answers the question:
 "_What is **included** in this PR_?"
 
-+ A ***good description*** summarises the _contents_ of the PR and
++ A ***good description*** summaries the _contents_ of the PR and
 gives the person/people reviewing the PR
 a **clear picture/focus** for the feature/change/bug-fix
 which ***improves review speed***.
 
 + ***Reference*** the issue(s) that the PR addressed in the PR description.
 
-## 3. PR _Ettiquete_
+## 3. PR _Etiquette_
 
 + explain what the PR includes (**bullet pointed lists**
   are sometimes helpful to make things clearer)
@@ -660,7 +660,7 @@ Git repo with files that don't need to be under version control.
 
 ### Inspired By ...
 
-Guidelines for creating user stories are addapted from
+Guidelines for creating user stories are adapted from
 [Simon's](https://github.com/simonlab)
 [**user-story-checklist**](https://github.com/SimonLab/user-story-checklist)
 repo. Check it out! :heart:
