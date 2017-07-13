@@ -637,6 +637,34 @@ which was ***validated*** and ***discussed*** in
 an **issue** https://github.com/indexzero/ps-tree/issues/10
 ***before*** _any_ work was performed.
 
+
+## Creating a New repository
+
+### Use Cases for Creating a New Repo
++ You have search through dwyl's _existing_ repositories and have not found one
+that covers the subject that you want to **share your knowledge** on
++ You want to build a new open source application/module/tutorial that you
+believe is in line with dwyl's [values](https://github.com/dwyl/start-here/blob/master/manifesto.md)
+and will _benefit the community_
+
+### How?
+1. **Open an issue** in [dwyl/start-here](https://github.com/dwyl/start-here)
+explaining the _Why?_ and _What?_ of the repo you want to create
+2. **Wait for the need to be validated** by the community - in the same way we
+operate with issues, it may be that someone is already working on something similar
+in a repo you haven't seen yet, or it may be something that dwyl has tried in
+the past but moved away from for a specific reason that you can be pointed to
+3. If the need if validated, **create the repo** following the _[requirements](#minimum-requirements-for-a-new-repository) below_.
+
+### Minimum Requirements for a New Repository
+
+
+
+
+
+
+
+
 <br />
 
 ## General Notes
