@@ -657,7 +657,20 @@ the past but moved away from for a specific reason that you can be pointed to
 3. If the need if validated, **create the repo** following the _[requirements](#minimum-requirements-for-a-new-repository) below_.
 
 ### Minimum Requirements for a New Repository
+Everyone's busy and we know that sometimes repositories are created with great
+intentions but people don't have time to look at them for a few days or weeks.
 
+These minimum requirements when creating a repo mean that the intention is clear
+and contributions from the open source community can begin early.
+
++ [ ] Initiate the repo _with_ **a clear description**
++ [ ] Initiate the repo _with_ a README
++ [ ] Add dwyl's standard labels by using http://label-sync.herokuapp.com
++ [ ] Add a [CONTRIBUTING.md](https://github.com/dwyl/contributing/blob/master/CONTRIBUTING.md) file to the repo
++ [ ] Update the README.md with simple 'Why?', 'What?' and 'How?' sections
++ [ ] [Protect the `master` branch](https://help.github.com/articles/about-protected-branches/)
+ to ensure it can't be pushed to directly
++ [ ] If relevant, add the right people/teams to the repo as collaborators
 
 
 
