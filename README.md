@@ -23,15 +23,15 @@ or if you have _**a suggestion** for how to **simplify/streamline**_ it!
 [![Get Help!](https://img.shields.io/badge/get-help-brightgreen.svg?style=flat)](https://github.com/dwyl/contributing/issues)
 
 # Contents Guide
-+ [Part 1](https://github.com/dwyl/contributing#part-1-describe-your-question-the-idea-or-user-story-in-an-issue): _Describe_ your Question, the Idea or User Story in an Issue
++ **[Part 1](https://github.com/dwyl/contributing#part-1-describe-your-question-the-idea-or-user-story-in-an-issue): _Describe_ your Question, the Idea or User Story in an Issue**
   + [Step 1 Check if the issue already exists](https://github.com/dwyl/contributing#step-1-check-if-the-questionideastoryissue-already-exists-using-github-search-)
   + [Step 2: Create a new user story or report an issue](https://github.com/dwyl/contributing#step-2-create-a-new-user-story-or-report-an-issue-)
-  + [Step 3: Submit the new issue and wait for validation](https://github.com/dwyl/contributing#step-2-create-a-new-user-story-or-report-an-issue-)
+  + [Step 3: Submit the new issue and wait for validation](https://github.com/dwyl/contributing#step-3-submit-the-new-issue)
 + [What do I do next?](https://github.com/dwyl/contributing#what-do-i-do-next)
-+ [Part 2](https://github.com/dwyl/contributing#part-2-validate-the-need-user-story-or-issue-exists): Validate the Need (User Story) or Issue Exists
++ **[Part 2](https://github.com/dwyl/contributing#part-2-validate-the-need-user-story-or-issue-exists): Validate the Need (User Story) or Issue Exists**
   + [Step 1: Confirm the need](https://github.com/dwyl/contributing#step-1-confirm-the-need-in-the-new-storyissue)
-  + [Step 2: Assign a priority to the issue](https://github.com/dwyl/contributing#step-1-confirm-the-need-in-the-new-storyissue)
-+ [Part 3](https://github.com/dwyl/contributing#part-3-do-the-work): Do the Work!
+  + [Step 2: Assign a priority to the issue](https://github.com/dwyl/contributing#step-2-assign-a-priority-to-the-storyissue)
++ **[Part 3](https://github.com/dwyl/contributing#part-3-do-the-work): Do the Work!**
   + [Step 1: Estimate the time required](https://github.com/dwyl/contributing#step-1-estimate-the-time-required-to-perform-the-work)
   + [Step 2: Assign yourself the issue](https://github.com/dwyl/contributing#step-2-assign-yourself-the-task-and-do-it)
   + [Step 3: Open the Pull Request (PR) and assign it for review](https://github.com/dwyl/contributing#step-3-prepare-a-pull-request-pr-and-assign-to-someone-else-for-review)
@@ -197,7 +197,7 @@ _later_ on can see the "_history_".
 why and how something works the way it does!
 
 
-### How _Long_ Does it take for an Issue to be _Validated_?
+### How _Long_ Does it take for an Issue to be _Validated_?
 
 We ***aim*** to respond to new issues within _**minutes**_
 but during busy work days this can take up to ***a few hours***... <br />
@@ -211,7 +211,7 @@ and https://github.com/dwyl/contributing/issues/62
 ![thinking-please-wait](https://cloud.githubusercontent.com/assets/194400/22228969/9add48f8-e1cc-11e6-8cdc-ef9b30eac846.jpg)
 -->
 
-### What can I do `while` I _wait_ for a my issue to be _Validated_?
+### What can I do `while` I _wait_ for a my issue to be _Validated_?
 
 + If you are ***itching*** to help "move the issue/story along"
 you can help by _describing_ how the story/issue _could_
@@ -305,7 +305,8 @@ Once _all_ the previous steps have been performed
 (_story/issue created, categorized with labels, any sub-stories/tasks
   created_)
 and you are _sure_ you ***understand*** what is ***required***
-(_make sure there are clear Acceptance Criteria_),
+(_make sure there are clear Acceptance Criteria_), add a comment on how you
+propose to resolve/implement your resolution to the issue and
 go for it!
 
 ### Step 1: _Estimate_ the Time Required to Perform the Work
@@ -396,6 +397,9 @@ but ***dramatically improves*** the ***review process***. <br />
   ![check failed](https://cloud.githubusercontent.com/assets/194400/22284176/db2d698a-e2dd-11e6-8799-573226328b6b.png) <br />
   if _anything_ is failing on a PR and you _need_ help simply
   ***comment*** in the PR "_thread_" _asking_ for help!
+
++ Make sure your PR **adds to the `README`** to explain the latest changes made 
+(or explain specifically **why** you _haven't_ had to update the `README`).
 
 +  **Increment** the _version_ of your application if it is a "_new release_".
 
@@ -650,7 +654,7 @@ which ***improves review speed***.
 
 ### 3. PR _Etiquette_
 
-+ explain what the PR includes (**bullet pointed lists**
++ Explain what the PR includes (**bullet pointed lists**
   are sometimes helpful to make things clearer)
   and the _implementation detail_.
 
