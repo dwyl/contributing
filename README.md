@@ -50,6 +50,7 @@ or if you have _**a suggestion** for how to **simplify/streamline**_ it!
   + [Use Cases for Creating a New Repo](#use-cases-for-creating-a-new-repo)
   + [How?](#how)
   + [Minimum Requirements for a New Repository](#minimum-requirements-for-a-new-repository)
++ [Forking Repositories](Forking Repositories into dwyl)
 + [General Notes](https://github.com/dwyl/contributing#general-notes)
 <br/>
 
@@ -398,7 +399,7 @@ but ***dramatically improves*** the ***review process***. <br />
   if _anything_ is failing on a PR and you _need_ help simply
   ***comment*** in the PR "_thread_" _asking_ for help!
 
-+ Make sure your PR **adds to the `README`** to explain the latest changes made 
++ Make sure your PR **adds to the `README`** to explain the latest changes made
 (or explain specifically **why** you _haven't_ had to update the `README`).
 
 +  **Increment** the _version_ of your application if it is a "_new release_".
@@ -706,11 +707,15 @@ and contributions from the open source community can begin early.
  to ensure it can't be pushed to directly
 + [ ] If relevant, add the right people/teams to the repo as collaborators
 
+## Forking Repositories into dwyl
+Generally, forking a repository _into the dwyl organisation_ is **not required** or
+recommended without good reason as forks carry an additional maintenance burden
+and are have issues _disabled_ by default (voiding our contributing process).
+The _only_ reason to do so is if you're planning to fix an issue in the original
+repo and **send a patch/PR back up-stream** to that original repo.
 
-
-
-
-
+If you would like to _transfer ownership_ of one of your repositories to the dwyl
+organisation, please **open an issue** in [dwyl/start-here](https://github.com/dwyl/start-here).
 
 <br />
 
