@@ -50,7 +50,7 @@ or if you have _**a suggestion** for how to **simplify/streamline**_ it!
   + [Use Cases for Creating a New Repo](#use-cases-for-creating-a-new-repo)
   + [How?](#how)
   + [Minimum Requirements for a New Repository](#minimum-requirements-for-a-new-repository)
-+ [Forking Repositories](Forking Repositories into dwyl)
++ [Forking Repositories](#forking-repositories-into-dwyl)
 + [General Notes](https://github.com/dwyl/contributing#general-notes)
 <br/>
 
