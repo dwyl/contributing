@@ -710,7 +710,7 @@ and contributions from the open source community can begin early.
 ## Forking Repositories into dwyl
 Generally, forking a repository _into the dwyl organisation_ is **not required** or
 recommended without good reason as forks carry an additional maintenance burden
-and are have issues _disabled_ by default (voiding our contributing process).
+and have issues _disabled_ by default (voiding our contributing process).
 The _only_ reason to do so is if you're planning to fix an issue in the original
 repo and **send a patch/PR back up-stream** to that original repo.
 
