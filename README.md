@@ -22,6 +22,36 @@ Our contribution steps in a _nutshell_:
 or if you have _**a suggestion** for how to **simplify/streamline**_ it!
 [![Get Help!](https://img.shields.io/badge/get-help-brightgreen.svg?style=flat)](https://github.com/dwyl/contributing/issues)
 
+# Contents Guide
++ **[Part 1](https://github.com/dwyl/contributing#part-1-describe-your-question-the-idea-or-user-story-in-an-issue): _Describe_ your Question, the Idea or User Story in an Issue**
+  + [Step 1 Check if the issue already exists](https://github.com/dwyl/contributing#step-1-check-if-the-questionideastoryissue-already-exists-using-github-search-)
+  + [Step 2: Create a new user story or report an issue](https://github.com/dwyl/contributing#step-2-create-a-new-user-story-or-report-an-issue-)
+  + [Step 3: Submit the new issue and wait for validation](https://github.com/dwyl/contributing#step-3-submit-the-new-issue)
++ [What do I do next?](https://github.com/dwyl/contributing#what-do-i-do-next)
++ **[Part 2](https://github.com/dwyl/contributing#part-2-validate-the-need-user-story-or-issue-exists): Validate the Need (User Story) or Issue Exists**
+  + [Step 1: Confirm the need](https://github.com/dwyl/contributing#step-1-confirm-the-need-in-the-new-storyissue)
+  + [Step 2: Assign a priority to the issue](https://github.com/dwyl/contributing#step-2-assign-a-priority-to-the-storyissue)
++ **[Part 3](https://github.com/dwyl/contributing#part-3-do-the-work): Do the Work!**
+  + [Step 1: Estimate the time required](https://github.com/dwyl/contributing#step-1-estimate-the-time-required-to-perform-the-work)
+  + [Step 2: Assign yourself the issue](https://github.com/dwyl/contributing#step-2-assign-yourself-the-task-and-do-it)
+  + [Step 3: Open the Pull Request (PR) and assign it for review](https://github.com/dwyl/contributing#step-3-prepare-a-pull-request-pr-and-assign-to-someone-else-for-review)
+  + [Step 4: Reviewers review and merge PR](https://github.com/dwyl/contributing#step-4-reviewers-review-comment-on-and-merge-the-pull-request)
++ [Example User-focused "Story" Descriptions](https://github.com/dwyl/contributing#notes-on-effective-contributing)
+  + [Example User-focused "Story" Descriptions](https://github.com/dwyl/contributing#example-user-focused-story-descriptions)
+  + [Writing Good Issues](https://github.com/dwyl/contributing#include-anyall-relevant-information-in-the-issue-description)
++ [Practical Note on Time Estimation for a Story/Task](#practical-note-on-time-estimation-for-a-storytask)
+  + [Revising a Time Estimate](https://github.com/dwyl/contributing#revising-a-time-estimate)
+  + [Estimating for _open source_ projects without sprints](https://github.com/dwyl/contributing#estimating-for-open-source-modules-without-sprints)
++ [Notes on Creating Good Pull Requests](https://github.com/dwyl/contributing#notes-on-creating-good-pull-requests)
+  + [1. Keep it Small and Simple](#1-keep-it-small-and-simple)
+  + [2. Descriptive Pull Request Title and Description](#2-descriptive-pull-request-title-and-description)
+  + [3. PR Etiquette](https://github.com/dwyl/contributing#3-pr-etiquette)
++ [Creating a New Repository](#creating-a-new-repository)
+  + [Use Cases for Creating a New Repo](#use-cases-for-creating-a-new-repo)
+  + [How?](#how)
+  + [Minimum Requirements for a New Repository](#minimum-requirements-for-a-new-repository)
++ [General Notes](https://github.com/dwyl/contributing#general-notes)
+<br/>
 
 # Part 1: _Describe_ your Question, the Idea or User Story in an Issue
 
@@ -167,7 +197,7 @@ _later_ on can see the "_history_".
 why and how something works the way it does!
 
 
-### How _Long_ Does it take for an Issue to be _Validated_?
+### How _Long_ Does it take for an Issue to be _Validated_?
 
 We ***aim*** to respond to new issues within _**minutes**_
 but during busy work days this can take up to ***a few hours***... <br />
@@ -181,7 +211,7 @@ and https://github.com/dwyl/contributing/issues/62
 ![thinking-please-wait](https://cloud.githubusercontent.com/assets/194400/22228969/9add48f8-e1cc-11e6-8cdc-ef9b30eac846.jpg)
 -->
 
-### What can I do `while` I _wait_ for a my issue to be _Validated_?
+### What can I do `while` I _wait_ for a my issue to be _Validated_?
 
 + If you are ***itching*** to help "move the issue/story along"
 you can help by _describing_ how the story/issue _could_
@@ -204,13 +234,13 @@ or has not been _assigned_ to someone for investigation/work. <br />
 this is quite easy to find by searching for a **label**:
 [`help wanted`](https://github.com/search?q=org%3Adwyl+is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 
-### Who can/should I assign my PR to?
+### Who can/should I assign my PR to?
 Either **_the Project/Team Lead or "QA"_** (where applicable)
 or in the case of an _open source module_, our "rule-of-thumb" is: look at the list of contributors
 and assign your PR to **_the person who has made the most contributions_**.
 If you are unable to assign your PR, simply mention the person by their username (**@** them!) in your PR description to notify them that your PR is "ready for review".
 
-### Is it a "_Bug_"?
+### Is it a "_Bug_"?
 
 We also use GitHub issues to report "***unexpected behaviour***"
 (_sometimes referred to as a "**bug**"_) in an app or module,
@@ -275,7 +305,8 @@ Once _all_ the previous steps have been performed
 (_story/issue created, categorized with labels, any sub-stories/tasks
   created_)
 and you are _sure_ you ***understand*** what is ***required***
-(_make sure there are clear Acceptance Criteria_),
+(_make sure there are clear Acceptance Criteria_), add a comment on how you
+propose to resolve/implement your resolution to the issue and
 go for it!
 
 ### Step 1: _Estimate_ the Time Required to Perform the Work
@@ -366,6 +397,9 @@ but ***dramatically improves*** the ***review process***. <br />
   ![check failed](https://cloud.githubusercontent.com/assets/194400/22284176/db2d698a-e2dd-11e6-8799-573226328b6b.png) <br />
   if _anything_ is failing on a PR and you _need_ help simply
   ***comment*** in the PR "_thread_" _asking_ for help!
+
++ Make sure your PR **adds to the `README`** to explain the latest changes made 
+(or explain specifically **why** you _haven't_ had to update the `README`).
 
 +  **Increment** the _version_ of your application if it is a "_new release_".
 
@@ -547,7 +581,7 @@ with a ***clear description*** and **_illustrative_ screenshots**:
 
 <br />
 
-## _Practical_ Note on Time Estimation for a Story/Task
+## _Practical_ Note on Time Estimation for a Story/Task
 
 Our time estimates are
 usually for a ***pair of people programming together***. <br />
@@ -594,7 +628,7 @@ on the project is _always aware_ of what you are doing.
 
 ## _Notes_ on Creating _Good_ Pull Requests
 
-## 1. Keep it Small and Simple
+### 1. Keep it Small and Simple
 
 + Don't be _tempted_, to "_bundle_" up _several_ bug fixes/feature additions into
 one _large_ PR and then submit it to be reviewed all at once... <br />
@@ -606,7 +640,7 @@ into individual parts to be reviewed separately. <br />
 
 + ***Always*** _ensure_ there are **tests** for any new code you have written.
 
-## 2. _Descriptive_ Pull Request Title and Description!
+### 2. _Descriptive_ Pull Request Title and Description!
 
 + A **descriptive title** answers the question:
 "_What is **included** in this PR_?"
@@ -618,9 +652,9 @@ which ***improves review speed***.
 
 + ***Reference*** the issue(s) that the PR addressed in the PR description.
 
-## 3. PR _Etiquette_
+### 3. PR _Etiquette_
 
-+ explain what the PR includes (**bullet pointed lists**
++ Explain what the PR includes (**bullet pointed lists**
   are sometimes helpful to make things clearer)
   and the _implementation detail_.
 
@@ -636,6 +670,47 @@ created from the ***need***
 which was ***validated*** and ***discussed*** in
 an **issue** https://github.com/indexzero/ps-tree/issues/10
 ***before*** _any_ work was performed.
+
+
+## Creating a New repository
+
+### Use Cases for Creating a New Repo
++ You have search through dwyl's _existing_ repositories and have not found one
+that covers the subject that you want to **share your knowledge** on
++ You want to build a new open source application/module/tutorial that you
+believe is in line with dwyl's [values](https://github.com/dwyl/start-here/blob/master/manifesto.md)
+and will _benefit the community_
+
+### How?
+1. **Open an issue** in [dwyl/start-here](https://github.com/dwyl/start-here)
+explaining the _Why?_ and _What?_ of the repo you want to create
+2. **Wait for the need to be validated** by the community - in the same way we
+operate with issues, it may be that someone is already working on something similar
+in a repo you haven't seen yet, or it may be something that dwyl has tried in
+the past but moved away from for a specific reason that you can be pointed to
+3. If the need if validated, **create the repo** following the _[requirements](#minimum-requirements-for-a-new-repository) below_.
+
+### Minimum Requirements for a New Repository
+Everyone's busy and we know that sometimes repositories are created with great
+intentions but people don't have time to look at them for a few days or weeks.
+
+These minimum requirements when creating a repo mean that the intention is clear
+and contributions from the open source community can begin early.
+
++ [ ] Initiate the repo _with_ **a clear description**
++ [ ] Initiate the repo _with_ a README
++ [ ] Add dwyl's standard labels by using http://label-sync.herokuapp.com
++ [ ] Add a [CONTRIBUTING.md](https://github.com/dwyl/contributing/blob/master/CONTRIBUTING.md) file to the repo
++ [ ] Update the README.md with simple 'Why?', 'What?' and 'How?' sections
++ [ ] [Protect the `master` branch](https://help.github.com/articles/about-protected-branches/)
+ to ensure it can't be pushed to directly
++ [ ] If relevant, add the right people/teams to the repo as collaborators
+
+
+
+
+
+
 
 <br />
 
