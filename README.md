@@ -1,10 +1,5 @@
 ![welcome-teal](https://cloud.githubusercontent.com/assets/194400/22215755/76cb4dbc-e194-11e6-95ed-7def95e68f14.png)
 
-> “_Every thought, **every word**, and **every action**
-that **adds to** the **positive** is a **contribution to peace**. <br />
-Each and **every one** of us is **capable** of making such a **contribution**_.”
-~ [Aung San Suu Kyi](https://en.wikipedia.org/wiki/Aung_San_Suu_Kyi)
-
 Firstly, a ***heartfelt thank you*** for
 making time to contribute to this project! <br />
 
@@ -779,3 +774,5 @@ _related question_ that you want to ask or ***disclose discreetly***, <br />
 _For **all other questions/ideas/issues, please follow** the **normal steps**_.
 ***Thanks***!
 <br /><br />
+
+[![HitCount](http://hits.dwyl.io/dwyl/contributing.svg)](http://hits.dwyl.io/dwyl/contributing)
