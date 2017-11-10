@@ -774,3 +774,5 @@ _related question_ that you want to ask or ***disclose discreetly***, <br />
 _For **all other questions/ideas/issues, please follow** the **normal steps**_.
 ***Thanks***!
 <br /><br />
+
+[![HitCount](http://hits.dwyl.io/dwyl/contributing.svg)](http://hits.dwyl.io/dwyl/contributing)
