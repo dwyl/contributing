@@ -10,7 +10,18 @@ with **simple steps** people can **_easily_ follow** <br />
 **keep our _communication consistently crystal clear_**! <br />
 
 Our contribution steps in a _nutshell_:
+<!-- The text under the magnifying glass says: 
+        "validate the need exists"
+        "or undesired behavior"
+        "from the user's perspective"
 
+      I believe this should be something like
+        "validate the need or"
+        "undesired behavior exists"
+        "from the user's perspective"
+      but the image is not in the repo
+      so I can't modify it myself.
+-->
 ![validate-idea](https://cloud.githubusercontent.com/assets/194400/22287688/a929a9ae-e2eb-11e6-8d16-f2ebbebea080.png "DWYL's Contribution Guidelines Steps Diagram")
 
 ***Please*** ***inform us*** if ***anything*** is ***unclear***
@@ -60,7 +71,7 @@ and **worked on** as a **team**_ while keeping ***everyone informed***. <br />
 We use _issues_ to _log_ our user stories, sub/technical tasks
 and any ***progress*** towards solving the issue, <br />
 this ***ensures*** we have a
-[_**single source** of the **truth**_](https://github.com/dwyl/github-reference#why)
+[_**single source** of **truth**_](https://github.com/dwyl/github-reference#why)
 that _everyone_ can easily see!  
 
 
@@ -69,27 +80,27 @@ that _everyone_ can easily see!
 1. Please take a moment to ***read through the existing stories/issues***
 for the project <br />
 to familiarize yourself with the _current_ "***backlog***".
-(_there is a chance what you are thinking has **already** been **described**
+(_There is a chance what you are thinking has **already** been **described**
   by someone else..._)
 
 1. Try ***searching*** through the ***existing issues***
-for _keywords_ associated with the story/issue you want to create, <br />
-e.g:
-https://github.com/dwyl/time/issues?utf8=%E2%9C%93&q=is%3Aissue%20app+icon <br/>
-if `"app icon"` were the keywords for what you have in mind
+for _keywords_ associated with the story/issue you want to create. <br />
+For example, you could use
+https://github.com/dwyl/time/issues?utf8=%E2%9C%93&q=is%3Aissue%20app+icon
+if `"app"` and `"icon"` were the keywords for what you have in mind
 and you were searching in the "**Time**" project. <br />
 ![issue-matching-keyword-search](https://cloud.githubusercontent.com/assets/194400/22225715/852d9f78-e1bb-11e6-9d20-37492da92dc1.png)
 
-1. if you ***find*** an _existing_ issue that matches what you were looking for,
+1. If you ***find*** an _existing_ issue that matches what you were looking for,
 _please_ click on the title of the issue, ***read the description*** to
-confirm if it's what you are looking for, then ***comment*** on it
+confirm that it's what you are looking for, then ***comment*** on it
 so we know more than one person has the need/issue. <br />
-> _**Note**: if there is **already an issue** for what you were thinking,
+> _**Note**: If there is **already an issue** for what you were thinking,
 you can **skip** steps 2 & 3.
-as there's **no need** to create a **new issue**_.
+as there's **no need** to create a **duplicate new issue**_.
 ![issue-search-for-app-icon](https://cloud.githubusercontent.com/assets/24758860/22225508/993c7ecc-e1ba-11e6-8a53-e8d2ac398546.png)
 
-1. _Otherwise_, once you are (_reasonably_) sure there is
+1. _Otherwise_, once you are _reasonably_ sure there is
 no _existing_ question/issue/story covering what you have in mind,
 _please_ **create** a ***new issue*** (_see next step_!)
 
@@ -113,7 +124,7 @@ section in the "Notes" section below_!
 2. Once you _submit_ a new issue for a User Story or Question/Issue/Bug, a member
 of the team (_typically the Product Owner_) will ***review*** the issue.
 
-3. That's _it_ from the side of the _issue_ creator! (_thank you!_)
+3. That's _it_ from the side of the _issue_ creator! (_Thank you!_)
 
 ![thank-you-green-large](https://cloud.githubusercontent.com/assets/194400/22229077/5b0695ee-e1cd-11e6-9001-e5ff53afce36.jpg)
 
@@ -158,8 +169,8 @@ please make suggestions in issues! thanks!! -->
 
 This _may initially feel_ a bit "_bureaucratic_" but
 we _urge_ you _not_ to think of it as <br />
-["_jumping through hoops_"](https://en.wiktionary.org/wiki/jump_through_hoops)
-but _rather_, _we_ think of ***issue validation*** as:
+["_jumping through hoops_"](https://en.wiktionary.org/wiki/jump_through_hoops).
+_We_ think of ***issue validation*** as something that:
 
 + ***ensures*** that **everyone** on the project
 is ***aware*** of the issue/idea/story.
@@ -169,21 +180,21 @@ is ***aware*** of the issue/idea/story.
 has _detailed knowledge_ of the _current_ issue backlog
 and all _previous_ ("closed") issues. <br />
 They know _how_ features/functionality _should_ work and can
-validate from the _user's_ perspective. <br />
+validate things from the _user's_ perspective. <br />
 ***Most importantly*** the PO/PL ***knows*** if someone ***else***
-is ***already*** working on the issue ... <br />
+is ***already*** working on the issue... <br />
 And, _sometimes_ the _exact_ same issue has been "***solved before***"
 in a _different_ project, so ***hours/days*** of effort can be saved!!
 
 
 + ***someone else*** might have **insight** they can share on the issue! <br />
-> e.g: if you have a **question** or are stuck on a challenge/problem,
+> For example, if you have a **question** or are stuck on a challenge/problem,
 [_**share** your **thoughts** and/or **progress**
 towards "**solving**" it in **issue comments**_](https://github.com/dwyl/learn-nightwatch/issues/8#issuecomment-264734792)
 you _never_ know when you will get _insight_ from a ***complete stranger***!
 
 + ***capturing information in issues*** _maintains_ ***relevance and focus***.
-> the discussion is not "***lost***"
+> The discussion is not "***lost***"
 the way it would be in "_chat_"
 and discussion are grouped by relevant topic.
 
@@ -197,17 +208,18 @@ why and how something works the way it does!
 
 We ***aim*** to respond to new issues within _**minutes**_
 but during busy work days this can take up to ***a few hours***... <br />
-(_**thank you** for your **patience**!
-  **please** help us by giving as much useful information
+(_**Thank you** for your **patience**!
+  **Please** help us by giving as much useful information
   as possible in the issue description._)
+<br />
 
 <!-- Image removed so we can discuss an alternative ...
 see: https://github.com/dwyl/contributing/pull/63#pullrequestreview-18510563
 and https://github.com/dwyl/contributing/issues/62
 ![thinking-please-wait](https://cloud.githubusercontent.com/assets/194400/22228969/9add48f8-e1cc-11e6-8cdc-ef9b30eac846.jpg)
 -->
-
-### What can I do `while` I _wait_ for a my issue to be _Validated_?
+### What can I do `while` I _wait_ for a my issue to be _validated_?
+![what-to-do-while-waiting](https://cloud.githubusercontent.com/assets/194400/22229403/5a08474e-e1cf-11e6-8c1f-858f3a167315.jpg)
 
 + If you are ***itching*** to help "move the issue/story along"
 you can help by _describing_ how the story/issue _could_
@@ -221,8 +233,6 @@ the story/issue/bug has been ***verified***
 we simply don't want people "wasting time" or "duplicating effort"
 on un-verified issues...
 also there are **many** other ways you can help `while` you wait..._)
-
-![what-to-do-while-waiting](https://cloud.githubusercontent.com/assets/194400/22229403/5a08474e-e1cf-11e6-8c1f-858f3a167315.jpg)
 
 > To help us **a lot**: go on a treasure hunt for an issue <br />
 that _someone else_ created which has not had any comments ... <br />
@@ -239,11 +249,11 @@ If you are unable to assign your PR, simply mention the person by their username
 ### Is it a "_Bug_"?
 
 We also use GitHub issues to report "***unexpected behaviour***"
-(_sometimes referred to as a "**bug**"_) in an app or module,
-however we use the word "**issue**" to ***generically***
+(_sometimes referred to as a "**bug**"_) in an app or module.
+However, we use the word "**issue**" to ***generically***
 mean ***any*** thought/thing we want to ***record*** in the project
-and share with the team,
-and ***reserve*** the word "**bug**" for when a reported issue
+and share with the team.
+We ***reserve*** the word "**bug**" for a reported issue that
 has been ***verified*** as **not functioning** according to the
 ***expected behaviour*** in the ***user acceptance test*** described
 in the ***original user story***.
@@ -334,7 +344,7 @@ this gives _everyone_ in the team a **_clear_ picture** of what is ***planned***
 1. ***Assign*** the story/issue to yourself _before_ you start working.
 
 2. ***Apply*** the `in-progress` **label** to the story/issue/sub-task so
-  that your team knows when work started
+  that your team knows when the work was started
   and that it is ***currently*** being worked.
 
 3. ***Update*** the `README.md` ***before*** working on the task:
@@ -343,7 +353,7 @@ this gives _everyone_ in the team a **_clear_ picture** of what is ***planned***
   ["***Readme Driven Development***"](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
   i.e: you ***document*** your work
   ***before*** you write ***any code***. <br />
-  (_if this feels "tedious" to you, ask yourself
+  (_If this feels "tedious" to you, 
   remind yourself of the last time you
   "**inherited**" **undocumented code**..._) <br />
   **Watch**: ["**_The Mess_ We're In**" by Joe Armstrong](https://youtu.be/lKXe3HUG2l4?t=8m56s)
@@ -351,11 +361,11 @@ this gives _everyone_ in the team a **_clear_ picture** of what is ***planned***
 4. ***Log*** progress as
   [_comments in the issue_](https://github.com/dwyl/learn-nightwatch/issues/8)
   you are working on to keep everyone informed along
-  the way (**_this allows people to help you more effectively and gives
+  the way. (**_This allows people to help you more effectively and gives
     your team/client/stakeholders something measurable_**).
   + If you _haven't finished_ your current task by the end of the day,
   take **5 minutes** to **_describe_ the progress** you've made
-  and what else (_still_) needs to be done - _anyone_ should be able
+  and what else (_still_) needs to be done. _Anyone_ should be able
   to pick up and complete a user story by reading this description.
   + If you are leaving for more than a day,
   ***remove*** the `in-progress` **label**
@@ -368,7 +378,7 @@ this gives _everyone_ in the team a **_clear_ picture** of what is ***planned***
 6. Once you have _committed_ your work/progress, push up your changes
   and then open a Pull Request _(even if the work isn't yet finished)_ <br />
   so that the rest of your team can easily see what you've been working on.
-  (_remember ..._)
+  (_Remember ..._)
   + Add `[WiP]` before the title of your PR and add that it's
   **NOT READY FOR REVIEW** in the description if it's still in progress.
 
@@ -407,18 +417,18 @@ but ***dramatically improves*** the ***review process***. <br />
 [`awaiting-review` **label**](https://github.com/dwyl/labels/issues/49) to the PR.
 
 + ***Assign*** someone `else` to _review_ your PR. <br />
-(_please don't merge your own PRs we need to ensure every change
-has been reviewed by at least one other person on the team. thanks!_)
+(_Please don't merge your own PRs. We need to ensure every change
+has been reviewed by at least one other person on the team. Thanks!_)
 
 ### Step 4: _Reviewer(s): Review_, _Comment On_ and _Merge_ the Pull Request
 
 Always remember: a **Pull Requests** is a
-"_**discussion thread** for **understanding** the code_",
-our objective is to _ensure_ the code works, is well documented/tested
+"_**discussion thread** for **understanding** the code_".
+Our objective is to _ensure_ the code works, is well documented/tested
 and is "_free from errors_". We don't
 ["_nit pick_"](https://en.oxforddictionaries.com/definition/nitpicking)
 if it's going to delay shipping. Equally, where code requires _clarification_,
-tell people; ***everyone*** benefits from _easy-to-read_ (easy-to-understand) code.
+tell people. ***Everyone*** benefits from _easy-to-read_ (easy-to-understand) code.
 
 The person who is _assigned_ to review the PR
 (_often referred to as the **Quality Assurance Person** or "**QA**"_) will:
@@ -438,33 +448,33 @@ to check that the code has been "linted" and conforms to standard.
 1. ***Apply*** the
 [`in-review` **label**](https://github.com/dwyl/labels/issues/48)
 to the Pull Request to signal to other members of the team that the PR
-is being reviewed. (_at this point new commits which change large portions
+is being reviewed. (_At this point, new commits which change large portions
   of the code being reviewed should not be pushed unless
   they are for changes that have been requested by the reviewer_)
 
 1. ***Checkout*** the PR's _branch_ and run it on your local machine
-following the instructions in the `README.md` where applicable.
-> ***Confirm*** the tests pass and app runs on your local machine.
+following the instructions in the `README.md` file, where applicable.
+> ***Confirm*** the tests pass and the app runs on your local machine.
 
 1. ***Open the Issue(s)*** referenced in the Pull Request
 and re-acquaint yourself with the User Stories so you can
 ***confirm*** the content of the PR **satisfies** the ***Acceptance Criteria***.
 
-1. ***Review*** the _content_ (_documentation, tests or code_)
+1. ***Review*** the _content_ (_documentation, tests, or code_)
 in the Pull Request on GitHub...
 
 1. ***Write comments*** or notes to the developer(s)
 giving feedback on their code.
-> see: "notes on code reviews": https://github.com/dwyl/contributing/issues/32#issuecomment-271089111 [![Get Help!](https://img.shields.io/badge/help-wanted-brightgreen.svg?style=flat)](https://github.com/dwyl/contributing/issues)
+> See: "notes on code reviews": https://github.com/dwyl/contributing/issues/32#issuecomment-271089111 [![Get Help!](https://img.shields.io/badge/help-wanted-brightgreen.svg?style=flat)](https://github.com/dwyl/contributing/issues)
 
-  + ***If*** for _any reason_ you are ***unsatisfied*** with the _content_ of the
+  + ***If***, for _any reason_, you are ***unsatisfied*** with the _content_ of the
 pull request (_documentation, tests or code_), ***request changes***.
   + ***Don't be afraid*** to "_push back_" on a PR if the code is unclear,
 ***especially*** if the developer who's code you are reviewing is
-"_more experienced_" because they _might_ be making _assumptions_ that
+"_more experienced_", because they _might_ be making _assumptions_ that
 their code is "_self-documenting_"... <br />
 
-+ Once you are _satisfied_ that the content in the Pull Request,
++ Once you are _satisfied_ that the content in the Pull Request is acceptable,
 approve the pull request using GitHub's "_Review_" interface. <br />
 ![review-changes-submit](https://cloud.githubusercontent.com/assets/194400/22298017/f45fa20e-e316-11e6-8fd6-d9825f5ce682.png) <br />
 > We ***encourage peer-review*** by team-members on ***all*** our projects, <br />
@@ -474,11 +484,11 @@ e.g: https://github.com/TheScienceMuseum/collectionsonline/pull/708 <br />
 
 1. ***Merge the Pull Request***.
 
-1. ***Delete The Branch*** on GitHub (_and your local machine_)
-the code is now merged into another branch (_most likely `master`_)
+1. ***Delete The Branch*** on GitHub (_and your local machine_).
+The code is now merged into another branch (_most likely `master`_)
 so deleting the branch will not "_lose_" any code.
 
-1. ***Finally*** _someone_ on the team
+1. ***Finally***, _someone_ on the team
 (_usually the developer who created the PR_)
 applies the [`please-test` **label**](https://github.com/dwyl/labels/issues/46)
 to any issues mentioned in the PR so that the Product Owner and/or
@@ -486,7 +496,7 @@ User Testing Team are _aware_ that the feature is ready to test.
 
 2. ***Ideally*** the ***Original Issue Creator*** should post a comment
 confirming that the issue (User Story, Question or Problem) has been
-adequately address and then ***close the issue***.
+adequately addressed and then ***close the issue***.
 > In ***practice*** the PO often ends up closing the issue.
 
 <br /><br />
@@ -502,8 +512,8 @@ and improvements!
 
 ## _Example_ User-focused "Story" Descriptions
 
-_**User stories** describe features_ (_or "**expected behaviour**"
-of the application_) <br />
+_**User stories** describe features_ (_or "**expected behaviour**")
+of the application_ <br />
 in terms of the ***value***
 (_or "**benefit**"_) to the ***person using the application***.
 
@@ -513,9 +523,10 @@ in terms of the ***value***
   I want to be able to save a shortcut app icon to my home screen
   so that I can easily get back into the app without having to navigate to it.
   ```
-  or if you are reporting an issue/bug/fault try and include
+  
+  Or, when you are reporting an issue/bug/fault, try and include
   the exact steps to "_reproduce_" the issue. <br />
-  example:
+  Example:
   ```
   when using the app on an iPhone 6 running the latest OS (10.2)
   when I attempt to save a shortcut to my home screen,
@@ -524,18 +535,18 @@ in terms of the ***value***
 ### Include Any/All _Relevant_ Information in the _Issue Description_
 
 + Please *include* as much ***relevant information*** as you can
-so the Product Owner (_or project leader_) <br />
-can ***validate*** if
+so the Product Owner (_or project leader_)
+can ***validate*** that
 it is a **necessary/desired** feature.
 
 + **Note**: A _good_ user story _describes_ the idea
   in a _**concise** and **user-focused**_ way. <br />
 
 + ***Never*** leave the issue _description_ blank
-even when you are in a "rush" <br />
-the point of issues is to _communicate_,
-if you see an _incomplete_ issue flag it.
-(_link your friend to here...!_)<br />
+even when you are in a "rush". <br />
+The point of issues is to _communicate_.
+If you see an _incomplete_ issue flag it.
+(_Link your friend to here...!_)<br />
 You _wouldn't_ send a _blank email_
 to hundreds of your friends (_unless you wanted to freak them out!_), yet,<br />
 submitting ***blank issues*** is doing _exactly_ that!
@@ -547,23 +558,23 @@ Which was only _amusing_ the _first_ time ... _just_ ***communicate better***.
 Example of useful details:
 ```
 People using the app will only access the app from their company-issued
-Android (Lollipop) Mobile phone (5 inch Samsung Galaxy J)
-The screen resolution is 1080 x 1920 pixels
+Android (Lollipop) Mobile phone (5 inch Samsung Galaxy J).
+The screen resolution is 1080 x 1920 pixels.
 ```
-or describing a specific need for "_offline capability_"
+Or, when describing a specific need for "_offline capability_":
 ```
-People use the app in areas with poor mobile signal
+People use the app in areas with poor mobile signal,
 so the app has to work offline and sync data/changes later
 when they are back on WiFi or 3G.
 ```
-or for a when reporting an issue (_potential bug_):
+Or, when reporting an issue (_potential bug_):
 ```
 People using Windows 8 and Internet Explorer 10 report that
 they cannot click on the button to save their app preferences/settings.
 ```
 
-> ***Tip***: _if you **can upload** a_ ***sketch*** (_of the idea_) or
-***screenshot*** (_of the issue_), it helps _clarify_ a lot! <br />
+> ***Tip***: _If you **can upload** a_ ***sketch*** (_of the idea_) or
+***screenshot*** (_of the issue_), it helps _clarify_ things a lot! <br />
 > ***How to take screenshot***: http://www.take-a-screenshot.org
 (_all platforms_!)
 
@@ -581,8 +592,8 @@ with a ***clear description*** and **_illustrative_ screenshots**:
 
 Our time estimates are
 usually for a ***pair of people programming together***. <br />
-(_adjust accordingly if you're working without a pair.
-or, better yet, **find someone** to pair with!_)<br />
+(_Adjust accordingly if you're working without a pair.
+Or, better yet, **find someone** to pair with!_)<br />
 
 Where the team includes _several developers_ the time
 estimate will be the _average_ expected time <br />
@@ -624,7 +635,7 @@ on the project is _always aware_ of what you are doing.
 
 ## _Notes_ on Creating _Good_ Pull Requests
 
-### 1. Keep it Small and Simple
+### 1. Keep It Small and Simple (AKA the KISS principle)
 
 + Don't be _tempted_, to "_bundle_" up _several_ bug fixes/feature additions into
 one _large_ PR and then submit it to be reviewed all at once... <br />
@@ -632,9 +643,9 @@ We prefer working in _smaller increments_ splitting the work
 into individual parts to be reviewed separately. <br />
 > _Why_...? Read: "***Work in Small Batches***": <br /> http://www.startuplessonslearned.com/2009/02/work-in-small-batches.html
 
-+ The _best_ PRs **update the documentation** (often the repo's readme)
++ The _best_ PRs **update the documentation** (often the repo's README file)
 
-+ ***Always*** _ensure_ there are **tests** for any new code you have written.
++ ***Always*** _ensure_ there are **passing tests** for any new code you have written.
 
 ### 2. _Descriptive_ Pull Request Title and Description!
 
@@ -672,19 +683,19 @@ an **issue** https://github.com/indexzero/ps-tree/issues/10
 
 ### Use Cases for Creating a New Repo
 + You have search through dwyl's _existing_ repositories and have not found one
-that covers the subject that you want to **share your knowledge** on
+that covers the subject that you want to **share your knowledge** on.
 + You want to build a new open source application/module/tutorial that you
 believe is in line with dwyl's [values](https://github.com/dwyl/start-here/blob/master/manifesto.md)
-and will _benefit the community_
+and will _benefit the community_.
 
 ### How?
 1. **Open an issue** in [dwyl/start-here](https://github.com/dwyl/start-here)
-explaining the _Why?_ and _What?_ of the repo you want to create
-2. **Wait for the need to be validated** by the community - in the same way we
-operate with issues, it may be that someone is already working on something similar
-in a repo you haven't seen yet, or it may be something that dwyl has tried in
-the past but moved away from for a specific reason that you can be pointed to
-3. If the need if validated, **create the repo** following the _[requirements](#minimum-requirements-for-a-new-repository) below_.
+explaining the _Why?_ and _What?_ of the repo you want to create.
+2. **Wait for your issue to be validated** by the community - in the same way we
+handle other issues. It may be that someone is already working on something similar
+in a repo you haven't seen yet. Or, it may be something that dwyl tried in
+the past but moved away from.
+3. If the need is validated, **create the repo** following the _[requirements](#minimum-requirements-for-a-new-repository) below_.
 
 ### Minimum Requirements for a New Repository
 Everyone's busy and we know that sometimes repositories are created with great
@@ -703,8 +714,8 @@ and contributions from the open source community can begin early.
 + [ ] If relevant, add the right people/teams to the repo as collaborators
 
 ## Forking Repositories into dwyl
-Generally, forking a repository _into the dwyl organisation_ is **not required** or
-recommended without good reason as forks carry an additional maintenance burden
+Generally, forking a repository _into the dwyl organisation_ is **not required**, or
+recommended, without good reason as forks carry an additional maintenance burden
 and have issues _disabled_ by default (voiding our contributing process).
 The _only_ reason to do so is if you're planning to fix an issue in the original
 repo and **send a patch/PR back up-stream** to that original repo.
@@ -733,7 +744,7 @@ to _download_ many/huge files
 > It is a _general_ `git` "_best practice_" to avoid _clogging_ up your
 Git repo with files that don't need to be under version control.
 
-### Inspired By ...
+### Inspired By
 
 Guidelines for creating user stories are adapted from
 [Simon's](https://github.com/simonlab)
@@ -743,7 +754,7 @@ repo. Check it out! :heart:
 
 ### Labels
 
-GitHub can be a [_great_ project management tool]((https://github.com/dwyl/github-reference#why) if used _effectively_ and _labels_ are a great way to **organise** and **track** the progress of a
+GitHub can be a [_great_ project management tool](https://github.com/dwyl/github-reference#why) if used _effectively_ and _labels_ are a great way to **organise** and **track** the progress of a
 given project at any point in time.
 They are a fantastic **communication tool**, particularly for [remote teams](https://github.com/dwyl/remote).
 
@@ -753,7 +764,6 @@ to move between projects **quickly** and **productively**, saving time
 and energy in the process.
 > For our [**Complete List of Labels**](https://github.com/dwyl/labels/labels)
 and how they should be used, take a look at https://github.com/dwyl/labels.
-
 
 
 ## Additional Information
