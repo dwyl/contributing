@@ -575,7 +575,7 @@ they cannot click on the button to save their app preferences/settings.
 
 > ***Tip***: _If you **can upload** a_ ***sketch*** (_of the idea_) or
 ***screenshot*** (_of the issue_), it helps _clarify_ things a lot! <br />
-> ***How to take screenshot***: http://www.take-a-screenshot.org
+> ***How to take screenshot***: https://www.take-a-screenshot.org
 (_all platforms_!)
 
 Example creating a **New Issue** for an ***expected behaviour***
@@ -641,7 +641,7 @@ on the project is _always aware_ of what you are doing.
 one _large_ PR and then submit it to be reviewed all at once... <br />
 We prefer working in _smaller increments_ splitting the work
 into individual parts to be reviewed separately. <br />
-> _Why_...? Read: "***Work in Small Batches***": <br /> http://www.startuplessonslearned.com/2009/02/work-in-small-batches.html
+> _Why_...? Read: "***Work in Small Batches***": <br /> https://www.startuplessonslearned.com/2009/02/work-in-small-batches.html
 
 + The _best_ PRs **update the documentation** (often the repo's README file)
 
@@ -706,7 +706,7 @@ and contributions from the open source community can begin early.
 
 + [ ] Initiate the repo _with_ **a clear description**
 + [ ] Initiate the repo _with_ a README
-+ [ ] Add dwyl's standard labels by using http://label-sync.herokuapp.com
++ [ ] Add dwyl's standard labels by using https://label-sync.herokuapp.com
 + [ ] Add a [CONTRIBUTING.md](https://github.com/dwyl/contributing/blob/master/CONTRIBUTING.md) file to the repo
 + [ ] Update the README.md with simple 'Why?', 'What?' and 'How?' sections
 + [ ] [Protect the `master` branch](https://help.github.com/articles/about-protected-branches/)
@@ -785,4 +785,4 @@ _For **all other questions/ideas/issues, please follow** the **normal steps**_.
 ***Thanks***!
 <br /><br />
 
-[![HitCount](http://hits.dwyl.io/dwyl/contributing.svg)](http://hits.dwyl.io/dwyl/contributing)
+[![HitCount](https://hits.dwyl.io/dwyl/contributing.svg)](https://hits.dwyl.io/dwyl/contributing)
