@@ -11,7 +11,7 @@
 > ~ Martin Fowler
 - - -
 
-![code quality cartoon](http://i.imgur.com/IC3cJde.png "code quality cartoon")
+![code quality cartoon](https://i.imgur.com/IC3cJde.png "code quality cartoon")
 
 Our goal is *zero* surprises ("WTF" moments) during code review.
 
@@ -26,7 +26,7 @@ Coders is on learning to *write* code, as a coder you will spend *considerably* 
 
 In many cases the **cost** of ***maintaining*** **software** ***can vastly exceed*** the **initial cost** of **development**.
 
-![Software Life-Cycle Costs](http://i.imgur.com/ehEmfA1.jpg)
+![Software Life-Cycle Costs](https://i.imgur.com/ehEmfA1.jpg)
 
 Granted, this diagram refers to the "old" ("waterfall") way of writing software, the amount of time spent maintaining code still often exceeds
 the time spent initially developing it using a modern "agile" methodology. As such learning to read code is at least as important as learning to write it.
@@ -81,7 +81,7 @@ If you (*think* you) know a "better way" of solving a problem, phrase the issue 
 
 If you are referring to a section of code, provide a full link to the line(s) including the branch/commit id. e.g: https://github.com/foundersandcoders/beekeeper/blob/e92ef2d3625ea5e5f7cf29e7daa11c86fa3741bd/test/auth.test.js#L20
 
-Tip: if you want to keep links short, use http://git.io/
+Tip: if you want to keep links short, use https://git.io/
 
 If you are reviewing a Pull Request add line-comments: https://help.github.com/articles/commenting-on-the-diff-of-a-pull-request/ so that your feedback is contextual.  
 
@@ -100,7 +100,7 @@ If you are reviewing a Pull Request add line-comments: https://help.github.com/a
 + Does all the code pass "lint" checker? (see: [jshint](https://github.com/docdis/learn-jshint));
 + Is the file/project structure clear?
 + Are any of the **files** ***too long*** (~200+ lines);  
-+ Is the code  "[***DRY***](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself)"
++ Is the code  "[***DRY***](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)"
 (*i.e: limited repitition*)
 + Could the code be more modular?
 + Are any functions poorly/confusingly named?
@@ -119,7 +119,7 @@ If you are reviewing a Pull Request add line-comments: https://help.github.com/a
 ## Background Reading
 
 + Is code for computers or humans?
-http://stackoverflow.com/questions/522828/is-code-for-computers-or-for-people
+https://stackoverflow.com/questions/522828/is-code-for-computers-or-for-people
 + Writing code for humans:  https://medium.com/@ilyothehorrid/writing-code-for-humans-5b80a89f439c
 + ***Maintainable*** JavaScript:
 https://github.com/jasonzhuang/tech_books/blob/master/js/Oreilly.Maintainable.JavaScript.May.2012.pdf
@@ -128,12 +128,12 @@ https://github.com/iteles/Javascript-the-Good-Parts-notes
 + Writing code for humans:
 https://medium.com/@ilyothehorrid/writing-code-for-humans-5b80a89f439c
 + Curly's Law: Do One Thing:
-http://blog.codinghorror.com/curlys-law-do-one-thing/
-+ Write/Read-only Code: http://en.wikipedia.org/wiki/Write-only_language
+https://blog.codinghorror.com/curlys-law-do-one-thing/
++ Write/Read-only Code: https://en.wikipedia.org/wiki/Write-only_language
 + Spaghetti Code:
-http://en.wikipedia.org/wiki/Spaghetti_code
+https://en.wikipedia.org/wiki/Spaghetti_code
 + Code Refactoring:
-http://en.wikipedia.org/wiki/Code_refactoring
+https://en.wikipedia.org/wiki/Code_refactoring
 + How To Write Unmaintainable Code (*ensuring job security*):
 https://thc.org/root/phun/unmaintain.html  
 (*this is informative not instructional*...)
