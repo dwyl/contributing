@@ -29,7 +29,9 @@ or if you have _**a suggestion** for how to **simplify/streamline**_ it!
 [![Get Help!](https://img.shields.io/badge/get-help-brightgreen.svg?style=flat)](https://github.com/dwyl/contributing/issues)
 
 # Contents Guide
-+ **[Part 1](https://github.com/dwyl/contributing#part-1-describe-your-question-the-idea-or-user-story-in-an-issue): _Describe_ your Question, the Idea or User Story in an Issue**
+
++ **[Part 1](https://github.com/dwyl/contributing#part-1-describe-your-question-the-idea-or-user-story-in-an-issue):
+  _Describe_ your Question, the Idea or User Story in an Issue**
   + [Step 1 Check if the issue already exists](https://github.com/dwyl/contributing#step-1-check-if-the-questionideastoryissue-already-exists-using-github-search-)
   + [Step 2: Create a new user story or report an issue](https://github.com/dwyl/contributing#step-2-create-a-new-user-story-or-report-an-issue-)
   + [Step 3: Submit the new issue and wait for validation](https://github.com/dwyl/contributing#step-3-submit-the-new-issue)
@@ -58,6 +60,7 @@ or if you have _**a suggestion** for how to **simplify/streamline**_ it!
   + [Minimum Requirements for a New Repository](#minimum-requirements-for-a-new-repository)
 + [Forking Repositories](#forking-repositories-into-dwyl)
 + [General Notes](https://github.com/dwyl/contributing#general-notes)
+
 <br/>
 
 # Part 1: _Describe_ your Question, the Idea or User Story in an Issue
@@ -780,9 +783,9 @@ on GitHub if you require clarification!
 If you have a [***security/privacy***](https://github.com/dwyl/learn-security)
 _related question_ that you want to ask or ***disclose discreetly***, <br />
 **_please_ email** us:
-[**hello+security@dwyl.io**](mailto:hello+security@dwyl.io) <br />
+[**hello+security@dwyl.com**](mailto:hello+security@dwyl.com) <br />
 _For **all other questions/ideas/issues, please follow** the **normal steps**_.
 ***Thanks***!
 <br /><br />
 
-[![HitCount](https://hits.dwyl.io/dwyl/contributing.svg)](https://hits.dwyl.io/dwyl/contributing)
+[![HitCount](https://hits.dwyl.com/dwyl/contributing.svg)](https://hits.dwyl.com/dwyl/contributing)
